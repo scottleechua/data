@@ -1,5 +1,5 @@
 # spam and marketing SMS
-*last updated: 13 Feb 2024*
+*last updated: 14 Feb 2024 (n=3,324)*
 
 Every text message I personally received since September 29, 2022, timestamped and tagged with its category.
 
@@ -33,8 +33,6 @@ Each message is assigned one of the following categories:
 5. `OTP` — genuine one-time passwords.
 
 ## data dictionary
-
-Dimensions: 3,083 rows x 5 columns.
 
 One row corresponds to one SMS.
 
