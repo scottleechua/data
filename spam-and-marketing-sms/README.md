@@ -28,7 +28,7 @@ Each message is assigned one of the following categories:
 
 1. `spam` — unsolicited messages from unknown senders.
 2. `ads` — marketing messages from known businesses or services, such as GCash and Smart.
-3. `gov` — public service announcements from government agencies, such as [NTC](https://ntc.gov.ph/) and [NDRRMC](https://ndrrmc.gov.ph/).
+3. `gov` — public service announcements from Philippine government agencies, such as [NTC](https://ntc.gov.ph/) and [NDRRMC](https://ndrrmc.gov.ph/).
 4. `notifs` — a catch-all category for legitimate and private messages, such as transaction confirmations, delivery updates, and a handful of personal conversations.
 5. `OTP` — genuine one-time passwords.
 
