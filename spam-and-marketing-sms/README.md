@@ -1,5 +1,5 @@
 # spam and marketing SMS
-*last updated: 14 Feb 2024 (n=3,324)*
+*last updated: 27 Feb 2024 (n=3,464)*
 
 Every text message I personally received since September 29, 2022, timestamped and tagged with its category.
 
