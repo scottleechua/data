@@ -1,4 +1,804 @@
 date-received,date-read,sender,category,text
+2024-06-08 11:03:02,2024-06-08 11:10:20,SMART,notifs,<REDACTED>
+2024-06-11 13:57:55,2024-06-11 13:57:58,SMART,OTP,<REDACTED>
+2024-06-11 13:58:53,2024-06-11 13:59:11,SMART,notifs,<REDACTED>
+2024-06-11 13:58:53,2024-06-11 13:59:11,SMART,notifs,<REDACTED>
+2024-06-11 13:58:53,2024-06-11 13:59:11,SMART,notifs,<REDACTED>
+2024-06-11 13:58:54,2024-06-11 13:59:11,SMART,notifs,<REDACTED>
+2024-06-11 15:02:02,2024-06-11 15:02:07,SMART,notifs,<REDACTED>
+2024-06-13 15:13:24,2024-06-13 15:13:38,SMART,notifs,<REDACTED>
+2024-06-13 15:14:09,2024-06-13 15:14:13,SMART,notifs,<REDACTED>
+2024-06-13 15:23:26,2024-06-13 15:23:41,SMART,notifs,<REDACTED>
+2024-06-16 10:20:34,2024-06-16 10:28:38,SMART,notifs,<REDACTED>
+2024-06-16 20:32:24,2024-06-16 20:37:47,SMART,notifs,<REDACTED>
+2024-06-23 15:15:07,2024-06-23 16:20:43,SMART,notifs,<REDACTED>
+2024-07-19 15:37:00,2024-07-19 15:37:10,SMART,notifs,<REDACTED>
+2024-08-01 00:25:44,2024-08-01 08:43:39,SMART,notifs,<REDACTED>
+2024-08-01 21:31:35,2024-08-01 21:32:55,SMART,notifs,<REDACTED>
+2024-08-08 10:40:33,2024-08-08 10:50:44,SMART,notifs,<REDACTED>
+2024-08-10 16:11:39,2024-08-10 16:11:41,SMART,OTP,<REDACTED>
+2024-08-10 16:12:28,2024-08-10 16:12:46,SMART,notifs,<REDACTED>
+2024-08-10 16:14:13,2024-08-10 16:14:48,SMART,notifs,<REDACTED>
+2024-08-10 16:15:12,2024-08-10 16:25:30,SMART,notifs,<REDACTED>
+2024-08-10 16:15:12,2024-08-10 16:25:30,SMART,notifs,<REDACTED>
+2024-08-10 16:15:12,2024-08-10 16:25:30,SMART,notifs,<REDACTED>
+2024-08-14 03:04:11,2024-08-14 03:04:45,SMART,notifs,<REDACTED>
+2024-08-14 03:05:46,2024-08-14 03:06:21,SMART,notifs,<REDACTED>
+2024-08-14 03:14:28,2024-08-14 03:22:06,SMART,notifs,<REDACTED>
+2024-08-14 19:02:02,2024-08-14 19:13:08,SMART,notifs,<REDACTED>
+2024-08-14 19:12:05,2024-08-14 19:13:08,SMART,notifs,<REDACTED>
+2024-08-16 20:05:58,2024-08-16 20:16:37,SMART,notifs,<REDACTED>
+2024-08-16 20:16:00,2024-08-16 20:16:37,SMART,notifs,<REDACTED>
+2024-08-18 06:16:36,2024-08-18 06:23:39,SMART,notifs,<REDACTED>
+2024-08-18 08:03:18,2024-08-18 13:42:50,SMART,notifs,<REDACTED>
+2024-08-20 18:42:59,2024-08-20 18:43:01,SMART,notifs,<REDACTED>
+2024-08-20 18:43:01,2024-08-20 18:43:01,SMART,notifs,<REDACTED>
+2024-08-20 18:53:01,2024-08-20 18:55:49,SMART,notifs,<REDACTED>
+2024-08-20 21:55:38,2024-08-20 22:08:11,SMART,OTP,<REDACTED>
+2024-08-20 21:55:39,2024-08-20 22:08:11,SMART,OTP,<REDACTED>
+2024-08-20 22:54:13,2024-08-20 22:54:18,SMART,OTP,<REDACTED>
+2024-08-21 20:30:26,2024-08-21 20:32:09,SMART,notifs,<REDACTED>
+2024-08-22 15:34:56,2024-08-22 15:37:21,SMART,notifs,<REDACTED>
+2024-08-22 17:58:45,2024-08-22 18:03:56,SMART,notifs,<REDACTED>
+2024-08-22 20:31:58,2024-08-22 20:46:21,SMART,notifs,<REDACTED>
+2024-08-23 10:53:39,2024-08-23 14:31:59,SMART,notifs,<REDACTED>
+2024-08-31 04:49:32,2024-08-31 04:49:47,SMART,notifs,<REDACTED>
+2024-08-31 04:59:10,2024-08-31 04:59:22,SMART,notifs,<REDACTED>
+2024-08-31 16:11:10,2024-08-31 16:12:29,SMART,notifs,<REDACTED>
+2024-09-01 00:10:17,2024-09-01 15:33:23,SMART,ads, Travelling soon? Stay connected across multiple destinations by Pre-booking a GigaRoam data pack. Visit SMRT.PH/GigaRoam
+2024-09-01 00:10:18,2024-09-01 15:33:23,SMART,notifs,<REDACTED>
+2024-09-01 19:26:09,2024-09-01 19:26:16,SMART,OTP,<REDACTED>
+2024-09-02 17:17:21,,SMART,notifs,<REDACTED>
+2024-06-11 11:36:00,2024-06-11 11:36:01,UnionBank,OTP,<REDACTED>
+2024-06-11 11:36:11,2024-06-11 11:36:54,UnionBank,notifs,<REDACTED>
+2024-06-23 18:39:30,2024-06-23 18:39:31,UnionBank,OTP,<REDACTED>
+2024-06-23 18:40:16,2024-06-23 18:40:17,UnionBank,OTP,<REDACTED>
+2024-06-23 18:40:24,2024-06-23 18:46:28,UnionBank,notifs,<REDACTED>
+2024-07-20 11:02:32,2024-07-20 11:02:33,UnionBank,OTP,<REDACTED>
+2024-07-20 11:03:44,2024-07-20 11:05:01,UnionBank,notifs,<REDACTED>
+2024-07-22 16:00:50,2024-07-22 16:00:52,UnionBank,OTP,<REDACTED>
+2024-07-22 16:01:17,2024-07-22 16:01:20,UnionBank,OTP,<REDACTED>
+2024-07-22 16:01:26,2024-07-22 16:03:06,UnionBank,notifs,<REDACTED>
+2024-07-22 19:02:44,2024-07-22 19:02:47,UnionBank,OTP,<REDACTED>
+2024-07-22 19:02:53,2024-07-22 19:20:34,UnionBank,notifs,<REDACTED>
+2024-07-27 13:03:11,2024-07-27 13:03:13,UnionBank,OTP,<REDACTED>
+2024-07-27 13:03:30,2024-07-27 13:04:09,UnionBank,notifs,<REDACTED>
+2024-08-05 07:50:53,2024-08-05 07:50:57,UnionBank,OTP,<REDACTED>
+2024-08-05 07:51:03,2024-08-05 07:51:15,UnionBank,notifs,<REDACTED>
+2024-09-02 14:00:49,2024-09-02 14:00:51,UnionBank,OTP,<REDACTED>
+2024-09-02 14:00:58,2024-09-02 14:02:15,UnionBank,notifs,<REDACTED>
+2024-06-07 12:15:28,2024-06-07 12:19:45,BDO Deals,ads,"Get up to P1500 IKEA Gift Card with a P15K BUY NOW, PAY LATER spend at IKEA Pasay City or online with your BDO Credit Card.
+
+Plus, enjoy 0% interest with min. spend:
+P10K for 3-month term
+P20K for up to 6-month term
+
+Promo runs from Jun 8 - Jul 31, 2024. Visit BDO website & search IKEA for T&Cs. DTI194775"
+2024-06-07 13:53:33,2024-06-07 13:56:39,BDO Deals,ads,<REDACTED>
+2024-06-07 16:33:15,2024-06-07 16:34:42,BDO Deals,ads,<REDACTED>
+2024-06-10 09:58:13,2024-06-10 10:01:08,BDO Deals,ads,"UP TO P7,500 CASHBACK!
+
+Spend ANYWHERE w/ your BDO Mastercard Credit Card & reach cumulative spend of:
+P250K=P7.5K Cashback
+P100K=P3K Cashback
+P30K=P1K Cashback
+Min of P1K per transaction
+
+To join, enroll your Promo ID 432A4649AA
+Promo runs til 07/31/24
+Search Spend Anywhere on BDO site for TCs. DTI191857"
+2024-06-14 08:41:36,2024-06-14 08:42:20,BDO Deals,ads,"Up to P500 OFF on Lazada Payday w/ BDO Credit Cards on Jun 15/30 & Jul 15/30, '24. Collect voucher w/ min P5K/P3K spend. Search Lazada on the BDO site DTI195465"
+2024-06-14 10:08:48,2024-06-14 11:06:10,BDO Deals,ads,"Up to 62% OFF on steak menu set at Melo's Steakhouse w/ your BDO Card until 08/31.
+
+Search Melo's on BDO site for T&C.DTI184033
+To stop msgs,txt STOP to 225678"
+2024-06-14 10:54:09,2024-06-14 11:06:10,BDO Deals,ads,"Up to 62% OFF on steak menu set at Mgyuu Steaks w/ your BDO Card until 8/31/24.
+
+Search Mgyuu on BDO website for T&C. DTI184033
+To stop msgs,txt STOP to 225678"
+2024-06-14 12:02:20,2024-06-14 12:12:14,BDO Deals,ads,"Usher in a New Era of Samsung AI TV at the Neo QLED 8K VIP Event at SM Appliance Center, Megamall from June 14-16, 2024.
+
+BUY NOW, PAY LATER at 0% interest up to 24 months term plus, get exclusive premium deals with your BDO Credit Card!
+
+Visit BDO website & search SM Appliance Center for T&Cs. DTI105012"
+2024-06-18 08:56:41,2024-06-18 09:11:36,BDO Deals,ads,"Enjoy 50% OFF at Shakey's with your BDO Credit Card! 
+Valid for 2.5K min spend, Mon-Fri from 06/18 - 07/31/24.
+
+Search Shakey's on BDO website for T&C.DTI195367"
+2024-06-18 09:42:22,2024-06-18 09:46:11,BDO Deals,ads,"Get CASH from your BDO Credit Card! Avail up to P873,000 & pay P40,304.67/mo. for 24 months at 0.45% monthly add-on rate.
+
+Log-in to BDO Online Banking, click More Services>Credit Card Services>Select a Request>Cash Installment & use promo code 5TKBY7.
+
+Offer is until 07/31/24.
+
+Availment, amount & rate are subject to BDO approval.
+
+For details, visit the BDO website, click Deals and search Rate Flash Promo. Terms & Conditions and fees apply. DTI191731"
+2024-06-18 11:55:18,2024-06-18 11:56:27,BDO Deals,ads,"Continue to book exclusive fares at The Great BDO Travel Sale-Manila w/ BDO Cards via online, hotline or ticket office from JAL, Emirates, EVA Air, Turkish Airlines, Asiana Airlines, Etihad, Starlux & more-USD270 (Economy) & USD780 (Business) to Japan, USD404 (Economy) & USD2,850 (Business) to USA, USD700 (Economy) & USD2,298 (Business) to Europe. Promo til 6/23/24, unless specified. Search The Great BDO Travel Sale-Manila on BDO site for T&Cs. DTI194461"
+2024-06-19 08:38:15,2024-06-19 08:45:45,BDO Deals,ads,<REDACTED>
+2024-06-20 11:09:14,2024-06-20 11:10:11,BDO Deals,ads,<REDACTED>
+2024-06-24 11:12:02,2024-06-24 11:29:46,BDO Deals,ads,<REDACTED>
+2024-06-24 15:35:31,2024-06-24 15:36:39,BDO Deals,ads,"BUY NOW, PAY LATER at 0% interest for up to 24 months at Silicon Valley with your BDO Credit Card! Plus, grab a 3-in-1 charging cable, deskpad, or 10K mAh powerbank with a minimum spend. Offer ends on 7/15/24. Visit BDO website, click Deals & search 'Silicon Valley' for T&Cs. DTI190584"
+2024-06-26 11:23:57,2024-06-26 11:48:40,BDO Deals,ads,"Up to 20% OFF on shipping fees at Jinio w/ BDO Cards! Use code BDODEALSNEW or BDODEALS til 12/31. For T&C, search Jinio on the BDO site. DTI193065"
+2024-06-27 10:30:10,2024-06-27 10:31:03,BDO Deals,ads,"Up to 35% OFF on Agoda, Big Sky Nation, Klook & Trip .com w/ BDO Cards til 12/31/24. For TC > Online Deals at BDO site. DTI183714/192907/195420/194959/190641"
+2024-07-24 10:33:47,2024-07-24 11:58:21,BDO Deals,ads,"Get up to 15% OFF when you shop online at www. changi. me/ bdo with your BDO Credit or Debit Card. Use promo code: BDODEALS15, maximum discount of SGD50. Promo runs until 08/31/2024. Search Experience Singapore with iShopChangi and BDO Cards on the BDO website for T&Cs. DTI175865"
+2024-07-25 15:16:55,2024-07-25 15:28:08,BDO Deals,ads,"Gear up for a tech upgrade with BUY NOW, PAY LATER at 0% interest w/ your BDO Credit Card! Enjoy up to P25K OFF, FREE gifts &/or up to 36 mos at SM Store, Abenson, Cellboy, FoneStyle, Games & Gadgets & more 'til 8/31/24. For full offers, merchants & T&Cs, visit BDO website, Deals, search Gadgets DTI193904"
+2024-07-26 13:28:33,2024-07-26 13:35:04,BDO Deals,ads,<REDACTED>
+2024-08-01 11:08:49,2024-08-01 11:12:52,BDO Deals,ads,<REDACTED>
+2024-08-01 16:06:36,2024-08-01 16:34:37,BDO Deals,ads,<REDACTED>
+2024-08-02 08:38:32,2024-08-02 09:46:55,BDO Deals,ads,"BUY NOW, PAY LATER on online purchases w/ your BDO Credit Card! Enjoy 0% interest at Abenson, IKEA, Dyson, SM Appliance Center, Our Home, Western Appliances & more until 12/31/2024.
+
+Visit BDO Website & search Shop Online for the complete list of online partners. DTI182961 To stop msgs, txt STOP to 225678"
+2024-08-02 09:34:31,2024-08-02 09:46:55,BDO Deals,ads,"Enjoy 50% OFF on lunch and dinner buffet at Vikings, NIU, The Alley, Tong Yang, and Four Seasons w/ your BDO Credit Card!
+
+Offer is valid for a min. of 5 and max. of 10 full paying adults. 
+
+Promo runs Mon. - Fri. until Aug. 30, 2024. Call 8845-4647 to reserve.
+
+T&Cs apply. DTI196537"
+2024-08-02 13:08:30,2024-08-02 13:19:46,BDO Deals,ads,"Book your flights from Manila w/ Korean Air via online or ticket office using your BDO Cards as low as USD270 (Economy) & USD909 (Business) to Korea, USD657 (Economy) & USD3,420 (Business) to USA & USD1,080 (Economy) & USD3,600 (Business) to Europe. Enjoy FLY NOW, PAY LATER at 0% interest on 3 mos. term w/ BDO Credit Card when you book at the ticket office. Promo til 8/14/24. Search Korean Air Flash Sale on BDO website for T&Cs. CAB19770726s2024&DTI182961"
+2024-08-06 10:35:17,2024-08-06 11:03:17,BDO Deals,ads,<REDACTED>
+2024-08-07 09:42:51,2024-08-07 09:46:48,BDO Deals,ads,"Up to P500 Cashback on Shopee 8.8 Sale w/ BDO Credit Cards! To join, enroll your Promo ID 432A4649AA until 8/9. For T&C, search Shopee on the BDO site.DTI199189"
+2024-08-07 11:42:03,2024-08-07 11:50:34,BDO Deals,ads,"Discover timeless style with a modern twist at Tory Burch and get a complimentary tote bag upon full-priced purchase of P35K on Aug 1 - 15. BUY NOW, PAY LATER at 0% interest up to 9 months w/ your BDO Credit Card. Promo runs til Aug 31, 2024. Visit BDO Website, Deals, search Tory Burch for T&Cs. DTI195871"
+2024-08-08 14:30:00,2024-08-08 14:31:29,BDO Deals,ads,"Shop at your favorite online stores overseas and save up to USD 25 OFF on air shipments at ShippingCart with BDO Cards!
+
+Existing Users: USD 25 OFF using code BDODEALS
+New Users: 15% OFF using code BDODEALSNEW
+
+For T&C, search ShippingCart on the BDO site. DTI193178
+
+To stop msgs,txt STOP to 225678"
+2024-08-09 10:53:47,2024-08-09 11:12:37,BDO Deals,ads,"Get up to 30% OFF on hotel stays with your BDO Mastercard.
+
+-Up to 30% OFF on Booking .com
+-10% OFF on Agoda
+-MASTERPH7:Up to 7% OFF on Expedia
+-MCPH7:Up to 7% OFF on Hotels .com
+
+Booking and stay period vary per merchant.
+
+Search Hotel Stays at BDO website for TCs. DTI185919/193672/194415/189966"
+2024-08-09 11:10:55,2024-08-09 11:12:37,BDO Deals,ads,"Get CASH up to P895,000 from your BDO Credit Card! Pay P41,320.37/mo for 24mos at 0.45% monthly add-on rate. Plus, pay up to 2mos later!
+
+Log-on to BDO Personal Online Banking website, click More Services>Card Services>Cash Installment & use promo code 6ZSTR4 or call (02) 8667-1680.
+
+Valid until 10/31/2024.
+
+Availment, amt & rate are subject to BDO approval.
+
+For details, visit BDO website, click Deals & search Rate Flash. T&Cs & fees apply. DTI197461"
+2024-08-12 08:37:46,2024-08-12 08:39:21,BDO Deals,ads,<REDACTED>
+2024-08-12 09:41:58,2024-08-12 09:48:07,BDO Deals,ads,"Pay tuition in installments with your BDO Credit Card at 0% interest at Enderun Colleges, John Robert Powers, The Meridian or 0.70% add-on rate/mo up to 36 mos at Everest Academy, ICA Greenhills, Miriam College, Xavier School & more until Dec. 31, 2024. Visit BDO website, search Tuition for T&Cs DTI183620"
+2024-08-12 11:37:55,2024-08-12 11:49:57,BDO Deals,ads,"40% OFF at Conti's w/ your BDO Credit Card
+- Min dine-in bill of P3,000
+- Max P2,000 OFF
+- Mon-Fri, fr 7/15 - 8/30/24
+Search Contis on BDO web for T&C.DTI197259"
+2024-08-12 16:03:35,2024-08-12 16:04:55,BDO Deals,ads,"Up to 50% OFF + EXTRA 10% OFF at SPORT b. with your BDO Credit Card until 9/30/24!
+
+Search SPORT b on BDO web for T&C.DTI199253
+To stop msgs,txt STOP to 225678"
+2024-08-13 11:11:25,2024-08-13 11:29:21,BDO Deals,ads,"Get 5% or up to P3,000 Rebate on Supermarket spend using your BDO Mastercard. Valid for a minimum cumulative spend of P20K from Aug 15 - Sept 15, 2024. Enroll NOW using your Promo ID 432A4649AA
+
+For T&Cs, search Supermarket Rebate on BDO Web. DTI199999."
+2024-08-13 14:11:25,2024-08-13 14:32:13,BDO Deals,ads,"Get CASH from your BDO Credit Card! Avail up to P895,000 & pay P41,320.37/mo. for 24mos at 0.45% monthly add-on rate.
+
+Log-in to BDO Personal Online Banking website, click More Services>Credit Card Services>Select a Request>Cash Installment & use promo code 6ZSTR4.
+
+Offer is until 10/31/2024.
+
+Availment, amount & rate are subject to BDO approval.
+
+For details, visit the BDO website, click Deals & search Rate Flash Promo. T&Cs & fees apply. DTI197461"
+2024-08-14 10:04:26,2024-08-14 10:05:43,BDO Deals,ads,"Get EXTRA P200 OFF on GrabFood w/ BDO Cards! Use code BDOPAYDAYS on P1,200 spend every payday until 9/30/24. Search GRABFOOD on the BDO site for T&C. DTI193031"
+2024-08-14 11:09:53,2024-08-14 11:11:21,BDO Deals,ads,<REDACTED>
+2024-08-15 09:16:37,2024-08-15 13:12:02,BDO Deals,ads,"Avail of exclusive fares fr. Clark via PAL, Emirates, Starlux, Qatar Airways, Sunlight Air & Airswift: USD322 (Economy) to USA, USD610 (Economy) to Europe, PHP1,785 (One-way) to Boracay & PHP1,105 (One-way) to Palawan w/ BDO Cards. Fares fr. Manila/Cebu are also available. Book ONLINE via www. bdo. com. ph/travel fr. 08/19 to 09/01/24. Travel Period varies per partner. Visit the BDO website, click Deals & search Clark Online Sale for T&Cs. DTI198517"
+2024-08-16 14:19:12,2024-08-16 14:25:58,BDO Deals,ads,"GrabFood 25% OFF
+FAST CHECKOUT
+-Add BDO Credit Card details
+-Use code BDODEALS w/ P750 min order til 10/15/24
+
+For T&C search GrabFood on BDO site. DTI200418"
+2024-08-21 10:08:08,2024-08-21 11:57:29,BDO Deals,ads,<REDACTED>
+2024-08-21 16:49:40,2024-08-21 16:49:59,BDO Deals,ads,<REDACTED>
+2024-08-21 17:34:02,2024-08-21 18:13:23,BDO Deals,ads,"Good news! Holiday Dining Deals just for you:
+
+Dine BETTER with BDO Credit Cards:
+- 50% OFF at Vikings Group (Aug 26)
+- 50% OFF at Pizza Hut (Aug 23/26)
+- 40% OFF at Conti's (Aug 23/26)
+
+Min spend & max discount vary per partner. For T&C, visit the BDO site. DTI200009,196537,197259"
+2024-09-02 10:02:43,2024-09-02 10:03:39,BDO Deals,ads,<REDACTED>
+2024-06-11 06:30:17,2024-06-11 08:21:41,GCash,ads,"Time to relive some fun memories! Sagot ng GGives ang reunion & big celebrations, 0 downpayment & no credit card needed. Mag-GGives na!"
+2024-06-12 15:24:09,2024-06-12 15:24:49,GCash,ads,"Mapuputulan na ng kuryente? Diskarte no more! May easy pantawid ka na sa bills kaya 'di na ipit 'pag gipit. Kaya today with GCredit, powered by CIMB!"
+2024-06-13 07:45:09,2024-06-13 07:57:47,GCash,ads,No worries kahit napadami ang laman ng cart mo! Choose GCredit as a payment method & pay later to enjoy shopping online using your instant credit line.
+2024-06-20 08:52:53,2024-06-20 08:52:55,GCash,OTP,<REDACTED>
+2024-06-20 08:53:50,2024-06-20 08:53:52,GCash,OTP,<REDACTED>
+2024-06-21 13:52:03,2024-06-21 13:52:17,GCash,ads,May paparating na offer sa'yo ngayong Jun 25 galing sa GGives. Abangan to level up your shopping experience!
+2024-06-24 17:48:37,2024-06-24 18:03:19,GCash,ads,Abangan bukas ang special limited-time offer para sa'yo! Itataas ang GGives credit limit mo para pwede ka na mag-checkout ng mas marami sa SHEIN! Proceed to payment with GCash & choose GGives for affordable installments. Offer from June 25-30 only.
+2024-06-26 09:32:25,2024-06-26 09:32:27,GCash,OTP,<REDACTED>
+2024-07-20 09:56:10,2024-07-20 09:56:13,GCash,OTP,<REDACTED>
+2024-07-20 09:57:05,2024-07-20 09:57:05,GCash,OTP,<REDACTED>
+2024-07-20 10:59:15,2024-07-20 11:00:44,GCash,notifs,<REDACTED>
+2024-07-20 11:02:51,2024-07-20 11:03:37,GCash,notifs,<REDACTED>
+2024-07-20 16:44:03,2024-07-20 16:44:10,GCash,notifs,<REDACTED>
+2024-07-21 07:19:06,2024-07-21 08:06:04,GCash,ads,"Satisfy your cravings even on a budget! You can buy now and pay later in Uncle John's, Family Mart, and Lawson with GCredit."
+2024-07-22 12:26:36,2024-07-22 12:26:49,GCash,notifs,<REDACTED>
+2024-07-23 13:17:26,2024-07-23 13:34:03,GCash,notifs,<REDACTED>
+2024-07-24 15:54:59,2024-07-24 15:55:01,GCash,OTP,<REDACTED>
+2024-07-24 16:04:13,2024-07-24 16:04:43,GCash,ads,Enjoy P300 off your next gadget purchase at Abenson using GGives! Shop a minimum spend of P15k and pay in easy installments with 0 downpayment. Promo runs from Jul 22-31.
+2024-07-25 05:46:12,2024-07-25 09:57:20,GCash,ads,"Uy, good news! Mas mura na magpalista ng load nang walang abala, now with as low as ₱10 processing fee! G pa sa isang game! Mag-Borrow Load na!"
+2024-07-26 16:15:05,2024-07-26 16:19:25,GCash,ads,"Ang paborito mong P50 load promos, pwede na i-Borrow Load! Mag-Borrow Load na!"
+2024-07-29 07:52:01,2024-07-29 07:53:44,GCash,ads,"Satisfy your cravings even on a budget! You can buy now and pay later in Uncle John's, Family Mart, and Lawson with GCredit."
+2024-07-29 16:32:44,2024-07-29 16:42:39,GCash,ads,Pwede na i-Borrow Load ang favorite P50 promos mo! Tap Load > Borrow to view all options. Mag-Borrow Load na!
+2024-07-30 10:24:48,2024-07-30 10:25:07,GCash,notifs,<REDACTED>
+2024-08-01 06:21:40,2024-08-01 08:43:35,GCash,ads,Madali ang biyahe ‘pag loaded ang RFID! Top up na para sa smooth travel & pay later with GCredit. Go to your GCash dashboard and tap GCredit to start using it.
+2024-08-01 11:31:31,2024-08-01 11:31:32,GCash,OTP,<REDACTED>
+2024-08-06 08:16:20,2024-08-06 08:28:34,GCash,ads,Go full tank even on a budget! Pay later at the nearest gas station with GCredit. Go to your GCash dashboard and tap GCredit to start using it.
+2024-08-06 08:45:12,2024-08-06 08:49:19,GCash,notifs,<REDACTED>
+2024-08-08 17:39:19,2024-08-08 17:40:29,GCash,notifs,<REDACTED>
+2024-08-12 23:22:03,2024-08-13 08:42:12,GCash,ads,"Oh no! May biglaang gastos? Sa GLoan Sakto, you can borrow instantly for as low as PHP 100. Tap Borrow > GLoan in the GCash app para makakuha ng GLoan Sakto!"
+2024-08-22 01:15:03,2024-08-22 01:15:05,GCash,OTP,<REDACTED>
+2024-08-22 01:16:18,2024-08-22 01:16:20,GCash,OTP,<REDACTED>
+2024-08-23 00:58:55,2024-08-23 00:58:57,GCash,OTP,<REDACTED>
+2024-08-23 01:03:58,2024-08-23 01:03:59,GCash,OTP,<REDACTED>
+2024-08-31 07:12:07,2024-08-31 07:12:24,GCash,ads,"G to travel with barkada! Pay for as low as PHP 2,070 per month with GGives. Book with zero down payment, no credit card needed, & up to 12 months to pay."
+2024-09-01 17:11:59,2024-09-01 17:12:26,GCash,notifs,<REDACTED>
+2024-06-20 16:11:06,2024-06-20 16:40:12,redacted_business,notifs,<REDACTED>
+2024-06-20 16:18:47,2024-06-20 16:40:12,redacted_business,notifs,<REDACTED>
+2024-06-25 09:48:19,2024-06-25 09:55:06,redacted_business,notifs,<REDACTED>
+2024-07-31 08:07:08,2024-07-31 08:53:03,redacted_business,notifs,<REDACTED>
+2024-08-05 12:59:06,2024-08-05 13:09:01,redacted_business,notifs,<REDACTED>
+2024-08-31 21:19:57,2024-08-31 21:21:53,redacted_business,notifs,<REDACTED>
+2024-06-14 13:03:51,2024-06-14 13:03:54,redacted_contact,notifs,<REDACTED>
+2024-06-14 16:56:37,2024-06-14 17:22:26,redacted_contact,notifs,<REDACTED>
+2024-06-14 17:24:12,2024-06-14 17:24:21,redacted_contact,notifs,<REDACTED>
+2024-06-14 17:24:36,2024-06-14 17:24:36,redacted_contact,notifs,<REDACTED>
+2024-08-31 17:37:51,2024-08-31 17:37:54,redacted_contact,notifs,<REDACTED>
+2024-08-31 04:48:45,2024-08-31 04:49:01,redacted_business,notifs,<REDACTED>
+2024-06-08 11:17:53,2024-06-08 11:17:56,redacted_business,notifs,<REDACTED>
+2024-06-09 08:50:46,2024-06-09 08:50:50,redacted_business,OTP,<REDACTED>
+2024-06-09 23:14:05,2024-06-10 08:23:54,redacted_business,notifs,<REDACTED>
+2024-06-10 14:40:18,2024-06-10 14:40:25,redacted_business,notifs,<REDACTED>
+2024-06-11 11:49:53,2024-06-11 11:49:55,redacted_business,OTP,<REDACTED>
+2024-06-11 14:13:05,2024-06-11 14:21:53,redacted_business,notifs,<REDACTED>
+2024-06-12 19:25:34,2024-06-12 19:30:13,redacted_business,notifs,<REDACTED>
+2024-06-13 10:42:25,2024-06-13 10:42:35,redacted_business,notifs,<REDACTED>
+2024-06-17 12:47:15,2024-06-17 12:52:12,redacted_business,notifs,<REDACTED>
+2024-06-18 09:27:31,2024-06-18 09:28:15,redacted_business,OTP,<REDACTED>
+2024-06-18 12:14:25,2024-06-18 12:17:31,redacted_business,notifs,<REDACTED>
+2024-06-18 15:57:43,2024-06-18 15:57:53,redacted_business,OTP,<REDACTED>
+2024-06-18 16:05:16,2024-06-18 16:05:16,redacted_business,notifs,<REDACTED>
+2024-06-21 19:11:10,2024-06-21 19:11:14,redacted_business,notifs,<REDACTED>
+2024-06-22 08:58:30,2024-06-22 08:58:32,redacted_business,notifs,<REDACTED>
+2024-06-23 12:47:26,2024-06-23 12:48:00,redacted_business,notifs,<REDACTED>
+2024-06-23 17:34:18,2024-06-23 17:34:25,redacted_business,notifs,<REDACTED>
+2024-06-26 09:15:20,2024-06-26 09:18:46,redacted_business,notifs,<REDACTED>
+2024-06-26 09:43:19,2024-06-26 09:44:23,redacted_business,notifs,<REDACTED>
+2024-06-26 09:47:56,2024-06-26 09:48:02,redacted_business,notifs,<REDACTED>
+2024-06-26 11:08:52,2024-06-26 11:09:06,redacted_business,notifs,<REDACTED>
+2024-06-26 18:58:06,2024-06-26 18:58:09,redacted_business,OTP,<REDACTED>
+2024-06-26 19:00:35,2024-06-26 19:00:37,redacted_business,OTP,<REDACTED>
+2024-06-26 19:01:57,2024-06-26 19:01:57,redacted_business,OTP,<REDACTED>
+2024-07-20 11:01:40,2024-07-20 11:01:56,redacted_business,OTP,<REDACTED>
+2024-07-21 08:24:10,2024-07-21 08:25:20,redacted_business,OTP,<REDACTED>
+2024-07-22 09:18:16,2024-07-22 09:27:27,redacted_business,notifs,<REDACTED>
+2024-07-25 10:52:49,2024-07-25 10:53:17,redacted_business,notifs,<REDACTED>
+2024-07-26 09:37:46,2024-07-26 09:52:32,redacted_business,notifs,<REDACTED>
+2024-07-28 18:27:48,2024-07-28 18:30:35,redacted_business,notifs,<REDACTED>
+2024-07-28 22:33:42,2024-07-28 23:04:08,redacted_business,notifs,<REDACTED>
+2024-07-29 16:19:32,2024-07-29 16:19:34,redacted_business,OTP,<REDACTED>
+2024-07-29 16:28:25,2024-07-29 16:30:11,redacted_business,notifs,<REDACTED>
+2024-08-01 00:42:21,2024-08-01 08:43:37,redacted_business,notifs,<REDACTED>
+2024-08-03 18:31:59,2024-08-03 18:49:30,redacted_business,notifs,<REDACTED>
+2024-08-07 07:15:31,2024-08-07 08:55:39,redacted_business,notifs,<REDACTED>
+2024-08-07 07:15:59,2024-08-07 08:55:39,redacted_business,notifs,<REDACTED>
+2024-08-07 17:57:27,2024-08-07 17:57:29,redacted_business,OTP,<REDACTED>
+2024-08-07 18:04:51,2024-08-07 18:05:39,redacted_business,notifs,<REDACTED>
+2024-08-07 20:07:10,2024-08-07 20:07:12,redacted_business,OTP,<REDACTED>
+2024-08-07 20:15:40,2024-08-07 20:17:53,redacted_business,notifs,<REDACTED>
+2024-08-09 07:57:41,2024-08-09 08:16:14,redacted_business,notifs,<REDACTED>
+2024-08-09 16:04:48,2024-08-09 16:11:46,redacted_business,notifs,<REDACTED>
+2024-08-10 13:38:11,2024-08-10 13:47:04,redacted_business,notifs,<REDACTED>
+2024-08-10 13:43:23,2024-08-10 13:47:04,redacted_business,notifs,<REDACTED>
+2024-08-10 16:13:55,2024-08-10 16:13:58,redacted_business,OTP,<REDACTED>
+2024-08-11 17:13:28,2024-08-11 17:13:38,redacted_business,OTP,<REDACTED>
+2024-08-11 17:16:29,2024-08-11 17:16:35,redacted_business,OTP,<REDACTED>
+2024-08-11 17:19:25,2024-08-11 17:19:26,redacted_business,OTP,<REDACTED>
+2024-08-12 01:32:45,2024-08-12 08:10:06,redacted_business,notifs,<REDACTED>
+2024-08-12 14:33:16,2024-08-12 14:34:54,redacted_business,notifs,<REDACTED>
+2024-08-13 11:42:25,2024-08-13 11:42:31,redacted_business,notifs,<REDACTED>
+2024-08-15 20:30:13,2024-08-15 20:30:16,redacted_business,OTP,<REDACTED>
+2024-08-15 20:35:54,2024-08-15 20:36:31,redacted_business,notifs,<REDACTED>
+2024-08-21 04:56:12,2024-08-21 04:57:15,redacted_business,notifs,<REDACTED>
+2024-08-21 16:10:01,2024-08-21 16:20:49,redacted_business,notifs,<REDACTED>
+2024-08-21 17:54:41,2024-08-21 18:13:25,redacted_business,notifs,<REDACTED>
+2024-08-21 17:59:54,2024-08-21 18:13:25,redacted_business,notifs,<REDACTED>
+2024-08-21 18:05:18,2024-08-21 18:13:25,redacted_business,notifs,<REDACTED>
+2024-08-21 21:31:18,2024-08-21 21:36:57,redacted_business,notifs,<REDACTED>
+2024-08-21 21:36:21,2024-08-21 21:36:57,redacted_business,notifs,<REDACTED>
+2024-08-21 21:39:36,2024-08-21 21:52:25,redacted_business,notifs,<REDACTED>
+2024-08-22 04:40:58,2024-08-22 04:59:50,redacted_business,notifs,<REDACTED>
+2024-08-22 09:53:03,2024-08-22 14:51:56,redacted_business,notifs,<REDACTED>
+2024-08-22 20:01:45,2024-08-22 20:07:42,redacted_business,notifs,<REDACTED>
+2024-08-22 20:06:14,2024-08-22 20:07:42,redacted_business,notifs,<REDACTED>
+2024-08-22 20:10:28,2024-08-22 20:11:39,redacted_business,notifs,<REDACTED>
+2024-08-22 22:44:06,2024-08-22 22:44:21,redacted_business,notifs,<REDACTED>
+2024-08-22 22:38:36,2024-08-22 22:38:54,redacted_business,notifs,<REDACTED>
+2024-08-22 22:38:37,2024-08-22 22:38:54,redacted_business,notifs,<REDACTED>
+2024-06-09 18:15:40,2024-06-09 18:15:42,redacted_business,notifs,<REDACTED>
+2024-06-09 18:16:26,2024-06-09 18:16:26,redacted_business,notifs,<REDACTED>
+2024-06-17 09:33:25,2024-06-17 09:33:28,redacted_business,notifs,<REDACTED>
+2024-07-07 20:56:16,2024-07-07 20:56:18,redacted_business,notifs,<REDACTED>
+2024-07-07 20:57:42,2024-07-07 20:57:42,redacted_business,notifs,<REDACTED>
+2024-07-07 20:57:53,2024-07-07 20:57:53,redacted_business,notifs,<REDACTED>
+2024-07-30 08:04:47,2024-07-30 09:15:13,redacted_business,notifs,<REDACTED>
+2024-07-31 08:00:42,2024-07-31 08:53:01,redacted_business,notifs,<REDACTED>
+2024-08-08 21:20:52,2024-08-08 21:20:53,redacted_business,notifs,<REDACTED>
+2024-08-08 21:21:52,2024-08-08 21:21:52,redacted_business,notifs,<REDACTED>
+2024-08-21 22:52:29,2024-08-21 22:54:23,redacted_business,notifs,<REDACTED>
+2024-08-21 22:55:05,2024-08-21 22:55:05,redacted_business,notifs,<REDACTED>
+2024-08-21 22:55:15,2024-08-21 22:55:15,redacted_business,notifs,<REDACTED>
+2024-08-22 21:22:12,2024-08-22 21:22:24,redacted_business,notifs,<REDACTED>
+2024-08-22 21:23:31,2024-08-22 21:23:42,redacted_business,notifs,<REDACTED>
+2024-06-11 14:06:09,2024-06-11 14:06:10,SmartApp,OTP,<REDACTED>
+2024-06-11 14:06:48,2024-06-11 14:06:48,SmartApp,OTP,<REDACTED>
+2024-06-11 14:07:19,2024-06-11 14:07:20,SmartApp,OTP,<REDACTED>
+2024-08-01 20:31:22,2024-08-01 20:31:24,SmartApp,OTP,<REDACTED>
+2024-08-01 20:32:06,2024-08-01 20:32:08,SmartApp,OTP,<REDACTED>
+2024-08-01 20:33:07,2024-08-01 20:33:13,SmartApp,notifs,<REDACTED>
+2024-08-18 05:18:44,2024-08-18 05:18:46,SmartApp,OTP,<REDACTED>
+2024-08-18 05:19:58,2024-08-18 05:19:59,SmartApp,OTP,<REDACTED>
+2024-08-18 05:20:45,2024-08-18 05:20:52,SmartApp,OTP,<REDACTED>
+2024-08-22 17:58:36,2024-08-22 18:03:55,SmartApp,OTP,<REDACTED>
+2024-08-22 19:40:51,2024-08-22 19:40:52,SmartApp,OTP,<REDACTED>
+2024-06-19 13:52:08,2024-06-19 13:55:34,redacted_business,notifs,<REDACTED>
+2024-06-24 11:08:58,2024-06-24 11:11:20,redacted_business,notifs,<REDACTED>
+2024-07-25 10:02:48,2024-07-25 10:05:03,redacted_business,notifs,<REDACTED>
+2024-08-22 10:49:00,2024-08-22 14:51:58,redacted_business,notifs,<REDACTED>
+2024-08-21 21:11:38,2024-08-21 21:11:48,+6390852***66,spam,"Utosin ang iyong telepono na gumana para sa iyo, nakikita kita araw-araw, Telegram:@niy761"
+2024-08-21 20:23:37,2024-08-21 20:28:33,+6395119***03,spam,Luck is Calling! Claim P3000 Now at GJP PH on GoJPPlay.golf
+2024-06-11 11:44:07,2024-06-11 11:44:09,redacted_business,OTP,<REDACTED>
+2024-06-13 10:33:50,2024-06-13 10:33:54,redacted_business,OTP,<REDACTED>
+2024-07-30 18:55:06,2024-07-30 18:55:08,redacted_business,OTP,<REDACTED>
+2024-08-15 01:47:12,2024-08-15 01:47:26,redacted_business,OTP,<REDACTED>
+2024-08-18 00:20:13,2024-08-18 00:33:00,redacted_business,OTP,<REDACTED>
+2024-07-27 10:57:03,2024-07-27 11:10:39,redacted_individual,notifs,<REDACTED>
+2024-07-27 10:57:06,2024-07-27 11:10:39,redacted_individual,notifs,<REDACTED>
+2024-08-05 11:15:32,2024-08-05 11:19:30,redacted_individual,notifs,<REDACTED>
+2024-08-05 11:15:37,2024-08-05 11:19:30,redacted_individual,notifs,<REDACTED>
+2024-08-05 11:15:40,2024-08-05 11:19:30,redacted_individual,notifs,<REDACTED>
+2024-08-15 12:15:22,2024-08-15 13:12:00,redacted_individual,notifs,<REDACTED>
+2024-08-15 12:15:24,2024-08-15 13:12:00,redacted_individual,notifs,<REDACTED>
+2024-08-15 12:15:25,2024-08-15 13:12:00,redacted_individual,notifs,<REDACTED>
+2024-08-14 19:02:03,2024-08-14 19:13:09,NTC,gov,PSA: Bawat boses ay mahalaga! Makilahok at magpa-interview para sa 2024 Census of Population at Community-Based Monitoring System. #2024POPCENCBMS.
+2024-08-14 04:25:41,2024-08-14 04:26:08,redacted_contact,notifs,<REDACTED>
+2024-08-12 17:59:18,2024-08-12 18:00:58,redacted_contact,notifs,<REDACTED>
+2024-08-12 18:36:00,2024-08-12 18:36:27,redacted_contact,notifs,<REDACTED>
+2024-08-08 17:56:50,2024-08-08 17:59:01,redacted_business,notifs,<REDACTED>
+2024-08-08 19:17:28,2024-08-08 19:20:54,redacted_business,notifs,<REDACTED>
+2024-08-08 22:17:21,2024-08-08 22:18:14,redacted_business,notifs,<REDACTED>
+2024-08-11 16:42:16,2024-08-11 16:46:47,redacted_business,notifs,<REDACTED>
+2024-08-12 13:13:35,2024-08-12 13:16:06,redacted_business,notifs,<REDACTED>
+2024-06-11 11:44:19,2024-06-11 11:45:24,redacted_business,notifs,<REDACTED>
+2024-06-11 11:47:42,2024-06-11 11:50:00,redacted_business,notifs,<REDACTED>
+2024-06-11 11:50:07,2024-06-11 11:50:09,redacted_business,notifs,<REDACTED>
+2024-06-11 13:58:22,2024-06-11 13:58:23,redacted_business,OTP,<REDACTED>
+2024-06-11 15:08:56,2024-06-11 15:09:43,redacted_business,notifs,<REDACTED>
+2024-06-26 18:58:21,2024-06-26 18:59:17,redacted_business,notifs,<REDACTED>
+2024-06-26 19:00:50,2024-06-26 19:04:17,redacted_business,notifs,<REDACTED>
+2024-06-26 19:02:10,2024-06-26 19:04:17,redacted_business,notifs,<REDACTED>
+2024-08-11 17:13:48,2024-08-11 17:14:48,redacted_business,notifs,<REDACTED>
+2024-08-11 17:16:51,2024-08-11 17:19:02,redacted_business,notifs,<REDACTED>
+2024-08-11 17:19:38,2024-08-11 17:19:50,redacted_business,notifs,<REDACTED>
+2024-06-11 11:43:43,2024-06-11 11:43:49,TIEZA,gov,<REDACTED>
+2024-06-11 11:44:22,2024-06-11 11:45:25,TIEZA,gov,<REDACTED>
+2024-06-26 18:57:42,2024-06-26 18:58:02,TIEZA,gov,<REDACTED>
+2024-06-26 18:58:24,2024-06-26 18:59:15,TIEZA,gov,<REDACTED>
+2024-08-11 17:13:09,2024-08-11 17:14:49,TIEZA,gov,<REDACTED>
+2024-08-11 17:13:52,2024-08-11 17:14:49,TIEZA,gov,<REDACTED>
+2024-08-10 13:19:16,2024-08-10 13:19:20,redacted_business,notifs,<REDACTED>
+2024-06-09 18:14:19,2024-06-09 18:14:20,redacted_business,notifs,<REDACTED>
+2024-06-12 14:20:37,2024-06-12 14:20:39,redacted_business,notifs,<REDACTED>
+2024-07-20 11:01:22,2024-07-20 11:01:23,redacted_business,notifs,<REDACTED>
+2024-08-04 17:14:08,2024-08-04 17:14:10,redacted_business,OTP,<REDACTED>
+2024-08-04 17:14:13,2024-08-04 17:20:12,redacted_business,OTP,<REDACTED>
+2024-08-08 21:13:10,2024-08-08 21:13:13,redacted_business,notifs,<REDACTED>
+2024-08-07 14:41:34,2024-08-07 14:41:54,redacted_individual,notifs,<REDACTED>
+2024-08-07 15:38:33,2024-08-07 15:41:41,redacted_individual,notifs,<REDACTED>
+2024-06-17 12:39:03,2024-06-17 12:39:05,redacted_business,notifs,<REDACTED>
+2024-06-17 12:39:25,2024-06-17 12:52:13,redacted_business,notifs,<REDACTED>
+2024-06-17 12:42:00,2024-06-17 12:52:13,redacted_business,notifs,<REDACTED>
+2024-08-03 11:48:42,2024-08-03 11:49:16,redacted_business,notifs,<REDACTED>
+2024-07-30 16:21:05,2024-07-30 16:21:32,redacted_business,notifs,<REDACTED>
+2024-07-22 10:55:40,2024-07-22 10:57:16,PLDTDeals,ads,"Need instant WiFi on the go? Grab a PLDT Home WiFi with LTE Advanced. It's light, compact, and easy to top-up. Perfect for travelers!
+
+Only P995 for a device with SIM + 15 days UNLI data + up to 2X faster LTE vs. other Smart's Home WiFi devices. Buy now at pldthome.info/jph1.
+
+DTI192419S24."
+2024-06-21 19:12:01,2024-06-21 19:12:03,redacted_business,notifs,<REDACTED>
+2024-07-19 18:41:54,2024-07-19 18:42:04,redacted_business,notifs,<REDACTED>
+2024-07-19 15:40:29,2024-07-19 15:46:38,+6396158***86,spam,"Congratulations!
+
+Redeem your P10,200 from G Cash support!
+
+Claim here: g-gift.pt?id=80
+
+Thank you for choosing GCash Online!"
+2024-07-03 10:00:14,2024-07-03 10:00:20,redacted_business,OTP,<REDACTED>
+2024-07-10 10:58:02,2024-07-10 10:58:08,redacted_business,OTP,<REDACTED>
+2024-07-13 13:48:57,2024-07-13 13:54:08,redacted_business,OTP,<REDACTED>
+2024-07-13 13:50:08,2024-07-13 13:54:08,redacted_business,notifs,<REDACTED>
+2024-07-15 12:47:53,2024-07-15 13:18:35,redacted_business,notifs,<REDACTED>
+2024-07-16 12:27:54,2024-07-16 13:10:15,redacted_business,notifs,<REDACTED>
+2024-07-19 13:09:09,2024-07-19 13:09:16,redacted_business,notifs,<REDACTED>
+2024-06-29 22:53:40,2024-06-29 22:53:42,redacted_business,OTP,<REDACTED>
+2024-06-29 22:53:53,2024-06-29 22:57:08,redacted_business,notifs,<REDACTED>
+2024-07-01 09:27:24,2024-07-01 09:29:06,redacted_business,notifs,<REDACTED>
+2024-07-04 13:51:34,2024-07-04 13:51:39,redacted_business,notifs,<REDACTED>
+2024-07-08 15:47:53,2024-07-08 15:48:13,redacted_business,notifs,<REDACTED>
+2024-07-09 12:31:51,2024-07-09 12:32:00,redacted_business,notifs,<REDACTED>
+2024-07-10 10:58:56,2024-07-10 10:58:59,redacted_business,OTP,<REDACTED>
+2024-07-10 16:11:47,2024-07-10 16:12:05,redacted_business,notifs,<REDACTED>
+2024-07-11 12:44:46,2024-07-11 12:45:04,redacted_business,notifs,<REDACTED>
+2024-07-11 12:54:44,2024-07-11 12:55:10,redacted_business,notifs,<REDACTED>
+2024-07-12 14:57:59,2024-07-12 14:58:02,redacted_business,OTP,<REDACTED>
+2024-07-12 14:58:20,2024-07-12 14:59:18,redacted_business,notifs,<REDACTED>
+2024-07-13 10:17:29,2024-07-13 10:17:31,redacted_business,OTP,<REDACTED>
+2024-07-16 09:33:03,2024-07-16 09:33:09,redacted_business,OTP,<REDACTED>
+2024-07-04 10:22:57,2024-07-04 10:22:59,redacted_business,OTP,<REDACTED>
+2024-07-04 10:53:25,2024-07-04 10:53:27,redacted_business,OTP,<REDACTED>
+2024-07-09 09:43:21,2024-07-09 09:43:25,redacted_business,OTP,<REDACTED>
+2024-07-09 09:44:57,2024-07-09 09:44:57,redacted_business,OTP,<REDACTED>
+2024-07-10 08:36:52,2024-07-10 08:36:57,redacted_business,OTP,<REDACTED>
+2024-07-09 16:15:50,2024-07-09 17:08:53,redacted_business,notifs,<REDACTED>
+2024-07-02 23:18:25,2024-07-03 08:20:49,redacted_business,notifs,<REDACTED>
+2024-07-08 08:50:36,2024-07-08 08:51:17,redacted_business,notifs,<REDACTED>
+2024-07-08 10:01:19,2024-07-08 10:08:07,redacted_business,notifs,<REDACTED>
+2024-07-03 15:48:12,2024-07-03 15:48:20,redacted_business,notifs,<REDACTED>
+2024-07-08 08:45:11,2024-07-08 08:45:23,redacted_business,notifs,<REDACTED>
+2024-06-29 21:32:33,2024-06-29 21:35:02,redacted_business,notifs,<REDACTED>
+2024-06-28 04:50:38,2024-06-28 07:49:54,+6393018***65,spam,Nakatanggap ang iyong number ng P7748. Mag-register gamit ang number na ito at maglaro ng halagang P10 upang makuha: cxbz.de
+2024-06-27 22:56:02,2024-06-27 22:58:38,+6390792***40,spam,"Ready for thrills? GJP PH's T.G.I.F Event tomorrow! Bag 6,888p & up to 12,000p in Bet Tournament! Oppo Reno 11 Pro in the Tourna! Gojpwheel.de"
+2024-06-27 19:53:46,2024-06-27 19:56:05,+6395180***47,spam,Handa ka na bang mag-enjoy? Mag-avail ng 100% Welcome Bonus + 50% Live Casino Bonus hanggang 3000 pesos sa epcwnplays.de ngayon!
+2024-06-27 14:07:43,2024-06-27 14:07:49,+6394675***82,spam,Nalagay na sa iyong number ang P2500. Sumali gamit ang number na ito at maglagay ng P50 upang makuha: hnvb.uk
+2024-06-27 13:03:36,2024-06-27 13:04:09,+6395190***39,spam,100k Jackp0t na naman! Ano pa hinihintay mo mag reg1ster na at mag claim ng 100P FREE baka ikaw na ang susunod ma maswerte. ODQZZ.eu
+2024-06-27 11:14:54,2024-06-27 11:26:34,+6394602***46,spam,Mag-sign up at makakuha ng 266 LibrengSpins! At 150% premium recharge! Sumali sa link para makuha ito nang libre! hnvb.uk
+2024-06-27 10:19:27,2024-06-27 10:22:53,+6395162***88,spam,"'Embrace Winning Plus! Win an Oppo Reno 11 Pro 5G + 512GB worth 31,999p and enjoy a 30% daily bonus. Visit Wplustar.de to register!'"
+2024-06-27 09:23:39,2024-06-27 09:51:15,+6395137***19,spam,Nalagay na sa iyong number ang P2500. Sumali gamit ang number na ito at maglagay ng P50 upang makuha: cxbz.de
+2024-06-26 15:24:58,2024-06-26 15:25:09,+6393049***25,spam,"
+Account verification needed due to suspicious transaction.
+Kindly Visit: Cut.show/4G-LTEGcash to continue using our services"
+2024-06-27 08:41:34,2024-06-27 09:51:13,+6393049***25,spam,"Gcash.
+
+Account verification needed due to suspicious transaction.
+Kindly Visit: Cut.show/Gcash-5G to continue using our services"
+2024-06-26 23:44:30,2024-06-27 07:24:21,+6395172***01,spam,Nanalo ako ng pera tuwing tumaya ako ng 500P at nanalo ng 10K. Maaaring ito ay isang BUG. Sumali ako sa ycx43ew7rt.uk
+2024-06-26 17:03:50,2024-06-26 17:28:23,+6395189***51,spam,Claim your 68 Welcome B0nus and 198P awards! Claim it soon to avoid expiry:asace.wang/rbs
+2024-06-26 16:46:56,2024-06-26 17:28:24,+6390738***65,spam,Claim 3000p FREE & enter our Slot Tournament for a VIVO V30e 256GB prize! sbetfortune.eu !
+2024-06-26 16:31:39,2024-06-26 16:41:06,+6391021***80,spam,Ikaw ay napili na makatanggap ng P6625! Sumali gamit ang number na ito at maglagay ng P50 upang ma-claim sa 24/7 customer support. Sumali: pqrm.uk
+2024-06-26 16:24:14,2024-06-26 16:27:11,+6393049***98,spam,"Gcash.
+
+Account verification needed due to suspicious transaction.
+Kindly Visit: Cut.show/4G-LTEGcash to continue using our services"
+2024-06-26 09:24:39,2024-06-26 09:28:08,+6393002***58,spam,"Gcash.
+
+Account verification needed due to suspicious transaction.
+Kindly Visit: Cut.show/LTEsGcash to continue using our services"
+2024-06-26 00:49:15,2024-06-26 01:25:18,+6391021***68,spam,May P2580 credit natanggap ang number na ito! Ito ay valid lamang within 8 hrs! Magregister at maglagay ng P50 upang maclaim sa aming 24/7 CS: tfwz.uk
+2024-06-25 12:04:41,2024-06-25 12:04:52,+6391019***09,spam,May P2580 credit natanggap ang number na ito! Ito ay valid lamang within 8 hrs! Magregister at maglagay ng P50 upang maclaim sa aming 24/7 CS: mwjt.uk
+2024-06-25 03:30:59,2024-06-25 08:09:36,+6395190***93,spam,"Win up to 12,000 points in our exciting Casino Bet Tournament! New members receive a 100% bonus plus an additional 588 points. Join now at Wplushuge.de "
+2024-06-24 23:59:37,2024-06-25 00:31:57,+6396255***82,spam,"PH SOCIAL SECURITY SYSTEM
+Your My.SSS Total Employer Contribution benefits have expired,  to avoid termination of all your SSS benefits check Link: sssph.mx"
+2024-06-24 22:51:36,2024-06-24 23:17:37,+6395168***80,spam,"This number won P2874! Sign-up at hnvb.uk with this number, add P50, and get your cash from our 24/7 customer support"
+2024-06-24 17:10:20,2024-06-24 17:11:38,+6395168***55,spam,May P6140 na natanggap ang number na ito! Ito ay valid lamang within 8 hrs! Maglagay ng P50 upang maclaim sa aming 24/7 CS: mwjt.uk
+2024-06-14 12:49:26,2024-06-14 12:49:34,redacted_individual,notifs,<REDACTED>
+2024-06-14 12:49:32,2024-06-14 12:49:34,redacted_individual,notifs,<REDACTED>
+2024-06-14 12:50:06,2024-06-14 12:51:41,redacted_individual,notifs,<REDACTED>
+2024-06-24 13:04:59,2024-06-24 13:05:20,redacted_individual,notifs,<REDACTED>
+2024-06-24 13:05:12,2024-06-24 13:05:20,redacted_individual,notifs,<REDACTED>
+2024-06-24 00:46:40,2024-06-24 00:54:39,+6395195***51,spam,"Spin the Daily Lucky Wheel at Gojpluswildph.de and win a Samsung Galaxy S23+ 5G worth P42,999. New members get a 130% bonus up to P1000. Join today!"
+2024-06-22 09:03:41,2024-06-22 09:08:43,DICT,gov,"Mag-ingat sa mga text scam messages! I-report agad gamit ng eGovPH app. Tandaan, walang mabubudol kung walang magpapabudol. 
+
+Download eGovPH app now!"
+2024-06-22 01:09:59,2024-06-22 02:25:10,+6395182***93,spam, WinningPlus T.G.I.S blast! Get 6888p Bonus! T.G.I.S Special 999p & Free 588p for new members! Join now for big wins! Wplaycardph.de
+2024-06-21 18:55:05,2024-06-21 19:11:15,+6390925***21,spam,"TGIF means bonuses and prizes at GJPjdb.de! Grab your 6,888p Bonus and compete to win the sleek VIVO V30 PRO 5G this Friday. Join today!"
+2024-06-21 08:59:20,2024-06-21 08:59:25,redacted_individual,notifs,<REDACTED>
+2024-06-21 09:00:07,2024-06-21 09:00:23,redacted_individual,notifs,<REDACTED>
+2024-06-21 09:03:24,2024-06-21 09:03:26,redacted_individual,notifs,<REDACTED>
+2024-06-21 09:26:41,2024-06-21 09:33:52,redacted_individual,notifs,<REDACTED>
+2024-06-21 10:14:59,2024-06-21 10:15:38,redacted_individual,notifs,<REDACTED>
+2024-06-21 10:17:15,2024-06-21 10:17:15,redacted_individual,notifs,<REDACTED>
+2024-06-21 10:02:40,2024-06-21 10:02:41,redacted_business,notifs,<REDACTED>
+2024-06-20 21:04:54,2024-06-20 21:04:57,redacted_business,notifs,<REDACTED>
+2024-06-20 21:11:26,2024-06-20 21:11:26,redacted_business,notifs,<REDACTED>
+2024-06-20 09:46:52,2024-06-20 09:47:44,+6395167***49,spam,Nanalo ang numerong ito ng P7716! Magparehistro sa xzqt.de gamit ito at maglagay ng P100 para ma-claim ang iyong premyo sa aming 24/7 customer support.
+2024-06-20 05:21:13,2024-06-20 08:52:39,+6394618***91,spam,"Na-credit na ang 5979P na bonus sa iyong account, huwag palampasin ito  lvv65a118l.uk"
+2024-06-19 19:59:22,2024-06-19 20:00:12,+6390971***86,spam,"BDO Online | System Advisory 
+
+Due to SIM Registration Act 11934, We required all BDO clients to update their registered mobile number associated on your account. please visit here: online.mybdo-apps.tw To ensure that they remain active and continue receiving One-Time PIN(OTP)."
+2024-06-19 15:35:43,2024-06-19 15:38:25,BDO DEALS,ads,<REDACTED>
+2024-06-19 14:09:59,2024-06-19 14:12:18,+6391247***53,spam,"#PAYMAYA
+
+Don't miss out! Your PHP 1,000 Maya Voucher is expiring soon! Use it before June 30 and enjoy savings on load, bills, crypto and online shopping!
+
+paymaya.uk"
+2024-06-18 19:40:34,2024-06-18 19:43:13,redacted_individual,notifs,<REDACTED>
+2024-06-18 15:50:45,2024-06-18 15:50:47,redacted_business,OTP,<REDACTED>
+2024-06-18 15:51:28,2024-06-18 15:51:28,redacted_business,OTP,<REDACTED>
+2024-06-14 08:23:58,2024-06-14 08:40:13,redacted_contact,notifs,<REDACTED>
+2024-06-14 08:46:48,2024-06-14 08:47:22,redacted_contact,notifs,<REDACTED>
+2024-06-17 09:25:25,2024-06-17 09:26:02,redacted_contact,notifs,<REDACTED>
+2024-06-17 09:25:54,2024-06-17 09:26:02,redacted_contact,notifs,<REDACTED>
+2024-06-17 09:27:36,2024-06-17 09:31:28,redacted_contact,notifs,<REDACTED>
+2024-06-17 14:10:14,2024-06-17 14:23:58,redacted_contact,notifs,<REDACTED>
+2024-06-17 15:14:17,2024-06-17 16:59:52,redacted_contact,notifs,<REDACTED>
+2024-06-18 10:25:10,2024-06-18 10:25:13,redacted_contact,notifs,<REDACTED>
+2024-06-18 10:25:43,2024-06-18 10:28:35,redacted_contact,notifs,<REDACTED>
+2024-06-18 11:20:13,2024-06-18 11:56:26,redacted_contact,notifs,<REDACTED>
+2024-06-18 15:06:52,2024-06-18 15:07:00,redacted_contact,notifs,<REDACTED>
+2024-06-18 15:21:32,2024-06-18 15:22:24,redacted_contact,notifs,<REDACTED>
+2024-06-18 14:54:03,2024-06-18 14:54:30,+6395128***19,spam,"88ph.so UNLIMITED FUN-MAKE YOUR DAY MOAN-HUBARAN LIVE, JAKOL LIVE-EXCLUSIVE FREE ACCESS HERE AT PHP"
+2024-06-18 13:48:45,2024-06-18 13:48:59,redacted_business,notifs,<REDACTED>
+2024-06-18 12:23:32,2024-06-18 12:24:42,redacted_individual,notifs,<REDACTED>
+2024-06-18 12:25:29,2024-06-18 12:27:17,redacted_individual,notifs,<REDACTED>
+2024-06-18 12:49:08,2024-06-18 12:49:20,redacted_individual,notifs,<REDACTED>
+2024-06-18 12:51:45,2024-06-18 12:51:45,redacted_individual,notifs,<REDACTED>
+2024-06-18 04:02:57,2024-06-18 07:41:34,redacted_individual,notifs,<REDACTED>
+2024-06-18 00:26:36,2024-06-18 07:41:37,+6395185***64,spam,Ikaw ay napili na makatanggap ng P6625 mula sa reward6cash.uk! Sumali gamit ang number na ito at maglagay ng P100 upang ma-claim sa 24/7 customer support
+2024-06-17 21:35:49,2024-06-17 21:36:25,+6391077***84,spam,Ikaw ay napili na makatanggap ng P6625 mula sa charm8fortune.uk! Sumali gamit ang number na ito at maglagay ng P100 upang ma-claim sa 24/7 customer support
+2024-06-17 10:44:16,2024-06-17 10:58:16,+6395177***20,spam,lucky7charm.uk <-- Claim here! Nanalo ka ng P9178! Maglagay lamang ng P100 upang makuha ang panalo sa aming 24/7 customer support!
+2024-06-16 10:57:38,2024-06-16 11:27:51,+6395164***89,spam,Ikaw ay napili na makatanggap ng P6625 mula sa tija.uk! Sumali gamit ang number na ito at maglagay ng P100 upang ma-claim sa 24/7 customer support
+2024-06-16 07:23:06,2024-06-16 08:26:30,+6390705***35,spam,Experience the exhilarating WinningPlus weekend boost! Grab your 6888p Bonus and indulge in the Weekend Special at wplusace.de! Join the excitement now!
+2024-06-15 19:44:29,2024-06-15 20:16:22,+6390771***07,spam,"PH SOCIAL SECURITY SYSTEM 
+Your My.SSS Total Employer Contribution benefits have expired, check SSr.mx/My to avoid termination of all your SSS benefits."
+2024-06-15 18:55:42,2024-06-15 18:59:09,+6390951***80,spam,"New members sign up even with free P1688 rewards,Extra 20% every day,Limited spots act now! 
+
+uuctt.eu
+
+Get another P188 for downloading the app!"
+2024-06-14 16:29:33,2024-06-14 16:29:37,+852622***26,spam,Welcome to CMHK! Calling home / other countries? Dial <001> <country code and area code> <phone no>.
+2024-06-14 16:11:12,2024-06-14 16:28:05,+6390932***28,spam,Join the Spins Rounds Challenge at may chance manalo ng Brand New Yamaha Mio Gravis! Avail the bonus sa spswins.eu !
+2024-06-14 15:40:41,2024-06-14 16:02:53,redacted_individual,notifs,<REDACTED>
+2024-06-14 15:04:59,2024-06-14 16:02:54,+6390996***82,spam,"GCash Advisory,
+
+Please be advised that we are asking everyone to verify their account to avoid deactivation.
+
+Verify here:
+trim.ac/GCashCares"
+2024-06-14 14:46:30,2024-06-14 16:02:56,+6390799***87,spam,New member download to get P216o right now and c0ntact our 24/7 service to get it:                                                                 mdsa.ch          
+2024-06-14 13:27:15,2024-06-14 13:27:18,+6390957***71,spam," Hey, players! Get ready for the thrill of SBet's 30-day SLOT Tournament! Win up to 15888P bonus & daily 5% giveaways! Join the action at sbetdraw.eu!"
+2024-06-13 20:38:06,2024-06-13 20:43:39,+6391022***19,spam,phmega.uk << Claim here! Nanalo ka ng P2760! Kunin na ang inyong premyo ngayon! Bisitahin ang link na ito upang makuha ang inyong napanalunan.
+2024-06-13 16:43:13,2024-06-13 16:51:28,+6396828***84,spam,Ikaw ang maswerteng Makatanggap ng P555 na  bonus >>>        zaqwsx.pgwinwin.fi
+2024-06-12 15:16:20,2024-06-12 15:16:46,+6394671***65,spam,Ikaw ang maswerteng Makatanggap ng P555 na  bonus >>>              zaqwsx.pgwinwin.fi
+2024-06-12 14:51:37,2024-06-12 14:51:45,+6394673***86,spam,Ikaw ang maswerteng Makatanggap ng P555 na  bonus >>>              zaqwsx.pgwinwin.fi
+2024-06-07 10:47:47,2024-06-07 11:13:31,redacted_individual,notifs,<REDACTED>
+2024-06-07 10:47:49,2024-06-07 11:13:31,redacted_individual,notifs,<REDACTED>
+2024-06-12 10:07:43,2024-06-12 10:08:59,redacted_individual,notifs,<REDACTED>
+2024-06-12 10:07:44,2024-06-12 10:08:59,redacted_individual,notifs,<REDACTED>
+2024-06-12 10:36:11,2024-06-12 10:36:25,redacted_individual,notifs,<REDACTED>
+2024-06-12 04:45:50,2024-06-12 08:49:27,+6394672***44,spam,Mag-log in para makatanggap ng hanggang 555 at magkaroon ng pagkakataong manalo sa iPhone15Pro>>>  lvv65a118l.uk/?mb7fhf6sgs2a
+2024-06-11 22:00:00,2024-06-11 22:04:16,redacted_individual,notifs,<REDACTED>
+2024-06-11 12:48:10,2024-06-11 12:48:39,redacted_individual,notifs,<REDACTED>
+2024-06-11 03:16:41,2024-06-11 08:21:42,+6391021***85,spam,Nailagay na sa iyong account ang P5627. Maglagay lamang ng P50 upang iclaim sa aming CS. Claim na:                                                                 7slot.vg          
+2024-06-10 00:58:39,2024-06-10 08:23:56,+6390959***50,spam,"Win a SAMSUNG GALAXY S23+ 5G daily on the lucky wheel. New members get 130% bonus, up to PHP 1000. Visit GoJPwild.eu ,  play now!"
+2024-06-09 16:29:32,2024-06-09 17:35:32,+6396828***53,spam,"Hello,Bagong libreng bonus para sa 1999,     beuwla.ac/Lxg    walang kinakailangang deposito. 50%first deposit bonus and 10%bonus for first deposit every day"
+2024-06-08 21:32:58,2024-06-08 21:57:06,+6396275***78,spam,"200% bonus for Geniepot new member!
+Daily bonus more than 500% with super free download bonus!
+on genlepot.ph"
+2024-06-08 21:14:11,2024-06-08 21:17:18,+6396229***97,spam,"200% bonus for Geniepot new member!
+Daily bonus more than 500% with 35P free download bonus!
+on genlepot.ph"
+2024-06-08 18:21:22,2024-06-08 18:28:51,+6391064***75,spam,Nalagay na sa iyong number ang P5560. Mag register gamit ang number na ito at maglagay ng P100 upang ma-claim: bonusclaim.uk
+2024-06-08 14:39:33,2024-06-08 14:44:40,redacted_individual,notifs,<REDACTED>
+2024-06-08 14:47:24,2024-06-08 14:47:30,redacted_individual,notifs,<REDACTED>
+2024-06-08 14:48:08,2024-06-08 14:48:08,redacted_individual,notifs,<REDACTED>
+2024-06-08 14:48:56,2024-06-08 14:49:13,redacted_individual,notifs,<REDACTED>
+2024-06-08 15:28:26,2024-06-08 15:34:40,redacted_individual,notifs,<REDACTED>
+2024-06-07 23:31:09,2024-06-08 08:42:14,+6396248***72,spam,"Hello,Bagong libreng bonus para sa 1999,    givepot.ph/103G   walang kinakailangang deposito. 50%first deposit bonus and 10%bonus for first deposit every day"
+2024-06-07 20:33:37,2024-06-07 20:59:42,+6396265***56,spam,"Social Security Plan
+You are entitled to a lump sum benefit amount of P2,153 based on your total contribution in 2024, please apply at sssr.mx/7C"
+2024-06-07 15:36:22,2024-06-07 16:09:51,+6391092***62,spam,Na refund na sa iyong account ang P2160. Mag register at maglagay ng P100 upang makuha: phslots.uk
+2024-06-07 12:26:39,2024-06-07 12:54:51,+6394682***07,spam,Chat me at lizzbf1964@gmail. com
+2024-06-07 11:07:14,2024-06-07 11:12:07,+6390772***97,spam,"Don't miss out! Join GJP's T.G.I.F event for a 6,888p + 1,000p bonus & spin daily to win a Samsung Galaxy S23+ 5G. Visit gjpotnows.de now!"
+2024-06-09 18:26:37,2024-06-09 18:26:39,redacted_business,OTP,<REDACTED>
+2024-06-16 20:46:27,2024-06-16 21:11:15,redacted_business,notifs,<REDACTED>
+2024-06-23 12:52:01,2024-06-23 13:16:50,redacted_business,notifs,<REDACTED>
+2024-07-29 14:21:22,2024-07-29 15:07:01,redacted_business,notifs,<REDACTED>
+2024-07-30 18:55:54,2024-07-30 18:55:55,redacted_business,OTP,<REDACTED>
+2024-07-31 14:53:58,2024-08-01 12:29:37,redacted_business,notifs,<REDACTED>
+2024-08-07 17:35:50,2024-08-07 17:35:53,redacted_business,OTP,<REDACTED>
+2024-08-12 00:16:06,2024-08-31 21:06:36,redacted_business,notifs,<REDACTED>
+2024-06-20 17:31:46,2024-06-20 17:43:24,redacted_business,notifs,<REDACTED>
+2024-06-24 15:40:07,2024-06-26 10:09:52,redacted_business,notifs,<REDACTED>
+2024-08-08 21:22:02,2024-08-09 08:32:05,redacted_business,notifs,<REDACTED>
+2024-06-09 18:28:44,2024-06-09 18:28:46,redacted_business,OTP,<REDACTED>
+2024-06-19 13:36:40,2024-06-19 13:36:41,redacted_business,OTP,<REDACTED>
+2024-06-19 13:38:24,2024-06-19 13:38:40,redacted_business,notifs,<REDACTED>
+2024-06-19 18:49:18,2024-06-19 18:49:20,redacted_business,OTP,<REDACTED>
+2024-07-26 17:51:55,2024-07-29 14:20:10,redacted_business,notifs,<REDACTED>
+2024-08-07 17:38:41,2024-08-07 17:39:24,redacted_business,OTP,<REDACTED>
+2024-07-14 00:32:28,2024-07-14 05:13:15,+6395175***62,spam,"download app get 97p Topup 100P get 50P free, 10% bonus in 1st daily deposit  join now >>>     8.212.168.81"
+2024-06-28 11:32:07,2024-06-28 11:32:38,GCash,OTP,<REDACTED>
+2024-06-28 11:32:31,2024-06-28 11:32:38,GCash,OTP,<REDACTED>
+2024-06-29 10:33:00,2024-06-29 10:36:44,GCash,ads,"Mapuputulan na ng kuryente? Diskarte no more! May easy pantawid ka na sa bills kaya 'di na ipit 'pag gipit. Kaya today with GCredit, powered by CIMB!"
+2024-07-06 23:10:16,2024-07-06 23:10:18,GCash,OTP,<REDACTED>
+2024-07-06 23:10:29,2024-07-07 10:26:21,GCash,notifs,<REDACTED>
+2024-07-09 16:53:41,2024-07-09 17:09:01,GCash,ads,One more round pa! Mag-Borrow Load na! Mag-palista na walang abala para tuluy-tuloy lang ang paglalaro!
+2024-07-12 13:53:12,2024-07-12 15:46:25,GCash,ads,Promo is EXTENDED! May oras ka pa mag-GGives for the first time to get your last installment for free! Just choose 12 months to pay with GGives and repay on time. Promo now until July 18.
+2024-07-13 15:07:12,2024-07-13 15:07:13,GCash,OTP,<REDACTED>
+2024-06-29 21:52:56,2024-06-29 22:27:53,SMART,notifs,<REDACTED>
+2024-06-29 22:02:59,2024-06-29 22:27:53,SMART,notifs,<REDACTED>
+2024-07-01 08:05:03,2024-07-01 09:48:01,SMART,notifs,<REDACTED>
+2024-07-03 17:17:38,2024-07-03 18:18:44,SMART,notifs,<REDACTED>
+2024-07-06 09:58:56,2024-07-06 11:21:07,SMART,notifs,<REDACTED>
+2024-07-11 11:32:05,2024-07-12 09:00:39,SMART,notifs,<REDACTED>
+2024-07-11 11:42:07,2024-07-12 09:00:39,SMART,notifs,<REDACTED>
+2024-07-13 13:47:47,2024-07-13 13:49:59,SMART,notifs,<REDACTED>
+2024-06-28 09:05:09,2024-06-28 09:47:02,redacted_business,notifs,<REDACTED>
+2024-06-28 16:21:06,2024-06-28 16:42:04,redacted_business,notifs,<REDACTED>
+2024-06-28 16:41:34,2024-06-28 16:42:04,redacted_business,notifs,<REDACTED>
+2024-06-28 19:30:49,2024-06-28 19:30:53,redacted_business,OTP,<REDACTED>
+2024-06-28 19:36:15,2024-06-28 19:59:13,redacted_business,notifs,<REDACTED>
+2024-07-01 10:30:50,2024-07-01 10:40:42,redacted_business,notifs,<REDACTED>
+2024-07-02 05:27:07,2024-07-02 08:59:31,redacted_business,notifs,<REDACTED>
+2024-07-02 05:27:08,2024-07-02 08:59:31,redacted_business,notifs,<REDACTED>
+2024-07-02 20:40:19,2024-07-02 23:13:04,redacted_business,notifs,<REDACTED>
+2024-07-04 00:08:27,2024-07-04 09:26:03,redacted_business,notifs,<REDACTED>
+2024-07-04 00:12:27,2024-07-04 09:26:03,redacted_business,notifs,<REDACTED>
+2024-07-05 09:22:42,2024-07-05 09:27:19,redacted_business,notifs,<REDACTED>
+2024-07-06 16:25:38,2024-07-06 22:42:23,redacted_business,notifs,<REDACTED>
+2024-07-07 11:15:15,2024-07-07 14:14:28,redacted_business,notifs,<REDACTED>
+2024-07-08 14:57:55,2024-07-08 16:13:50,redacted_business,notifs,<REDACTED>
+2024-07-08 16:45:02,2024-07-08 16:45:50,redacted_business,notifs,<REDACTED>
+2024-07-08 17:33:18,2024-07-08 23:39:16,redacted_business,notifs,<REDACTED>
+2024-07-08 23:21:51,2024-07-08 23:39:16,redacted_business,notifs,<REDACTED>
+2024-07-09 10:41:59,2024-07-09 13:42:14,redacted_business,notifs,<REDACTED>
+2024-07-10 08:08:05,2024-07-10 10:57:40,redacted_business,notifs,<REDACTED>
+2024-07-10 08:14:45,2024-07-10 10:57:40,redacted_business,notifs,<REDACTED>
+2024-07-10 20:48:33,2024-07-10 22:15:41,redacted_business,notifs,<REDACTED>
+2024-07-11 09:39:31,2024-07-11 11:06:45,redacted_business,notifs,<REDACTED>
+2024-07-12 16:07:18,2024-07-12 17:36:16,redacted_business,notifs,<REDACTED>
+2024-07-13 10:07:46,2024-07-13 10:07:48,redacted_business,OTP,<REDACTED>
+2024-07-13 10:11:48,2024-07-13 10:12:14,redacted_business,notifs,<REDACTED>
+2024-07-13 10:12:32,2024-07-13 10:12:37,redacted_business,OTP,<REDACTED>
+2024-07-13 10:16:16,2024-07-13 10:16:53,redacted_business,OTP,<REDACTED>
+2024-07-13 10:17:23,2024-07-13 10:17:27,redacted_business,OTP,<REDACTED>
+2024-07-13 10:17:24,2024-07-13 10:17:27,redacted_business,notifs,<REDACTED>
+2024-07-05 06:25:57,2024-07-05 09:27:17,redacted_contact,notifs,<REDACTED>
+2024-07-13 08:54:40,2024-07-13 09:12:51,redacted_contact,notifs,<REDACTED>
+2024-07-13 09:14:34,2024-07-13 09:26:03,redacted_contact,notifs,<REDACTED>
+2024-07-13 07:54:11,2024-07-13 09:13:18,+6390907***97,spam,EPwin: 180% Welcome Bonus hanggang 15k pesos at 1.2% daily rebate! Sumali na! eppachinko.cz
+2024-07-13 04:13:03,2024-07-13 09:13:19,+6390958***96,spam,Discover WinningPlus: Score big with a TGIS thrilling 999p bonus and 588p in free spins! Sign up now for non-stop fun at wplsflush.cz!
+2024-07-12 21:55:26,2024-07-13 09:13:21,+6395126***88,spam,EPwin: Tara na at maglaro para sa 180% Welcome Bonus hanggang 15k pesos at 1.2% daily rebate! Bisitahin  at  simulan ang panalo ngayon sa EpicBetOn.at!
+2024-07-12 16:24:02,2024-07-12 17:36:18,PLDTDeals,ads,"Ready to take your smart home to the next level? Discover your Next Upgrade at shop.nextupgrade.ph, an online marketplace for devices that make your home smarter, safer, & more convenient.
+
+Use promo code PR-500OFF to enjoy P500 off + FREE shipping with min. purchase of P1,500.
+
+T&Cs apply. DTI196730S2024."
+2024-07-12 13:01:47,2024-07-12 15:46:27,+6395102***46,spam,Mabilis na dep0sit at w1thdraw ba hanap mo ? Punta na ngayon sa link na ito para maglar0 { spsebc. eu }
+2024-07-01 11:07:54,2024-07-01 11:28:15,BDO Deals,ads,<REDACTED>
+2024-07-01 11:42:57,2024-07-01 12:35:44,BDO Deals,ads,<REDACTED>
+2024-07-01 12:17:40,2024-07-01 12:35:44,BDO Deals,ads,<REDACTED>
+2024-07-02 09:31:26,2024-07-02 13:29:17,BDO Deals,ads,"Get CASH up to P873,000 w/ your BDO Credit Card! Pay P40,304.67/mo. for 24 months at 0.45% monthly add-on rate. Plus, pay up to 2 months later!
+
+Log-in to BDO Online Banking, click More Services>Card Services>Cash Installment & use promo code 5TKBY7 or call hotline at (02) 8667-1680.
+
+Offer is until 07/31/24. Availment, amt & rate are subject to BDO approval.
+
+For details, visit BDO Website, click Deals & search Rate Flash. T&Cs & fees apply. DTI191731"
+2024-07-04 09:42:29,2024-07-04 16:46:20,BDO Deals,ads,"Get 15% + EXTRA P3,000 OFF on Buy Now, Pay Later at Beyond the Box & Digital Walker w/ BDO Mastercard!
+
+Min spend of P30K at 0% interest up to 24-month term. Present Promo Code BDOVTFYZQA to get EXTRA P3,000. Valid for 1x use.
+
+Promo runs from 07/4-7/24. Search EXTRA P3,000 on BDO site for T&Cs. DTI196653"
+2024-07-05 09:28:49,2024-07-05 16:37:42,BDO Deals,ads,"Up to P500 Cashback on Shopee 7.7 Sale w/ BDO Credit Cards! To join, enroll your Promo ID 432A4649AA until 7/8. For T&C, search Shopee on the BDO site.DTI196387"
+2024-07-05 10:38:49,2024-07-05 16:37:42,BDO Deals,ads,"Get up to P1500 IKEA Gift Card with a P15K BUY NOW, PAY LATER spend at IKEA Pasay City or online with your BDO Credit Card.
+
+Plus, enjoy 0% interest with min. spend:
+P10K for 3-month term
+P20K for up to 6-month term
+
+Promo runs from Jun 8 - Jul 31, 2024. Visit BDO website & search IKEA for T&Cs. DTI194775"
+2024-07-08 11:23:29,2024-07-08 16:13:52,BDO Deals,ads,"Continue to book fares from Korean Air, EVA Air, Emirates, Turkish Airlines, Starlux, & more w/ BDO Cards as low as USD284 (Economy) & USD996 (Business) to Japan, USD404 (Economy) & USD3,240 (Business) to USA, USD791 (Economy) & USD2,318 (Business) to Europe. Avail via online at www. travel. bdo. com. ph, email/reservations hotline or ticket office. Promo til 7/14/24, unless specified. Search The Great BDO Travel Sale on BDO site for T&C. DTI195744&195929"
+2024-07-09 11:37:59,2024-07-09 13:42:16,BDO Deals,ads,"Get CASH up to P860,000 w/ your BDO Credit Card! Pay P39,704.49/mo. for 24 months at 0.45% monthly add-on rate. Plus, pay up to 2 months later!
+
+Log-in to BDO Online Banking, click More Services>Card Services>Cash Installment & use promo code 5TKBY7 or call hotline at (02) 8667-1680.
+
+Offer is until 07/31/24. Availment, amt & rate are subject to BDO approval.
+
+For details, visit BDO Website, click Deals & search Rate Flash. T&Cs & fees apply. DTI191731"
+2024-07-12 09:12:48,2024-07-12 09:13:25,BDO Deals,ads,<REDACTED>
+2024-07-12 02:45:55,2024-07-12 09:00:40,+6395165***85,spam,"It's TGIF at GJP! Claim 6888 free & win a VIVO V30 PRO 5G in the Slots Tournament!
+
+ gjpbet.uk
+ 
+Join the fun!"
+2024-07-11 06:18:35,2024-07-11 11:06:44,+6395162***11,spam,"Experience Winning Plus! Win an Oppo Reno 11 Pro 5G + 512GB valued at 31,999p and get a 30% daily bonus at WinPlus.sbs
+ Enroll today."
+2024-07-10 20:11:08,2024-07-10 22:15:45,+6391219***86,spam,"Free slot machines worth 80 million pesos are waiting for you! Register to get 238P, first deposit will get 588p for free, rebate website  pvej.sg  "
+2024-07-10 18:58:23,2024-07-10 22:15:44,+6395144***35,spam,"Dive into our hottest spins original! 
+
+spinsfun.eu
+
+ Claim your free 100 plus Yamaha Mio Gravis today! Don't miss out!"
+2024-07-10 12:01:39,2024-07-10 22:15:42,+6393016***86,spam,"May P77,628 credit na natanggap ang number na ito! Ito ay valid lamang within 8 hrs! Magregister at maglagay ng P50 upang maclaim sa aming 24/7 CS: dogcat.im"
+2024-07-09 19:26:30,2024-07-09 20:20:57,+6395178***07,spam,"May P77,628 credit na natanggap ang number na ito! Ito ay valid lamang within 8 hrs! Magregister at maglagay ng P50 upang maclaim sa aming 24/7 CS: moonow.so."
+2024-07-09 12:55:38,2024-07-09 13:42:17,+6391068***62,spam,"May P77,628 credit na natanggap ang number na ito! Ito ay valid lamang within 8 hrs! Magregister at maglagay ng P50 upang maclaim sa aming 24/7 CS: moonow.so"
+2024-07-09 08:20:12,2024-07-09 13:42:12,+6394876***64,spam,"G C A S H
+
+Please be advised that we are asking everyone to verify their account to avoid deactivation.
+
+Click here:
+much.fan/G-Cash-HelpCenter"
+2024-07-09 01:54:32,2024-07-09 13:42:11,+6394825***75,spam,"G C A S H
+
+Please be advised that we are asking everyone to verify their account to avoid deactivation.
+
+Click here:
+kernel.guru/G-Cash-HelpCenter"
+2024-07-08 18:49:12,2024-07-08 23:39:15,+6393007***52,spam,Jackp0t hit na may 10min Mga premyo na kasing taas ng 7billion! download ngayon at makakuha ng P57. Kumuha ng128para sa iyong unang deposito~ zbpna.dhaui.ca  
+2024-07-08 16:17:41,2024-07-08 16:45:49,+6390774***93,spam,"Start Strong at SugarPlay! Enjoy a 3% bonus on all deposits and up to 58,888p in Daily Rebates. New members receive a 2000p Welcome Bonus! SPSlots.de!"
+2024-07-08 10:28:43,2024-07-08 10:40:44,+6395176***42,spam,"GJP Monday excitement! Spin the Lucky Wheel to win a Samsung Galaxy S23+ 5G worth P42,999. New members get 3,000p Welcome Bonus! Visit GJGames.de!"
+2024-07-08 03:50:15,2024-07-08 08:25:53,+6395159***65,spam,Nakatanggap ang iyong number ng P7748. Mag-register gamit ang number na ito at maglaro ng halagang P10 upang makuha. Sumali dito: raypop.de.
+2024-07-08 03:50:12,2024-07-08 08:25:51,+6395136***57,spam,Nakatanggap ang iyong number ng P7748. Mag-register gamit ang number na ito at maglaro ng halagang P10 upang makuha. Sumali dito: raypop.de.
+2024-07-07 22:09:09,2024-07-08 08:25:49,+6395184***52,spam,EPwin na! Makakuha ng 180% Welcome Bonus hanggang 15k pesos + 1.2% araw-araw na rebate! Sali na at mag-enjoy! epicgamb.de!
+2024-07-07 17:42:48,2024-07-07 17:44:12,+6396493***07,spam,Nakatanggap ang iyong number ng P7748. Mag-register gamit ang number na ito at maglaro ng halagang P10 upang makuha. Sumali dito: moolit.de.
+2024-07-07 12:48:08,2024-07-07 14:14:29,+6395124***49,spam,Nakatanggap ang iyong number ng P7748. Mag-register gamit ang number na ito at maglaro ng halagang P10 upang makuha. Sumali dito: raytag.de.
+2024-06-29 12:47:52,2024-06-29 13:04:25,MayaCredit,ads,"Pay your bills with Maya to get access for up to P30,000 Maya Easy Credit!"
+2024-07-07 10:56:00,2024-07-07 14:14:31,MayaCredit,ads,"Buy load in Shop to increase your chances to get access to up to P30,000 Maya Easy Credit!"
+2024-07-07 10:25:26,2024-07-07 10:25:28,redacted_business,notifs,<REDACTED>
+2024-07-07 06:13:33,2024-07-07 10:26:18,+6395170***62,spam,"Long time no see, may good news ako sayo. mag-recharge ng P100 at makakuha ng P777 nang libre>>>  yystf5ree.nl"
+2024-07-07 01:48:15,2024-07-07 10:26:19,+6390912***85,spam,GJLuck.de! Join GJP and spin the Daily Lucky Wheel for a chance to win a Samsung Galaxy S23+ 5G. Enjoy daily rebates up to 0.6%. Sign up now!
+2024-07-07 00:26:42,2024-07-07 10:26:22,+6394838***90,spam,"G C A S H
+
+Please be advised that we are asking everyone to verify their account to avoid deactivation.
+
+Click here:
+cut.show/G-Cash-HelpCenter"
+2024-07-06 19:19:32,2024-07-06 22:42:21,redacted_individual,notifs,<REDACTED>
+2024-07-06 10:14:10,2024-07-06 11:21:06,+6396868***14,spam,"Hi, Good Day! Naglalaro ka pa din ba ng 0nline Games? Bibigyan kita ng winning game$ na mataas ang chance manal0 at kung anong oras ka lalar0 para kahit papano makawithdraw ka, basta ikaw na din bahala sakin. Reply ''YES'' po if interested."
+2024-07-06 04:12:58,2024-07-06 08:38:59,+6395191***36,spam,Nakatanggap ang iyong number ng P3380. Sumali gamit ang number na ito at maglagay ng P50 upang makuha: joypod.de.
+2024-07-06 00:44:41,2024-07-06 08:39:01,+6390732***05,spam,"Participate in WinningPlus T.G.I.S. Casino Win Tournament! Win up to 12,000p + Oppo Reno 11 Pro 5G (31,999p value) Enjoy daily 0.6% rebate. Join now WPArena.de!"
+2024-07-05 23:24:46,2024-07-06 08:39:00,+6395110***46,spam,"Your sss contribution benefits are about to expire. Please collect it before July 10, please refer to the portal website:  phssss.mx"
+2024-07-05 18:08:34,2024-07-05 21:45:46,+6393015***07,spam,YG777 Nakatanggap ang iyong number ng P7748. Mag-register gamit ang number na ito at maglaro ng halagang P10 upang makuha. Sumali dito: joypod.de
+2024-07-05 16:53:52,2024-07-05 21:45:48,+6391003***51,spam,YG777 Nakatanggap ang iyong number ng P7748. Mag-register gamit ang number na ito at maglaro ng halagang P10 upang makuha. Sumali dito: moolit.de
+2024-07-05 16:03:27,2024-07-05 16:37:44,+6395103***04,spam,100 pesos mo gawin nating 200!  Copy this to browser [ kklfph.fyi ] to get!
+2024-07-04 20:28:25,2024-07-04 20:54:33,+6395122***84,spam,"PH SOClAL SECURlTY SYSTEM
+Your Employer Contribution lump-sum Payment Benefit Grant will expire on July 31, so pick it up at ssssmy.lc"
+2024-07-04 18:22:38,2024-07-04 20:54:29,+6391025***54,spam,May P500 credit natanggap ang number na ito! Ito ay valid lamang within 8 hrs! Magregister at maglagay ng P50 upang maclaim sa aming 24/7 CS: boxlid.de
+2024-07-04 13:20:17,2024-07-04 16:46:22,+6390744***68,spam,Congrats VIP! You've won 300% First Deposit Bonus and FREE100 FBS Bonus! Claim now before it's gone! Contact Customer Service to seize your luck! pnlkawin.de !
+2024-07-04 02:56:30,2024-07-04 09:26:06,+6390733***46,spam,"May P2,580 credit natanggap ang number na ito! Ito ay valid lamang within 8 hrs! Magregister at maglagay ng P50 upang maclaim sa aming 24/7 CS:lc1oo77c.ch/?S6TS"
+2024-07-03 16:26:27,2024-07-03 16:28:49,SmartApp,notifs,<REDACTED>
+2024-07-03 16:18:09,2024-07-03 16:28:47,+6395171***94,spam,"Get ready to win big! Sbet VIP offers 88,888p Bonus! New players enjoy 3,000p Welcome Bonus + daily treats! Join now at SBGame.de !"
+2024-07-03 16:05:29,2024-07-03 16:07:38,+6390780***67,spam,Claim your b0nus! Magl0g-in at kunin ang 100 pes0s ngayon! Pumunta sa link na to { kklfph.fyi }
+2024-07-03 14:17:35,2024-07-03 14:19:05,redacted_individual,notifs,<REDACTED>
+2024-07-03 14:17:42,2024-07-03 14:19:05,redacted_individual,notifs,<REDACTED>
+2024-07-03 14:21:07,2024-07-03 14:21:07,redacted_individual,notifs,<REDACTED>
+2024-07-03 14:23:14,2024-07-03 14:23:26,redacted_individual,notifs,<REDACTED>
+2024-07-03 14:23:43,2024-07-03 14:23:43,redacted_individual,notifs,<REDACTED>
+2024-07-03 14:30:03,2024-07-03 14:37:25,redacted_individual,notifs,<REDACTED>
+2024-07-03 14:30:09,2024-07-03 14:37:25,redacted_individual,notifs,<REDACTED>
+2024-07-02 17:12:36,2024-07-02 18:13:47,+6395179***80,spam,"Join July's Win Tournaments! Win up to 12,000p + 3,000p bonus & Oppo Reno 11 Pro 5G worth 31,999p! Hurry, sign up now! wplusbonus.de !"
+2024-07-01 09:19:52,2024-07-01 09:48:02,redacted_business,notifs,<REDACTED>
+2024-07-02 12:17:31,2024-07-02 13:29:15,redacted_business,notifs,<REDACTED>
+2024-07-01 16:55:51,2024-07-01 16:55:58,+6395132***50,spam,"Bagong Libreng Bonus 1888 - Walang Kundisyon ng Deposit, Kumuha ng Libreng Bonus 1888 sa xxxx Pagbisita: 38.11.89.109"
+2024-07-01 15:29:06,2024-07-01 15:54:22,redacted_individual,notifs,<REDACTED>
+2024-07-01 15:55:24,2024-07-01 16:47:54,redacted_individual,notifs,<REDACTED>
+2024-07-01 11:34:15,2024-07-01 11:36:25,+6396858***77,spam,"May P2,580 credit natanggap ang number na ito! Ito ay valid lamang within 8 hrs! Magregister at maglagay ng P50 upang maclaim sa aming 24/7 CS:  s17v7rrn.de"
+2024-07-01 03:06:17,2024-07-01 07:18:40,+6391026***87,spam,May P2580 credit natanggap ang number na ito! Ito ay valid lamang within 8 hrs! Magregister at maglagay ng P50 upang maclaim sa aming 24/7 CS: hipbow.de
+2024-06-30 17:12:26,2024-07-01 07:18:38,+6395150***33,spam,Baka para sayo ang MI0 YAHAMA na mot0r! Sali na sa BOAYDP.eu!
+2024-06-29 14:45:47,2024-06-29 16:28:33,+6390794***70,spam,"Good day, This is paghahatid ng post When we try to deliver, we find that your order needs to be verified by you before we can drop it off. please check oib.mx"
+2024-06-29 14:34:25,2024-06-29 14:42:42,+6393093***93,spam,Nakatanggap ang iyong number ng P7748. Mag-register gamit ang number na ito at maglaro ng halagang P10 upang makuha. Sumali dito: nowjam.de
+2024-06-29 00:01:22,2024-06-29 08:25:25,redacted_contact,notifs,<REDACTED>
+2024-06-28 14:25:52,2024-06-28 14:26:31,UnionBank,OTP,<REDACTED>
+2024-06-28 14:27:49,2024-06-28 14:27:50,UnionBank,OTP,<REDACTED>
+2024-06-28 14:28:26,2024-06-28 14:28:44,UnionBank,notifs,<REDACTED>
+2024-06-23 14:21:37,2024-06-23 14:21:39,redacted_business,OTP,<REDACTED>
+2024-06-08 11:13:43,2024-06-09 18:26:45,redacted_business,notifs,<REDACTED>
+2024-06-08 11:13:46,2024-06-09 18:26:45,redacted_business,notifs,<REDACTED>
+2024-06-08 11:13:47,2024-06-09 18:26:45,redacted_business,notifs,<REDACTED>
 2024-02-05 18:11:17,2024-02-05 18:11:24,+6390998***20,spam,"Make money while watching YouTube, earn 500P per day, contact the tutor to receive 138P. jueb.bid"
 2023-03-28 16:28:37,2023-03-28 16:28:48,GCash,ads,Get up to P125K extra funds for emergencies with GLoan! Go to your GCash dashboard and tap GLoan to learn more.
 2023-03-29 16:45:31,2023-03-29 16:45:38,GCash,notifs,<REDACTED>
