@@ -1,4 +1,667 @@
 date-received,date-read,sender,category,text
+2024-10-03 13:15:59,2024-10-03 13:16:09,redacted_individual,notifs,<REDACTED>
+2024-10-03 13:16:00,2024-10-03 13:16:09,redacted_individual,notifs,<REDACTED>
+2024-11-11 10:50:54,2024-11-11 12:48:33,redacted_individual,notifs,<REDACTED>
+2024-11-11 10:50:56,2024-11-11 12:48:33,redacted_individual,notifs,<REDACTED>
+2024-11-11 10:50:58,2024-11-11 12:48:33,redacted_individual,notifs,<REDACTED>
+2024-11-11 11:05:08,2024-11-11 12:48:33,redacted_individual,notifs,<REDACTED>
+2024-11-11 11:05:13,2024-11-11 12:48:33,redacted_individual,notifs,<REDACTED>
+2024-11-23 12:12:23,2024-11-23 14:07:40,redacted_individual,notifs,<REDACTED>
+2024-11-23 12:12:26,2024-11-23 14:07:40,redacted_individual,notifs,<REDACTED>
+2024-11-23 12:12:37,2024-11-23 14:07:40,redacted_individual,notifs,<REDACTED>
+2024-12-03 13:08:49,2024-12-03 13:09:01,redacted_individual,notifs,<REDACTED>
+2024-12-03 13:08:53,2024-12-03 13:09:01,redacted_individual,notifs,<REDACTED>
+2024-12-03 13:08:55,2024-12-03 13:09:01,redacted_individual,notifs,<REDACTED>
+2024-12-16 13:28:04,2024-12-16 13:30:12,redacted_individual,notifs,<REDACTED>
+2024-12-16 13:28:05,2024-12-16 13:30:12,redacted_individual,notifs,<REDACTED>
+2024-12-16 13:28:06,2024-12-16 13:30:12,redacted_individual,notifs,<REDACTED>
+2024-12-17 12:15:29,2024-12-17 12:15:38,redacted_individual,notifs,<REDACTED>
+2024-12-17 12:15:29,2024-12-17 12:15:38,redacted_individual,notifs,<REDACTED>
+2024-12-17 12:15:32,2024-12-17 12:15:38,redacted_individual,notifs,<REDACTED>
+2024-12-22 10:41:05,2024-12-22 10:43:15,redacted_individual,notifs,<REDACTED>
+2024-12-22 10:41:06,2024-12-22 10:43:15,redacted_individual,notifs,<REDACTED>
+2024-12-22 10:41:09,2024-12-22 10:43:15,redacted_individual,notifs,<REDACTED>
+2024-12-23 11:15:24,2024-12-23 11:15:34,redacted_individual,notifs,<REDACTED>
+2024-12-23 11:15:25,2024-12-23 11:15:34,redacted_individual,notifs,<REDACTED>
+2024-12-23 11:15:27,2024-12-23 11:15:34,redacted_individual,notifs,<REDACTED>
+2024-09-27 08:51:46,2024-09-27 09:42:29,redacted_business,notifs,<REDACTED>
+2024-09-29 13:16:41,2024-09-29 13:17:16,redacted_business,notifs,<REDACTED>
+2024-09-29 13:20:52,2024-09-29 13:30:27,redacted_business,notifs,<REDACTED>
+2024-09-30 09:12:52,2024-09-30 09:13:10,redacted_business,notifs,<REDACTED>
+2024-10-01 00:45:31,2024-10-01 08:06:35,redacted_business,notifs,<REDACTED>
+2024-10-02 07:01:43,2024-10-02 07:13:36,redacted_business,notifs,<REDACTED>
+2024-10-02 07:06:50,2024-10-02 07:13:36,redacted_business,notifs,<REDACTED>
+2024-10-03 00:19:24,2024-10-03 00:36:53,redacted_business,notifs,<REDACTED>
+2024-10-03 00:38:12,2024-10-03 07:42:26,redacted_business,OTP,<REDACTED>
+2024-10-03 01:00:02,2024-10-03 07:42:26,redacted_business,OTP,<REDACTED>
+2024-10-03 14:56:28,2024-10-03 14:56:32,redacted_business,notifs,<REDACTED>
+2024-10-06 18:22:12,2024-10-06 18:22:15,redacted_business,OTP,<REDACTED>
+2024-10-08 07:05:25,2024-10-08 07:05:29,redacted_business,notifs,<REDACTED>
+2024-10-08 07:05:31,2024-10-08 07:05:33,redacted_business,notifs,<REDACTED>
+2024-10-08 12:46:34,2024-10-08 12:46:39,redacted_business,notifs,<REDACTED>
+2024-10-10 07:21:17,2024-10-10 07:23:48,redacted_business,notifs,<REDACTED>
+2024-10-10 07:25:40,2024-10-10 07:28:27,redacted_business,notifs,<REDACTED>
+2024-10-10 19:46:57,2024-10-10 19:51:56,redacted_business,notifs,<REDACTED>
+2024-10-11 08:46:10,2024-10-11 08:46:41,redacted_business,notifs,<REDACTED>
+2024-10-11 19:51:46,2024-10-11 19:53:31,redacted_business,notifs,<REDACTED>
+2024-10-13 10:50:06,2024-10-13 10:50:29,redacted_business,notifs,<REDACTED>
+2024-10-16 15:37:07,2024-10-16 15:38:45,redacted_business,notifs,<REDACTED>
+2024-10-20 11:11:39,2024-10-20 11:15:52,redacted_business,notifs,<REDACTED>
+2024-10-21 17:10:47,2024-10-21 17:34:10,redacted_business,notifs,<REDACTED>
+2024-10-22 09:16:04,2024-10-22 09:16:32,redacted_business,notifs,<REDACTED>
+2024-10-22 20:02:51,2024-10-22 20:07:57,redacted_business,notifs,<REDACTED>
+2024-10-22 20:06:35,2024-10-22 20:07:57,redacted_business,notifs,<REDACTED>
+2024-10-22 20:56:14,2024-10-22 20:58:15,redacted_business,notifs,<REDACTED>
+2024-10-23 21:43:05,2024-10-23 21:44:24,redacted_business,notifs,<REDACTED>
+2024-10-24 10:42:03,2024-10-24 10:43:00,redacted_business,notifs,<REDACTED>
+2024-10-26 09:36:45,2024-10-26 09:43:25,redacted_business,notifs,<REDACTED>
+2024-10-26 15:16:08,2024-10-26 15:16:12,redacted_business,OTP,<REDACTED>
+2024-10-26 15:21:01,2024-10-26 15:26:46,redacted_business,notifs,<REDACTED>
+2024-10-29 22:06:01,2024-10-29 22:08:01,redacted_business,notifs,<REDACTED>
+2024-10-30 02:10:23,2024-10-30 07:37:27,redacted_business,notifs,<REDACTED>
+2024-11-01 09:32:12,2024-11-01 09:32:58,redacted_business,notifs,<REDACTED>
+2024-11-01 11:51:44,2024-11-01 11:51:47,redacted_business,OTP,<REDACTED>
+2024-11-01 11:54:53,2024-11-01 11:54:54,redacted_business,OTP,<REDACTED>
+2024-11-01 12:04:11,2024-11-01 12:04:14,redacted_business,OTP,<REDACTED>
+2024-11-02 10:37:30,2024-11-02 10:38:09,redacted_business,notifs,<REDACTED>
+2024-11-02 19:07:20,2024-11-02 19:08:51,redacted_business,notifs,<REDACTED>
+2024-11-02 19:21:57,2024-11-02 19:23:51,redacted_business,notifs,<REDACTED>
+2024-11-03 18:12:07,2024-11-03 18:12:12,redacted_business,notifs,<REDACTED>
+2024-11-12 05:30:39,2024-11-12 05:31:17,redacted_business,notifs,<REDACTED>
+2024-11-12 10:33:50,2024-11-12 16:25:20,redacted_business,notifs,<REDACTED>
+2024-11-12 17:19:43,2024-11-12 17:27:34,redacted_business,notifs,<REDACTED>
+2024-11-12 17:20:53,2024-11-12 17:27:34,redacted_business,notifs,<REDACTED>
+2024-11-12 17:22:12,2024-11-12 17:27:34,redacted_business,notifs,<REDACTED>
+2024-11-12 17:23:35,2024-11-12 17:27:34,redacted_business,notifs,<REDACTED>
+2024-11-12 17:24:27,2024-11-12 17:27:34,redacted_business,notifs,<REDACTED>
+2024-11-12 17:25:20,2024-11-12 17:27:34,redacted_business,notifs,<REDACTED>
+2024-11-12 17:26:11,2024-11-12 17:27:34,redacted_business,notifs,<REDACTED>
+2024-11-13 11:39:13,2024-11-13 11:51:45,redacted_business,notifs,<REDACTED>
+2024-11-13 11:39:38,2024-11-13 11:51:45,redacted_business,notifs,<REDACTED>
+2024-11-13 11:39:44,2024-11-13 11:51:45,redacted_business,notifs,<REDACTED>
+2024-11-14 04:05:58,2024-11-14 04:06:03,redacted_business,notifs,<REDACTED>
+2024-11-14 04:20:25,2024-11-14 04:25:39,redacted_business,notifs,<REDACTED>
+2024-11-14 21:46:39,2024-11-14 22:00:26,redacted_business,notifs,<REDACTED>
+2024-11-14 23:31:16,2024-11-14 23:32:40,redacted_business,notifs,<REDACTED>
+2024-11-15 09:51:18,2024-11-15 14:16:45,redacted_business,notifs,<REDACTED>
+2024-11-16 12:36:30,2024-11-16 15:31:26,redacted_business,notifs,<REDACTED>
+2024-11-19 17:54:14,2024-11-19 18:19:18,redacted_business,OTP,<REDACTED>
+2024-11-22 09:26:00,2024-11-22 13:38:19,redacted_business,notifs,<REDACTED>
+2024-11-25 16:31:45,2024-11-25 16:33:41,redacted_business,notifs,<REDACTED>
+2024-11-26 09:35:58,2024-11-26 13:40:11,redacted_business,notifs,<REDACTED>
+2024-11-26 15:05:58,2024-11-26 15:06:01,redacted_business,OTP,<REDACTED>
+2024-11-26 15:07:31,2024-11-26 15:07:32,redacted_business,OTP,<REDACTED>
+2024-11-27 13:36:29,2024-11-27 15:30:02,redacted_business,notifs,<REDACTED>
+2024-11-27 18:06:25,2024-11-27 18:21:13,redacted_business,notifs,<REDACTED>
+2024-11-28 06:20:31,2024-11-28 06:20:34,redacted_business,notifs,<REDACTED>
+2024-11-28 14:57:04,2024-11-28 15:03:16,redacted_business,notifs,<REDACTED>
+2024-12-01 15:57:13,2024-12-01 16:06:49,redacted_business,notifs,<REDACTED>
+2024-12-03 22:00:43,2024-12-03 22:00:59,redacted_business,notifs,<REDACTED>
+2024-12-03 22:01:10,2024-12-03 22:01:14,redacted_business,notifs,<REDACTED>
+2024-12-03 22:31:23,2024-12-03 22:38:15,redacted_business,notifs,<REDACTED>
+2024-12-04 06:51:34,2024-12-04 08:07:00,redacted_business,notifs,<REDACTED>
+2024-12-04 22:56:46,2024-12-04 22:57:26,redacted_business,notifs,<REDACTED>
+2024-12-05 12:26:47,2024-12-05 12:52:39,redacted_business,notifs,<REDACTED>
+2024-12-10 14:31:45,2024-12-10 14:35:57,redacted_business,notifs,<REDACTED>
+2024-12-10 18:06:46,2024-12-10 18:23:34,redacted_business,notifs,<REDACTED>
+2024-12-11 10:35:38,2024-12-11 10:37:53,redacted_business,notifs,<REDACTED>
+2024-12-11 18:16:25,2024-12-11 18:25:59,redacted_business,notifs,<REDACTED>
+2024-12-16 10:20:47,2024-12-16 10:20:52,redacted_business,notifs,<REDACTED>
+2024-12-16 12:06:02,2024-12-16 12:08:54,redacted_business,notifs,<REDACTED>
+2024-12-16 15:56:26,2024-12-16 15:56:39,redacted_business,notifs,<REDACTED>
+2024-12-18 10:32:05,2024-12-18 10:32:14,redacted_business,notifs,<REDACTED>
+2024-12-18 14:21:31,2024-12-18 14:21:40,redacted_business,notifs,<REDACTED>
+2024-12-21 16:57:02,2024-12-21 19:23:27,redacted_business,notifs,<REDACTED>
+2024-12-22 09:36:59,2024-12-22 09:48:02,redacted_business,notifs,<REDACTED>
+2024-12-22 20:47:04,2024-12-23 08:27:55,redacted_business,notifs,<REDACTED>
+2024-12-22 20:43:24,2024-12-23 08:27:53,redacted_business,notifs,<REDACTED>
+2024-12-21 15:57:59,2024-12-21 15:58:02,redacted_individual,notifs,<REDACTED>
+2024-12-21 16:06:13,2024-12-21 16:14:45,redacted_individual,notifs,<REDACTED>
+2024-10-11 11:42:16,2024-10-11 11:42:18,redacted_business,notifs,<REDACTED>
+2024-10-11 11:52:39,2024-10-11 11:54:54,redacted_business,notifs,<REDACTED>
+2024-10-11 12:36:25,2024-10-11 12:37:29,redacted_business,notifs,<REDACTED>
+2024-10-17 16:14:26,2024-10-17 18:00:28,redacted_business,notifs,<REDACTED>
+2024-10-18 15:35:56,2024-10-18 15:36:00,redacted_business,notifs,<REDACTED>
+2024-10-24 10:11:59,2024-10-24 10:21:44,redacted_business,notifs,<REDACTED>
+2024-11-13 17:39:19,2024-11-13 17:39:46,redacted_business,notifs,<REDACTED>
+2024-11-22 10:11:33,2024-11-22 13:38:06,redacted_business,notifs,<REDACTED>
+2024-11-25 14:52:15,2024-11-25 14:52:42,redacted_business,notifs,<REDACTED>
+2024-11-26 15:38:16,2024-11-26 15:43:15,redacted_business,notifs,<REDACTED>
+2024-11-28 17:40:45,2024-11-28 18:32:43,redacted_business,notifs,<REDACTED>
+2024-12-03 17:00:57,2024-12-03 19:20:33,redacted_business,notifs,<REDACTED>
+2024-12-11 19:03:27,2024-12-11 19:29:15,redacted_business,notifs,<REDACTED>
+2024-12-18 16:09:46,2024-12-18 16:34:03,redacted_business,notifs,<REDACTED>
+2024-12-20 11:00:43,2024-12-20 11:03:47,redacted_business,notifs,<REDACTED>
+2024-12-20 17:25:37,2024-12-20 17:44:21,redacted_business,notifs,<REDACTED>
+2024-09-29 16:45:21,2024-09-29 16:45:32,SMART,ads,"SMART Service Advisory: 
+
+We appreciate your understanding during the recent service interruption. Your monthly fee will be adjusted for the affected day, and this adjustment will appear in your next billing statement. Thank you for your continued support."
+2024-10-01 08:55:52,2024-10-01 08:56:17,SMART,notifs,<REDACTED>
+2024-10-01 08:55:53,2024-10-01 08:56:17,SMART,ads, Travelling soon? Stay connected across multiple destinations by Pre-booking a GigaRoam data pack. Visit smrt.ph/GigaRoam
+2024-10-06 12:37:42,2024-10-06 12:45:22,SMART,notifs,<REDACTED>
+2024-10-11 12:52:20,2024-10-11 12:54:21,SMART,ads,"Beware of fake message. NO NEED to re-register your SIM, if you have successfully registered it before.Pls disregard any message asking you to register again."
+2024-10-22 15:36:21,2024-10-22 15:38:03,SMART,ads,You're almost out of data. You have less than 200MB left from your plan's data allowance.                                                                       
+2024-10-22 15:36:22,2024-10-22 15:38:03,SMART,ads, Visit the Smart App to register to our promos EASILY! smrt.ph/Check_Usage
+2024-10-23 12:39:49,2024-10-23 12:42:04,SMART,notifs,<REDACTED>
+2024-10-23 12:40:49,2024-10-23 12:42:04,SMART,notifs,<REDACTED>
+2024-10-23 12:43:12,2024-10-23 12:43:22,SMART,notifs,<REDACTED>
+2024-10-23 12:51:30,2024-10-23 12:53:16,SMART,notifs,<REDACTED>
+2024-11-01 00:11:31,2024-11-01 07:48:13,SMART,notifs,<REDACTED>
+2024-11-01 00:11:32,2024-11-01 07:48:13,SMART,ads, Travelling soon? Stay connected across multiple destinations by Pre-booking a GigaRoam data pack. Visit smrt.ph/GigaRoam
+2024-11-02 10:42:48,2024-11-02 10:42:50,SMART,OTP,<REDACTED>
+2024-11-02 10:43:19,2024-11-02 10:43:27,SMART,notifs,<REDACTED>
+2024-11-02 10:43:19,2024-11-02 10:43:27,SMART,notifs,<REDACTED>
+2024-11-02 10:43:19,2024-11-02 10:43:27,SMART,notifs,<REDACTED>
+2024-11-02 10:43:19,2024-11-02 10:43:27,SMART,notifs,<REDACTED>
+2024-11-10 21:00:06,2024-11-10 21:00:10,SMART,notifs,<REDACTED>
+2024-11-10 21:10:08,2024-11-10 21:18:55,SMART,notifs,<REDACTED>
+2024-11-10 22:30:16,2024-11-10 22:33:12,SMART,notifs,<REDACTED>
+2024-11-22 12:42:47,2024-11-22 13:38:23,SMART,notifs,<REDACTED>
+2024-11-25 22:30:40,2024-11-25 22:32:43,SMART,notifs,<REDACTED>
+2024-12-01 08:56:04,2024-12-01 15:10:01,SMART,notifs,<REDACTED>
+2024-12-01 08:56:04,2024-12-01 15:10:01,SMART,ads, Travelling soon? Stay connected across multiple destinations by Pre-booking a GigaRoam data pack. Visit smrt.ph/GigaRoam
+2024-12-03 05:42:18,2024-12-03 05:44:38,SMART,notifs,<REDACTED>
+2024-12-03 13:34:20,2024-12-03 13:34:58,SMART,notifs,<REDACTED>
+2024-12-06 16:26:11,2024-12-06 16:30:18,SMART,notifs,<REDACTED>
+2024-12-11 15:09:52,2024-12-11 15:37:00,SMART,ads,"Experience the power of Smart 5G today!
+
+Unlock ultra-fast speeds for gaming, streaming, and seamless video calls. Make the most of the full 5G experience by enabling 5G on your device.
+
+Here's how:
+1. Go to Settings.
+2. Select Cellular/Network Settings.
+3. Ensure 5G is ON.
+
+Learn more: https://smart.com.ph/Pages/smart5G."
+2024-12-17 10:08:27,2024-12-17 10:08:36,SMART,ads,"Experience the power of Smart 5G today!
+
+Unlock ultra-fast speeds for gaming, streaming, and seamless video calls. Make the most of the full 5G experience by enabling 5G on your device.
+
+Here's how:
+1. Go to Settings.
+2. Select Cellular/Network Settings.
+3. Ensure 5G is ON.
+
+Learn more: https://smart.com.ph/Pages/smart5G."
+2024-12-19 16:40:35,2024-12-19 16:41:43,SMART,ads,"Make the most of your SMART 5G connection NOW! Speed up your holiday connection with UNLI 5G Booster 399 in 5G areas valid for 30 days! Head onto the Smart App now!
+
+Learn more: https://smart.com.ph/Postpaid/add-ons"
+2024-09-27 14:21:12,2024-09-27 14:24:17,BDO Deals,ads,"Get 50 BONUS Peso Points when you Scan to Pay w/ your linked Credit Card using BDO Pay app at SM Store, SM Markets, WalterMart Supermarket, Watsons, Ace Hardware, UNIQLO, Healthy Options & more! Valid for a min P1K spend until 10/31/24.
+
+Search Scan to Pay 50 Points on BDO site. T&Cs apply. DTI200125"
+2024-09-30 14:30:09,2024-09-30 14:30:43,BDO Deals,ads,"30% OFF on buffet at SEVEN CORNERS w/ BDO Credit Cards
+-Min of 2 & max of 6 pax
+-Mon-Sun, fr 8/15-10/31/24
+Search Seven Corners on BDO web for T&C. DTI200174"
+2024-10-01 13:39:27,2024-10-01 13:39:45,BDO Deals,ads,"Avail of exclusive fares from Manila & Clark w/ Emirates using BDO Cards as low as USD690 (Economy) & USD2,318 (Business) to Europe. Book online til 10/9/24 & input promo code: PHBDO24. Travel til 6/30/25. Search Emirates Exclusive Sale on BDO site for T&C. CAB21830919s24. To stop msgs, txt STOP to 225678"
+2024-10-02 10:40:39,2024-10-02 10:43:24,BDO Deals,ads,"Get up to P5K Cashback when you Shop & Dine w/ BDO Mastercard Credit Card for a cumulative spend:
+-P50K for P2.5K Cashback
+-P100K for P5K Cashback
+*Min. P2K per transaction.
+ 
+Enroll using Promo ID 432A4649AA
+Promo runs until 10/31/24.
+ 
+Search Shop and Dine Cashback on BDO website for T&Cs. DTI201501."
+2024-10-02 11:44:27,2024-10-02 11:49:00,BDO Deals,ads,<REDACTED>
+2024-10-03 11:09:35,2024-10-03 11:11:02,BDO Deals,ads,"50% OFF at Paper Moon Cafe w/ BDO Credit Cards
+
+-Min P2K dine-in bill
+-Max P2K OFF
+-Mon-Fri, from 10/1-11/29/24
+
+Search Paper Moon on BDO web for T&C. DTI203262"
+2024-10-03 14:12:38,2024-10-03 14:36:58,BDO Deals,ads,"Get 35% OFF on the ultimate hotpot + buffet combo at Buffet Town, Greenhills with your BDO Credit Card! Valid on Mondays through Fridays until November 15, 2024.
+
+Prefer cardless payments? Experience it with the BDO Pay app and get up to 1,000 BONUS Peso Points when you Scan to Pay until October 31, 2024! Download now! 
+
+For promo details, visit the BDO website, click Deals and search Buffet Town. T&Cs apply. DTI201460 & 200125"
+2024-10-03 14:52:07,2024-10-03 14:53:50,BDO Deals,ads,"Book at Klook .com & get 30% or up to P5K OFF w/ BDO Credit Cards! Use code BDODEALS30 from Oct 4-13, 2024. For T&C, search KLOOK at the BDO website DTI203873"
+2024-10-04 10:09:39,2024-10-04 10:11:52,BDO Deals,ads,"30% OFF on dimsum buffet at XIN TIAN DI w/ BDO Credit Cards
+-Min of 2, max of 6 pax
+-Mon-Sun, fr 8/15-10/31/24
+Search Xin Tian Di on BDO web for T&C. DTI200174"
+2024-10-04 10:38:15,2024-10-04 10:43:02,BDO Deals,ads,"BUY NOW, PAY 4 MONTHS LATER at 0% interest up to 24 months at SM Appliance Center w/ your BDO Credit Card!
+
+Enjoy up to 40% OFF, FREE P400 Max's GC on select items & extra P1,000 OFF with P35K min. spend.
+
+Promo runs until 10/31/24. Visit BDO website, search SM Appliance Center for T&Cs DTI213180 & 201881"
+2024-10-04 15:50:29,2024-10-04 15:54:27,BDO Deals,ads,"Get 50 Peso Points credited to your BDO Rewards Card when you sign up for BDO Pay from Sept 9 - Nov 9, 2024. Download now!
+
+Visit the BDO website for more details. Click Deals, and search BDO Pay Welcome Rewards. T&Cs apply. DTI201874"
+2024-10-07 09:21:33,2024-10-07 09:27:23,BDO Deals,ads,"Get 40% OFF on buffet at Corniche, Diamond Hotel w/ your BDO Credit Card!
+
+Promo rates/pax are extended til 4/30/25:
+P1,794 - Mon - Fri lunch
+P1,908 - Sat lunch & Sun - Wed dinner
+P2,100 - Sun lunch
+P2,328 - Thurs - Sat dinner
+
+Call (02) 8528 3000 to book.
+
+Search Diamond on BDO website for T&C. DTI203868"
+2024-10-07 10:06:27,2024-10-07 10:06:36,BDO Deals,ads,<REDACTED>
+2024-10-08 09:54:35,2024-10-08 09:56:05,BDO Deals,ads,"Up to P500 Cashback on Shopee 10.10 Sale w/ BDO Credit Cards! To join, enroll your Promo ID 432A4649AA til 10/11 For T&C,search Shopee on the BDO site.DTI203423"
+2024-10-08 14:05:44,2024-10-08 14:14:00,BDO Deals,ads,"Enjoy low fares from Manila via Cathay Pacific w/ BDO Cards for as low as USD168* (min. 2 pax travelling together) (Economy) & USD738 (Business) to Hong Kong, USD705 (Economy) & USD3,260 (Business) to USA, & USD745 (Economy) & USD2,366 (Business) to Europe. Promo until 10/13/24. Travel until 6/30/25, unless specified. Search Cathay Pacific Fly Fiesta on the BDO website for T&Cs. CAB22220930s.2024"
+2024-10-08 15:40:55,2024-10-08 15:40:59,BDO Deals,ads,"Experience Manila's biggest OKTOBERFEST at Solaire at up to 30% OFF w/ BDO Credit Cards!
+-Oct 10, 19 or 20, 2024
+Search Oktoberfest on BDO web for T&C.DTI204292"
+2024-10-09 09:05:05,2024-10-09 09:05:20,BDO Deals,ads,<REDACTED>
+2024-10-09 10:09:12,2024-10-09 10:15:35,BDO Deals,ads,"Avail these exclusive fares at the BDO Travel Sale from USD284 (Economy) & USD780 (Business) to Japan, USD220 (Economy) & USD750 (Business) to Korea, USD404 (Economy) & USD2,850 (Business) to USA & USD563 (Economy) & USD2,220 (Business) to Europe. Book via www. bdo. com. ph/travel or at Power Plant Mall (Mall Hours) w/ your BDO Cards on 10/10-13/24. Travel 'til 09/30/25, unless specified. Search BDO Travel Sale on BDO website for T&Cs. DTI202138 & 197106"
+2024-10-09 11:26:51,2024-10-09 11:29:08,BDO Deals,ads,"GrabFood 25% OFF
+FAST CHECKOUT
+-Add BDO Credit Card details
+-Use code BDODEALS w/ P750 min order til 10/15/24
+
+For T&C search GrabFood on BDO site. DTI200418"
+2024-10-09 12:39:51,2024-10-09 12:43:59,BDO Deals,ads,<REDACTED>
+2024-10-09 14:01:24,2024-10-09 14:19:21,BDO Deals,ads,"Up to P500 CASHBACK @ SM Supermarket, SM Hypermarket & Savemore w/ BDO Credit Cards!
+-Min P3K spend
+-Oct weekends
+Search SM Markets @ BDO web for T&C. DTI204082"
+2024-10-10 10:23:32,2024-10-10 10:23:45,BDO Deals,ads,"Get P1,500 Cashback when you shop ONLINE w/ your BDO Mastercard Credit Card! Valid for a min. cumulative ONLINE spend of P25,000 with at least P2,000 per transaction from October 10-14, 2024.
+
+Enroll your Promo ID 432A4649AA until 10/14/24. Search Online Cashback on the BDO website for T&Cs. DTI202961"
+2024-10-10 13:12:53,2024-10-10 13:16:35,BDO Deals,ads,"BUY NOW, PAY NEXT YEAR! Enjoy 0% interest at Abenson, SM Appliance Center, Ace Hardware, Robinsons Appliances, Wilcon, Dyson, Western Appliances, True value & more w/ your BDO Credit Card.
+
+Plus, pay 4 months later.
+
+Promo runs until 12/31/2024. Visit BDO website, search payment holiday for T&Cs DTI197106"
+2024-10-14 09:10:56,2024-10-14 09:19:15,BDO Deals,ads,<REDACTED>
+2024-10-14 10:34:56,2024-10-14 10:45:49,BDO Deals,ads,"BDO Travel Sale is EXTENDED 'til 10/31/24 (unless specified). Book from our airline partners via online or ticket office using BDO Cards for as low as USD284 (Japan) USD220 (Korea), USD404 (USA) & USD563 (Europe). Travel period varies per partner. Search BDO Travel Sale on BDO site for T&Cs. DTI203970"
+2024-10-15 10:21:36,2024-10-15 10:33:53,BDO Deals,ads,<REDACTED>
+2024-10-15 11:33:52,2024-10-15 11:35:37,BDO Deals,ads,"Use your BDO Mastercard to book flights via singaporeair .com and get special fares and perks!
+
+Reach a single-receipt spend of at least:
+*P30K = P2.5K worth of dining GC
+*P60K = P7.5K worth of shopping & dining GC and a one-night hotel stay voucher for travels w/in 01/01-09/30/25.
+
+Promo Code: FLYSQ2025
+
+Book from 10/10-20/24 for travel til 09/30/25, unless specified.
+
+For T&Cs, visit the BDO website and search Singapore Airlines. DTI203875"
+2024-10-17 10:13:19,2024-10-17 10:56:03,BDO Deals,ads,"BUY NOW, PAY 4 MONTHS LATER at 0% interest up to 24 mos. at Power Mac Center & The Loop stores w/ your BDO Credit Card!
+
+Plus, enjoy these exclusive deals until Oct. 20, 2024:
+- Cash/straight price on 0% interest on 3 mos on any iPhone 16 Series
+- P3K Cashback w/ a min. P60K spend (net of discount) on 3-24 mos
+- P2K OFF w/ a min. P60K spend on 6-24 mos
+
+Enroll now using your Promo ID 432A4649AA to avail the cashback.
+Visit BDO website for T&Cs. DTI205054"
+2024-10-17 10:44:24,2024-10-17 10:56:03,BDO Deals,ads,<REDACTED>
+2024-10-17 11:53:51,2024-10-17 11:54:05,BDO Deals,ads,"Up to P500 CASHBACK @ SM Supermarket, SM Hypermarket & Savemore w/ BDO Credit Cards!
+-Min P3K spend
+-Oct weekends
+Search SM Markets @ BDO web for T&C. DTI204082"
+2024-10-18 10:23:25,2024-10-18 10:36:10,BDO Deals,ads,"Get CASH up to P704,000 from your BDO Credit Card! Pay P32,502.28/mo for 24mos at 0.45% monthly add-on rate. Plus, pay up to 2mos later!
+
+Log-on to BDO Personal Online Banking website, click More Services>Card Services>Cash Installment & use promo code 6ZSTR4 or call (02) 8667-1680.
+
+Valid until 10/31/2024.
+
+Availment, amt & rate are subject to BDO approval.
+
+For details, visit BDO website, click Deals & search Rate Flash. T&Cs & fees apply. DTI197461"
+2024-10-18 10:25:39,2024-10-18 10:36:10,BDO Deals,ads,"BUY NOW, PAY 4 MONTHS LATER at Abenson & Electroworld w/ your BDO Credit Card & enjoy 0% interest up to 24 mos. on iPhone 16 purchase.
+ 
+Avail straight/cash price in 6 or 12 mos. at 0% interest from Oct. 18 - 31, 2024.
+
+Visit BDO website & search Abenson for T&Cs DTI202160 To stop msgs, txt STOP to 225678"
+2024-10-18 11:11:28,2024-10-18 11:17:09,BDO Deals,ads,"BUY NOW, PAY NEXT YEAR at 0% interest up to 36 mos at FoneStyle w/ your BDO Credit Card!
+
+Make the move to the new iPhone 16 & get free Usams Earbuds, Speaker, Powerbank & Adapter w/ your purchase. Plus, pay 4 months later.
+
+Promo runs until 12/31/24. Visit BDO Website, search FoneStyle for T&Cs DTI202567"
+2024-10-21 10:57:35,2024-10-21 11:14:32,BDO Deals,ads,"Explore Visayas and get up to 45% OFF at our partner hotel & resorts w/ your BDO Credit Card until 12/31/24.
+
+Search Hotel Deals on BDO site for T&C. DTI191076"
+2024-10-23 10:58:41,2024-10-23 11:01:17,BDO Deals,ads,"Up to 35% OFF on travel insurance, Agoda, Big Sky Nation & Trip .com w/ BDO Cards til 12/31/24. T&C at Online Deals at BDO site DTI183714/202620/190641/184659"
+2024-10-24 10:15:25,2024-10-24 10:21:42,BDO Deals,ads,<REDACTED>
+2024-10-25 12:07:54,2024-10-25 12:10:19,BDO Deals,ads,"Hi, Scott!
+
+Due to inclement weather condition, the 'FASHION NIGHT OUT by Priceless' event scheduled tonight, October 25 at Greenbelt 3 and 4, is POSTPONED.
+
+Please stay tuned for further announcements regarding the new schedule."
+2024-10-28 09:35:07,2024-10-28 10:00:42,BDO Deals,ads,"BUY NOW, PAY NEXT YEAR at SM Store w/ your BDO Credit Card!
+
+Enjoy 0% interest up to 6 months term until Dec 31. Search SM Store at BDO site for T&Cs. DTI182402"
+2024-10-28 14:32:24,2024-10-28 14:39:53,BDO Deals,ads,"Effortlessly earn 50 Rewards Peso Points just by signing up for BDO Pay! Hurry, promo ends on November 9, 2024. Download BDO Pay now. T&Cs apply. DTI201874"
+2024-10-29 10:25:28,2024-10-29 10:42:36,BDO Deals,ads,"30% OFF Dining Deals at The Podium
+
+Dine Better with your BDO Credit Card at the ff restaurants:
+Basil -Bom Gosto -Grifoni's -Jin Joo -LOLA -Nagi Izakaya -Nono's -Salvatore Cuomo -Sen Ryo -Shi Lin
+-P3K min dine-in bill
+-Max P3K OFF
+-Oct 30 to Nov 29
+Search The Podium on BDO web for T&C. DTI205323, 205472"
+2024-10-29 12:05:07,2024-10-29 12:13:54,BDO Deals,ads,"50% OFF at Paper Moon Cafe w/ BDO Credit Cards
+
+-Min P2K dine-in bill
+-Max P2K OFF
+-Mon-Fri, from 10/1-11/29/24
+
+Search Paper Moon on BDO web for T&C. DTI203262"
+2024-10-30 10:40:39,2024-10-30 10:41:37,BDO Deals,ads,"BUY NOW, PAY NEXT YEAR at Solviva Energy and enjoy 0% interest up to 36 months with your BDO Credit Card and start paying in 2025!
+
+Plus, get 5% OFF on all solar system or 1-yr extended workmanship warranty until Dec. 31, 2024.
+
+Visit the BDO website, click Deals and search Solviva. T&Cs apply. DTI 201273"
+2024-10-31 08:39:14,2024-10-31 09:20:23,BDO Deals,ads,"Enjoy exclusive fares via Etihad Airways w/ BDO Cards fr USD548 (Economy) & USD1,890 (Business) to Abu Dhabi & USD886 (Economy) & USD1,877 (Business) to Europe. Book online & use promo code:EYBDO10 fr 11/01-30/24. Travel til 9/30/25. Search Etihad Airways Online Sale on BDO site for T&Cs. CAB22641010s2024"
+2024-10-31 09:42:35,2024-10-31 10:02:57,BDO Deals,ads,"Dine Better w/ BDO Credit and Debit Cards!
+
+- 4+1 buffet feast at Cabalen
+- 20% OFF at Mangan, Soi Thai, & Tsurumaru w/ a min dine-in bill
+
+Promo runs til Jan 15, 2025
+
+Search restaurant name on BDO website for T&C. DTI204485
+
+To stop msgs, txt STOP to 225678"
+2024-10-31 10:14:21,2024-10-31 10:17:30,BDO Deals,ads,"Enhance your vision w/ your BDO Credit Card at Shinagawa Lasik and Aesthetics Center & get up to 50% OFF on LASIK procedures & more! BUY NOW, PAY NEXT YEAR at 0% interest up to 12 mos. Promo runs until Dec 31, 2024. Visit BDO website, search Shinagawa for T&Cs. DTI204824 To stop msgs, txt STOP to 225678"
+2024-11-11 09:12:48,2024-11-11 12:48:35,BDO Deals,ads,"Get your tech dreams from Samsung, Honor or Huawei at the Lazada 11.11 Biggest Sale. 
+
+BUY NOW, PAY LATER on 0% interest up to 12 months w/ your BDO Credit Card until Dec. 31, 2024. 
+
+Choose 0% installment as payment method and select term.
+
+Visit BDO website, click Deals, search Lazada for T&Cs DTI182961"
+2024-11-11 10:18:45,2024-11-11 12:48:35,BDO Deals,ads,"Get P1,500 Cashback when you shop ONLINE w/ your BDO Mastercard Credit Card! Valid for a min. cumulative ONLINE spend of P25,000 with at least P2,000 per transaction from November 11-15, 2024.
+
+Enroll your Promo ID 432A4649AA until 11/15/24. Search Online Cashback on the BDO website for T&Cs. DTI205351"
+2024-11-11 11:18:55,2024-11-11 12:48:35,BDO Deals,ads,"Discover Roger Vivier's classic styles on Nov 15-17, 2024 from 4PM-8PM at Greenbelt 3 and enjoy cocktails with a complimentary gift. BUY NOW, PAY NEXT YEAR at 0% interest up to 12 months with your BDO Credit Card. Text 09171474688 for RSVP. Visit BDO Website, Deals, search Roger Vivier for T&Cs. DTI197106"
+2024-11-11 16:34:15,2024-11-11 16:56:58,BDO Deals,ads,"Promo extended until Dec. 9, 2024! Get 50 Peso Points credited to your BDO Rewards Card when you sign up for BDO Pay. View your BDO Rewards Card when you sign up and keep using the app to earn and redeem Peso Points. Download now! Visit the BDO website for more details. Click Deals, and search BDO Pay Welcome Rewards. T&Cs apply. DTI201874"
+2024-11-12 10:25:22,2024-11-12 16:25:22,BDO Deals,ads,"BUY NOW, PAY NEXT YEAR at 0% interest up to 24 mos. at Silicon Valley w/ your BDO Credit Card. Plus, get a free Persona Powerbank on iPhone 16 or avail straight/cash price in 3 mos. at 0% interest until 12/31/24. Visit BDO website, search Silicon Valley for T&Cs. DTI206142 To stop msgs, txt STOP to 225678"
+2024-11-12 10:41:17,2024-11-12 16:25:22,BDO Deals,ads,"Indulge in luxury at Bvlgari Greenbelt 3 on Nov. 13 from 9AM-11AM. Discover High Jewelry, Watches & Exotic Leather Goods w/ exquisite treats.
+
+BUY NOW, PAY NEXT YEAR at 0% interest up to 36 mos. w/ your BDO Credit Card. Promo runs til 12/31/24. Visit BDO Website, Deals, search Bvlgari for T&Cs. DTI197106"
+2024-11-13 10:38:44,2024-11-13 11:51:47,BDO Deals,ads,"Get up to 30% OFF on hotel stays with your BDO Mastercard.
+
+-Up to 30% OFF on Booking .com
+-10% OFF on Agoda
+-MASTERPH7:Up to 7% OFF on Expedia
+-MCPH7:Up to 7% OFF on Hotels .com
+
+Booking and stay period vary per merchant.
+
+Search Hotel Stays at BDO website for T&Cs. DTI185919/193672/194415/189966"
+2024-11-20 08:37:31,2024-11-20 14:23:51,BDO Deals,ads,<REDACTED>
+2024-11-20 09:40:47,2024-11-20 14:23:51,BDO Deals,ads,"25% OFF at El Pollo Loco & Randy's w/ BDO Credit Cards
+-Min P1k bill
+-Max P750 OFF
+-11/19-12/19, Tue-Thu
+Search The Bistro Group on BDO web for T&C. DTI206959"
+2024-11-20 14:42:23,2024-11-20 14:55:58,BDO Deals,ads,"Time to own the watch you've been eyeing! 
+
+BUY NOW, PAY NEXT YEAR at 0% interest up to 36 months term with your BDO Credit Card.
+
+Plus, save up to 20% on exquisite timepieces and unlock exclusive freebies from our partners:
+
+- Hour Glass
+- Time Trend Center
+- The Watch Store
+- Tissot
+- TechnoMarine
+- Washington
+- Frederique Constant
+- Gem Time Plus
+
+Promo runs until Dec. 31, 2024. Visit BDO website, click Deals, search Watches for T&Cs. DTI202115"
+2024-11-21 14:29:17,2024-11-21 15:09:51,BDO Deals,ads,"Celebrate the holidays w/ more funds! Use your BDO Credit Card to get CASH up to P749,000. Pay P24,178.67/mo. for 36 mos. at 0.45% monthly interest.
+
+Ways to avail:
+- Visit BDO website, click Deals, search Rate Drop and click AVAIL NOW
+- Call (02) 8667-1680
+- Log-in to your BDO Pay App, tap Cash Installment>  Avail Cash
+
+Use Promo ID 432A4649AA
+
+Valid until 01/31/25. Availment, amount and rate are subject to BDO approval. T&Cs & fees apply. DTI206390"
+2024-11-21 15:48:52,2024-11-21 15:53:23,BDO Deals,ads,Sign up for BDO Pay today and receive 50 Rewards Peso Points credited to your BDO Rewards Card! T&Cs apply. DTI201874. Download the BDO Pay app now.
+2024-11-22 10:27:11,2024-11-22 13:38:17,BDO Deals,ads,"Get P500 coupon on Uniqlo App with BDO Cards! Open for new app users for min. spend P3.5K til 12/22. For T&C, search Uniqlo on the BDO site. DTI207512"
+2024-11-22 15:19:19,2024-11-22 15:22:24,BDO Deals,ads,"Enjoy exclusive Black Friday Deals when you fly w/ China Airlines. USD306 (Economy), USD1,116 (Business) Japan, USD558 (Economy), USD3,690 (Business) USA, USD595 (Economy), USD2,565 (Business) Australia. Plus, avail of FLY NOW, PAY NEXT YEAR at 0% interest on 3 mos. term and pay 4 mos. later w/ BDO Credit Cards. Promo until December 6, 2024. Travel until October 31, 2025. Search China Airlines Black Friday Deals on BDO website for T&C. DTI207657."
+2024-11-22 15:37:07,2024-11-22 15:38:00,BDO Deals,ads,"Discover exquisite Lindberg frames at George Optical's ZEISS Vision Center Greenhills on Nov 22-23 & enjoy exclusive gifts with your BDO Credit Card. Pay 4 mos. later at 0% interest up to 12 mos until Dec. 31, 2024. Visit BDO website, search George for T&Cs. DTI207624 To stop msgs, text STOP to 225678"
+2024-11-25 09:40:33,2024-11-25 14:02:58,BDO Deals,ads,"Celebrate Now, Pay Next Year with your BDO Credit Card! 
+
+Plan your perfect event with ease & enjoy 0% interest up to 12 months term or a low 0.65% monthly add-on rate for up to 36 months at New World Hotel, City of Dreams, Taal Vista Hotel, Pico Sands Hotel, The Bellevue Manila, Joy Nostalg Hotel & Suites, Lanson Place, Club Paradise Palawan, and more!
+
+Promo runs until Dec. 31, 2024. Visit BDO website, click Deals, search Celebrations for T&Cs DTI191542"
+2024-11-26 11:44:30,2024-11-26 13:40:13,BDO Deals,ads,"Celebrate the holidays with more funds! Get CASH up to P749,000 with your BDO Credit Card & pay P24,178.67/month for 36 months at 0.45% monthly interest. 
+
+Ways to avail:
+- Visit BDO website, click Deals, search Rate Drop & click AVAIL NOW
+- Log-in to BDO Pay App, tap Cash Installment > Avail Cash
+- Visit any BDO Branch
+
+Use Promo ID 432A4649AA.
+
+Valid until 01/31/2025. Availment, amount & rate are subject to BDO approval. T&Cs & fees apply. DTI206390"
+2024-11-26 13:53:05,2024-11-26 13:53:41,BDO Deals,ads,<REDACTED>
+2024-11-27 08:47:51,2024-11-27 15:30:05,BDO Deals,ads,"Enjoy exclusive Cruise Packages with BDO Credit or Debit Card. Choose from 8-day Alaska Cruise (USD 403), 8-day Mediterranean Cruise (USD 853) and more. Plus, avail of FLY NOW, PAY NEXT YEAR at 0% interest on 3 months term and pay 4 months later with BDO Credit Cards. Promo until December 6, 2024. Travel until December 8, 2025. Search BDO Cruise Exclusives on BDO website for T&C. DTI207657."
+2024-11-28 09:49:24,2024-11-28 12:12:45,BDO Deals,ads,<REDACTED>
+2024-11-28 11:04:54,2024-11-28 12:12:45,BDO Deals,ads,"BUY NOW, PAY NEXT YEAR at 0% interest up to 24 mos. at Huawei Concept Stores w/ your BDO Credit Card! Get a free sports kettle, backpack & 1-yr VIU VIP Subscription w/ every purchase of Huawei Pura 70 Series.
+
+Plus, pay 4 months later until Dec 31, 2024. Visit BDO Website, search Huawei for T&Cs DTI193754"
+2024-11-28 15:13:50,2024-11-28 15:20:33,BDO Deals,ads,"BUY NOW, PAY NEXT YEAR with 0% interest up to 36 months and pay 4 months later at OGAWA with your BDO Credit Card!
+
+Enjoy up to 50% OFF on select items, additional savings & free gifts with qualifying purchases until 12/31/24. Visit BDO website, click Deals & search Ogawa for details. T&Cs apply DTI203503"
+2024-11-29 10:54:45,2024-11-29 12:33:08,BDO Deals,ads,<REDACTED>
+2024-11-29 15:46:59,2024-11-29 15:54:04,BDO Deals,ads,Get 20% OFF + FREE Shipping on Amazon's Black Friday Sale w/ BDO Cards! Use code BDODEALS20 on USD100 spend til 12/3.Search Amazon on BDO site for T&C.DTI208112
+2024-12-03 11:54:56,2024-12-03 12:11:21,BDO Deals,ads,"25% OFF at El Pollo Loco & Randy's w/ BDO Credit Cards
+-Min P1k bill
+-Max P750 OFF
+-11/19-12/19, Tue-Thu
+Search The Bistro Group on BDO web for T&C. DTI206959"
+2024-12-05 15:21:59,2024-12-05 15:23:21,BDO Deals,ads,"Enjoy 35% OFF on buffet at Cafe Ilang-Ilang, The Manila Hotel with your BDO Card! 
+
+Promo rates per pax are valid until 12/30/24:
+P2,142 - Mon-Sat lunch
+P2,240 - Sun lunch & Sun-Wed dinner
+P2,659 - Thu-Sat dinner
+
+Call (02) 8527 0011 to reserve.
+
+Search Manila Hotel on BDO site for T&C. DTI186240,186250"
+2024-12-06 10:31:58,2024-12-06 10:37:04,BDO Deals,ads,"Enjoy 50% OFF on buffet at Seasonal Tastes, The Westin Manila with your BDO Card!
+Valid for 2 to 10 pax til 06/30/25
+
+Search Westin on BDO web for T&C
+DTI207939"
+2024-12-06 13:35:31,2024-12-06 14:18:04,BDO Deals,ads,"Enjoy up to 50% OFF on premium hotel experience with your BDO Credit or Debit Card!
+
+-Crimson Hotel, Filinvest City, Manila
+-La Jolla Luxury Beach Resort
+-Holiday Inn & Suites Makati
+-Hotel A&A
+-ACEA Subic Beach Resort
+
+Promo runs until 06/30/25.
+
+Search the hotel name on BDO web for T&C DTI206472, 207804"
+2024-12-06 15:16:17,2024-12-06 15:17:14,BDO Deals,ads,"Sign up for BDO Pay and receive 50 Peso Points! Scan to Pay, view your transactions, and enjoy credit card deals via the app! Download and sign up by December 9, 2024.
+
+T&Cs apply. DTI201874"
+2024-12-10 09:31:11,2024-12-10 09:51:41,BDO Deals,ads,"Travel Better with up to 68% OFF on hotel stay w/ your BDO Credit or Debit Card!
+
+-Crimson Resort and Spa Boracay
+-The Strand Boutique Resort
+-Mandarin Nest Boracay
+-Canvas Boutique Hotel
+
+Promo runs until 6/30/25.
+
+Search the hotel on BDO web for T&C DTI206722, 207804
+To stop msgs, txt STOP to 225678"
+2024-12-10 14:09:37,2024-12-10 14:09:54,BDO Deals,ads,"Enjoy the Lazada 12.12 All Out Pasko Sale with BUY NOW, PAY LATER at 0% interest up to 12 months term with your BDO Credit Card.
+
+Choose 0% installment as payment method & select term. Promo is until December 31, 2024.
+
+Visit BDO website, click Deals, search Lazada for promo details. T&Cs apply. DTI182961"
+2024-12-10 14:44:53,2024-12-10 14:45:31,BDO Deals,ads,"25% OFF at California Pizza Kitchen with BDO Cards
+
+Min P3K dine-in or take-out bill
+Max P1.5K OFF
+Mon-Fri til 12/27/24
+
+Search CPK on BDO web for T&C
+DTI205500"
+2024-12-11 14:28:24,2024-12-11 14:34:22,BDO Deals,ads,"12.12 Flash DEAL
+
+Save BIG on Lazada, Shopee, TikTok, SHEIN, & Temu 12.12 sale!
+
+Use your BDO Credit Card & accumulate spend of:
+-P30K to get P3K Cashback
+-P15K to get P1K Cashback  
+Min of P2K/transaction
+
+Enroll Promo ID 432A4649AA until 12/13/24
+Search 12.12 Cashback on the BDO Site for T&C
+DTI208262"
+2024-12-11 15:08:17,2024-12-11 15:37:02,BDO Deals,ads,"17% or up to P1.5K OFF on Lazada w/ BDO Credit Cards (Dec 11, 8pm - Dec 13, '24). Collect voucher w/ min P5K spend. Search Lazada 12.12 on BDO site DTI206608"
+2024-12-16 11:39:45,2024-12-16 11:50:17,BDO Deals,ads,"Celebrate the holidays w/ more funds! Get CASH up to P89,000 w/ your BDO Credit Card & pay P2,873.03/mo. for 36 mos. at 0.45% monthly interest.
+
+Ways to avail:
+- Visit BDO website> Deals, search Rate Drop, click AVAIL NOW
+- Log-in to BDO Pay App, tap Installment Offers> Cash Installment> Avail Cash
+- Visit any BDO Branch
+
+Use Promo ID 432A4649AA
+
+Valid until 01/31/25. Availment, amount & rate are subject to BDO approval. T&Cs, fees apply. DTI206390"
+2024-12-18 09:03:23,2024-12-18 09:10:27,BDO Deals,ads,"Enjoy 8% OFF on hotels worldwide at Agoda w/ BDO Cards! Book via agoda .com / bdo until 1/31/25. For T&C, search Agoda on the BDO website. DTI184659"
+2024-12-18 11:51:44,2024-12-18 11:55:05,BDO Deals,ads,"SAVE THE DATE! Book exclusive deals w/ BDO Cards via online at www. bdo. com. ph/ travel or onground in Manila (Jan 9-12), Davao (Jan 17-19) & Cebu (Jan 24-26) from PAL, JAL, Emirates, EVA Air, Qatar Airways, Asiana Airlines, ANA, Turkish Airlines, Qantas, Air France, China Airlines, Starlux, Thai Airways, Vietnam Airlines, Jetstar, AirAsia, Zipair & more. Partners vary per event location. Search The Great BDO Travel Sale on BDO website for T&C. DTI208190"
+2024-12-13 22:04:19,2024-12-14 05:58:44,PLDT Deals,ads,"Our cordless landline is now back in stock!
+
+Elevate your home and call experience with our sleek handset for just P99/month! Walk around freely while on calls, store important contacts and pick your ringtone!
+
+Hurry and text 'PLDT TELSET' to 225687 before stocks run out! Learn more at pldthome.info/at1"
+2024-12-12 21:11:58,2024-12-13 06:12:50,redacted_contact,notifs,<REDACTED>
+2024-12-12 21:12:23,2024-12-13 06:12:50,redacted_contact,notifs,<REDACTED>
+2024-10-30 13:03:23,2024-10-30 13:03:25,redacted_business,notifs,<REDACTED>
+2024-11-12 17:19:32,2024-11-12 17:19:34,redacted_business,OTP,<REDACTED>
+2024-11-12 17:20:45,2024-11-12 17:20:46,redacted_business,OTP,<REDACTED>
+2024-11-12 17:22:05,2024-11-12 17:22:05,redacted_business,OTP,<REDACTED>
+2024-11-12 17:23:25,2024-11-12 17:23:26,redacted_business,OTP,<REDACTED>
+2024-11-12 17:24:17,2024-11-12 17:24:17,redacted_business,OTP,<REDACTED>
+2024-11-12 17:25:10,2024-11-12 17:25:11,redacted_business,OTP,<REDACTED>
+2024-11-12 17:26:01,2024-11-12 17:26:01,redacted_business,OTP,<REDACTED>
+2024-12-11 11:54:57,2024-12-11 11:55:00,redacted_business,notifs,<REDACTED>
+2024-09-29 19:45:26,2024-09-29 19:45:29,GCash,OTP,<REDACTED>
+2024-10-06 18:17:50,2024-10-06 18:18:01,GCash,notifs,<REDACTED>
+2024-10-11 09:00:08,2024-10-11 09:00:21,GCash,notifs,<REDACTED>
+2024-10-14 09:01:58,2024-10-14 09:02:01,GCash,OTP,<REDACTED>
+2024-10-14 14:15:32,2024-10-14 14:16:02,GCash,notifs,<REDACTED>
+2024-10-16 11:38:43,2024-10-16 11:38:46,GCash,notifs,<REDACTED>
+2024-10-21 07:13:57,2024-10-21 07:13:58,GCash,OTP,<REDACTED>
+2024-10-23 09:22:46,2024-10-23 09:22:47,GCash,OTP,<REDACTED>
+2024-10-27 16:43:43,2024-10-27 16:43:44,GCash,OTP,<REDACTED>
+2024-10-31 12:58:41,2024-10-31 12:58:43,GCash,OTP,<REDACTED>
+2024-11-29 03:20:32,2024-11-29 04:19:10,GCash,notifs,<REDACTED>
+2024-12-03 10:14:57,2024-12-03 10:14:59,GCash,OTP,<REDACTED>
+2024-12-03 13:04:08,2024-12-03 13:09:00,GCash,notifs,<REDACTED>
+2024-12-06 17:30:05,2024-12-06 17:31:13,GCash,notifs,<REDACTED>
+2024-12-07 11:08:31,2024-12-07 11:08:54,GCash,notifs,<REDACTED>
+2024-12-09 18:34:08,2024-12-09 18:34:25,GCash,notifs,<REDACTED>
+2024-12-10 10:27:42,2024-12-10 10:27:44,GCash,OTP,<REDACTED>
+2024-12-10 14:40:02,2024-12-10 14:41:06,GCash,notifs,<REDACTED>
+2024-12-10 12:00:34,2024-12-10 12:01:39,redacted_contact,notifs,<REDACTED>
+2024-10-06 12:09:18,2024-10-06 12:09:22,redacted_business,notifs,<REDACTED>
+2024-10-06 12:09:37,2024-10-06 12:11:54,redacted_business,notifs,<REDACTED>
+2024-11-02 14:17:53,2024-11-02 14:21:16,redacted_business,notifs,<REDACTED>
+2024-12-07 13:46:11,2024-12-07 13:47:15,redacted_business,notifs,<REDACTED>
+2024-12-07 13:30:06,2024-12-07 13:31:21,redacted_contact,notifs,<REDACTED>
+2024-12-06 19:42:10,2024-12-06 19:42:14,+6393067***41,spam,"<<# $ %>>GJCKpotna.lat<<£ ¥ §>
+
+Only 19 days to Christmas! GOJACKPOT rewards you with a 6% deposit bonus & 50% Friday Bonus. Dont miss your winning chance!"
+2024-12-06 15:29:41,2024-12-06 15:29:42,redacted_business,notifs,<REDACTED>
+2024-12-06 15:31:26,2024-12-06 15:31:26,redacted_business,notifs,<REDACTED>
+2024-12-05 22:14:50,2024-12-05 22:16:44,redacted_business,notifs,<REDACTED>
+2024-10-02 07:17:58,2024-10-02 07:20:38,redacted_business,notifs,<REDACTED>
+2024-10-28 23:30:50,2024-10-29 07:39:16,redacted_business,notifs,<REDACTED>
+2024-10-31 09:26:48,2024-10-31 09:27:06,redacted_business,notifs,<REDACTED>
+2024-12-03 13:10:11,2024-12-03 13:13:00,redacted_business,notifs,<REDACTED>
+2024-11-30 13:15:26,2024-11-30 14:50:33,redacted_individual,notifs,<REDACTED>
+2024-11-30 13:15:45,2024-11-30 14:50:33,redacted_individual,notifs,<REDACTED>
+2024-11-25 08:52:26,2024-11-25 09:27:15,redacted_business,notifs,<REDACTED>
+2024-11-21 11:19:29,2024-11-21 15:09:52,PAGIBIGFUND,gov,"Hi, SCOTT. Good news! You are now qualified for a Pag-IBIG Multi-Purpose Loan (MPL). Apply now and receive your loan in as fast as 3 days! Enjoy low monthly payments and choose to pay your loan under a 2 or 3-year payment term. You may now file your loan application at any Pag-IBIG Fund branch or online by going to the Pag-IBIG Fund website> Virtual Pag-IBIG for Members> Apply for and Manage Loans> Apply for a Short-Term Loan. To know more about the Pag-IBIG Multi-Purpose Loan, you may call us at (02)87-244244, email us at contactus@pagibigfund.gov.ph, or chat with us by visiting our website. 'Yan ang Pag-IBIG Multi-Purpose Loan - Tulong na Maaasahan! "
+2024-11-10 21:06:32,2024-11-10 21:06:32,redacted_business,OTP,<REDACTED>
+2024-11-10 21:20:39,2024-11-10 21:20:39,redacted_business,OTP,<REDACTED>
+2024-11-14 16:59:54,2024-11-14 16:59:56,redacted_business,OTP,<REDACTED>
+2024-11-13 20:28:35,2024-11-13 20:33:06,+6397049***83,spam,"Catch midweek wave of fortune!Up to 100000x multipliers in slotgames, grab chance to win P1,224,834,000 and Vlvo V30PRO 5G!
+
+
+?>#>Gjakpt.email<#"
+2024-11-13 16:58:27,2024-11-13 16:58:34,+6396155***13,spam,Hi po
+2024-10-24 16:08:33,2024-10-24 16:08:33,redacted_contact,notifs,<REDACTED>
+2024-11-13 09:04:10,2024-11-13 11:51:50,redacted_contact,notifs,<REDACTED>
+2024-10-30 13:06:54,2024-10-30 13:06:57,SmartApp,OTP,<REDACTED>
+2024-11-02 10:41:29,2024-11-02 10:41:31,SmartApp,OTP,<REDACTED>
+2024-11-02 19:09:31,2024-11-02 19:09:41,SmartApp,OTP,<REDACTED>
+2024-11-03 12:06:55,2024-11-03 12:06:57,SmartApp,OTP,<REDACTED>
+2024-11-01 11:51:25,2024-11-01 11:52:56,TIEZA,gov,<REDACTED>
+2024-11-01 11:52:08,2024-11-01 11:52:56,TIEZA,gov,<REDACTED>
+2024-11-01 10:57:35,2024-11-01 10:58:23,redacted_business,notifs,<REDACTED>
+2024-11-01 00:21:13,2024-11-01 07:48:16,redacted_business,notifs,<REDACTED>
+2024-09-30 09:28:47,2024-09-30 09:28:48,UnionBank,OTP,<REDACTED>
+2024-09-30 09:28:55,2024-09-30 09:30:47,UnionBank,notifs,<REDACTED>
+2024-10-27 16:45:27,2024-10-27 16:45:28,UnionBank,OTP,<REDACTED>
+2024-10-27 16:45:33,2024-10-27 16:45:38,UnionBank,notifs,<REDACTED>
+2024-10-31 15:24:40,2024-10-31 15:25:01,UnionBank,OTP,<REDACTED>
+2024-10-31 15:25:09,2024-10-31 15:26:50,UnionBank,notifs,<REDACTED>
+2024-09-28 13:48:32,2024-09-28 13:51:54,NTC,gov,DICT: Beware of scammers posing as DICT employees threatening SIM suspension for alleged illegal use. Report suspicious calls at 89200101 loc. 1140 immediately.
+2024-09-29 11:44:52,2024-09-29 12:13:42,NTC,gov,DICT: Good news! Mayroon na tayong government services one stop app - narito na ang eGovPH App! I-download na ang eGovPH App mula sa App Store at Google Play.
+2024-10-01 18:13:09,2024-10-01 18:42:44,NTC,gov,DICT: Ang National ID mo nasa cellphone mo na! I-download lang ang eGovPH  App mula sa Appstore at Google  Play. Download eGovPH app now!
+2024-10-06 19:13:16,2024-10-06 19:24:13,NTC,gov,"DICT:
+Maaari ng makita ang inyong PhilHealth membership, contributions at konsulta provider sa eGovPH app. I-dwnload na ang eGovPH sa AppStore at GooglePlay"
+2024-10-09 07:15:09,2024-10-09 07:30:55,NTC,gov,SEC: Bayad muna para ma-process ang loan? Advance Fee Scam 'yan! Hindi humihingi ng paunang bayad and lending companies bago magpautang
+2024-10-11 09:40:33,2024-10-11 10:06:52,NTC,gov,"DICT:Good news! Ang mga online government services, nasa iisang app na! I-download na ang eGovPH App mula sa App Store and Google Play. Download eGovPH app now!"
+2024-10-14 10:43:03,2024-10-14 10:45:51,NTC,gov,SEC: Fast and easy loan pero kailangan ng advance fee? Scam 'yan! Maging mapanuri at huwag maging biktima. Check with SEC!
+2024-10-16 11:53:19,2024-10-16 11:53:39,NTC,gov,DICT: Nandito na ang eGovPH App! Layon nito na mapabilis ang pagbibigay ng serbisyo mula sa gobyerno. I-download na ang eGovPH App sa App Store at Google Play.
+2024-10-19 07:32:53,2024-10-19 08:45:12,NTC,gov,SEC: Bayad muna bago utang? Baka advance fee scam na 'yan. Dumulog sa SEC website o official FB page para sa dagdag kaalaman.
+2024-10-21 08:54:41,2024-10-21 09:02:43,NTC,gov,DICT: Ang National ID mo nasa cellphone mo na! I-download lang ang eGovPH  App mula sa Appstore at Google  Play. Download eGovPH app now!
+2024-10-26 08:07:44,2024-10-26 09:28:20,NTC,gov,DICT: Travelling soon with your loved ones? Good news! eTravel is now in eGovPH App! Download eGovPH App from App Store at Google Play. Download eGovPH app now!
+2024-10-31 08:26:13,2024-10-31 09:20:21,NTC,gov,"DICT:Good news! Ang mga online government services, nasa iisang app na! I-download na ang eGovPH App mula sa App Store and Google Play. Download eGovPH app now!"
+2024-10-29 18:30:38,2024-10-29 19:16:51,redacted_contact,notifs,<REDACTED>
+2024-10-29 18:30:52,2024-10-29 19:16:51,redacted_contact,notifs,<REDACTED>
+2024-10-26 15:33:39,2024-10-26 15:34:46,redacted_individual,notifs,<REDACTED>
+2024-10-29 09:19:45,2024-10-29 09:19:49,redacted_individual,notifs,<REDACTED>
+2024-10-28 08:41:09,2024-10-28 09:03:20,redacted_individual,notifs,<REDACTED>
+2024-10-28 08:41:07,2024-10-28 09:03:21,redacted_business,notifs,<REDACTED>
+2024-10-20 07:56:51,2024-10-20 07:56:53,redacted_business,notifs,<REDACTED>
+2024-10-20 07:58:03,2024-10-20 07:58:03,redacted_business,notifs,<REDACTED>
+2024-10-19 11:42:29,2024-10-19 11:43:30,redacted_business,notifs,<REDACTED>
+2024-10-19 10:11:48,2024-10-19 10:11:52,redacted_business,notifs,<REDACTED>
+2024-10-17 16:49:12,2024-10-17 18:00:27,PLDTRewards,ads,"Join PLDT Home Rewards to get P150 in points for first-time Caltex Rewards users, use it for your next gas-up! Plus, every PLDT bills payment and plan upgrade from October to December 2024 gives you raffle entries for a chance to win up to P200,000 in prizes! Click https://pldthome.info/fyf-know-join-sms to learn more! 
+
+DTI203396, S24"
+2024-10-13 17:21:25,2024-10-13 17:21:38,+6396383***95,spam,"<;w1plsMega.help;>
+
+
+ 
+Celebrate family time this Sunday! Claim your P3,888 bonus and share achievements on Facebook for an extra P50. Win up to P16M!"
+2024-10-12 20:35:08,2024-10-12 20:53:05,Savvy,spam,PG GMAE - You received 188.00 P play or withdraw Register and receive !! https://sl07.pw/index?type=4&channelId=309
+2024-10-12 17:06:32,2024-10-12 17:06:37,redacted_business,notifs,<REDACTED>
+2024-10-11 11:42:01,2024-10-11 11:42:03,redacted_business,notifs,<REDACTED>
+2024-10-08 13:48:42,2024-10-08 13:48:44,redacted_business,notifs,<REDACTED>
+2024-10-08 13:58:21,2024-10-08 13:58:21,redacted_business,notifs,<REDACTED>
+2024-10-04 19:10:52,2024-10-04 19:10:57,redacted_business,OTP,<REDACTED>
+2024-10-04 19:35:42,2024-10-04 19:43:26,redacted_business,OTP,<REDACTED>
+2024-10-01 16:43:02,2024-10-01 16:43:10,redacted_individual,OTP,<REDACTED>
+2024-09-30 22:10:58,2024-09-30 22:13:42,redacted_individual,OTP,<REDACTED>
+2024-09-30 19:24:05,2024-09-30 19:28:33,redacted_business,OTP,<REDACTED>
+2024-09-30 10:52:23,2024-09-30 11:05:32,redacted_individual,notifs,<REDACTED>
+2024-09-30 10:52:27,2024-09-30 11:05:32,redacted_individual,notifs,<REDACTED>
+2024-10-01 12:57:58,2024-10-01 14:18:47,redacted_business,notifs,<REDACTED>
+2024-10-10 08:56:14,2024-10-10 08:56:19,redacted_business,OTP,<REDACTED>
+2024-12-03 08:37:28,2024-12-03 08:37:43,redacted_business,notifs,<REDACTED>
+2024-12-11 11:43:17,2024-12-11 11:43:25,redacted_business,OTP,<REDACTED>
+2024-12-16 14:09:49,2024-12-16 15:11:05,redacted_business,notifs,<REDACTED>
+2024-12-23 10:15:55,2024-12-23 18:15:50,redacted_business,notifs,<REDACTED>
+2024-10-29 17:49:09,2024-10-29 19:01:31,redacted_business,notifs,<REDACTED>
+2024-12-04 17:08:05,2024-12-07 04:30:15,redacted_business,notifs,<REDACTED>
+2024-10-08 10:43:41,2024-10-08 10:44:00,redacted_business,notifs,<REDACTED>
+2024-10-24 10:32:16,2024-10-24 10:33:20,redacted_business,notifs,<REDACTED>
 2024-09-03 05:00:42,2024-09-03 09:27:07,redacted_business,notifs,<REDACTED>
 2024-09-03 09:28:28,2024-09-03 09:28:47,redacted_business,OTP,<REDACTED>
 2024-09-03 10:42:22,2024-09-03 10:42:26,redacted_business,OTP,<REDACTED>
