@@ -1,4 +1,1309 @@
 date-received,date-read,sender,category,text
+2025-02-02 11:29:25,2025-02-02 11:39:27,redacted_business,notifs,<REDACTED>
+2025-02-02 11:47:27,2025-02-02 11:52:19,redacted_business,notifs,<REDACTED>
+2025-02-23 09:46:58,2025-02-23 09:47:15,redacted_business,notifs,<REDACTED>
+2025-02-23 09:48:00,2025-02-23 09:48:10,redacted_business,notifs,<REDACTED>
+2025-02-23 09:54:16,2025-02-23 09:54:20,redacted_business,notifs,<REDACTED>
+2025-02-23 09:54:17,2025-02-23 09:54:20,redacted_business,notifs,<REDACTED>
+2025-02-26 07:56:01,2025-02-26 07:56:07,redacted_business,notifs,<REDACTED>
+2025-03-17 16:07:26,2025-03-17 16:08:20,redacted_business,notifs,<REDACTED>
+2025-03-18 08:09:45,2025-03-18 08:09:48,redacted_business,notifs,<REDACTED>
+2025-03-20 07:33:18,2025-03-20 07:59:44,redacted_business,notifs,<REDACTED>
+2025-03-20 23:00:50,2025-03-20 23:11:32,redacted_business,notifs,<REDACTED>
+2025-03-21 12:27:37,2025-03-21 12:31:30,redacted_business,notifs,<REDACTED>
+2025-03-21 12:39:09,2025-03-21 12:39:12,redacted_business,notifs,<REDACTED>
+2025-03-21 12:42:51,2025-03-21 12:42:53,redacted_business,notifs,<REDACTED>
+2025-03-22 09:07:55,2025-03-22 09:08:32,redacted_business,notifs,<REDACTED>
+2025-03-24 09:50:02,2025-03-24 10:02:19,redacted_business,notifs,<REDACTED>
+2025-03-26 18:06:40,2025-03-26 18:06:49,redacted_business,notifs,<REDACTED>
+2025-04-04 11:00:45,2025-04-04 11:03:56,redacted_business,notifs,<REDACTED>
+2025-04-04 12:15:50,2025-04-04 12:18:36,redacted_business,notifs,<REDACTED>
+2025-04-04 12:16:33,2025-04-04 12:18:36,redacted_business,notifs,<REDACTED>
+2025-04-09 07:52:21,2025-04-09 07:55:28,redacted_business,notifs,<REDACTED>
+2025-04-14 15:11:17,2025-04-14 15:11:20,redacted_business,notifs,<REDACTED>
+2025-04-17 11:03:21,2025-04-17 11:04:11,redacted_business,notifs,<REDACTED>
+2025-04-17 11:57:53,2025-04-17 11:59:51,redacted_business,notifs,<REDACTED>
+2025-04-17 12:08:25,2025-04-17 12:25:59,redacted_business,notifs,<REDACTED>
+2025-04-17 12:13:47,2025-04-17 12:25:59,redacted_business,notifs,<REDACTED>
+2025-04-17 18:39:06,2025-04-17 18:45:15,redacted_business,OTP,<REDACTED>
+2025-04-20 16:06:11,2025-04-20 16:08:55,redacted_business,notifs,<REDACTED>
+2025-04-21 02:03:34,2025-04-21 07:39:41,redacted_business,notifs,<REDACTED>
+2025-04-22 08:23:02,2025-04-22 08:23:44,redacted_business,notifs,<REDACTED>
+2025-04-22 09:25:36,2025-04-22 09:26:07,redacted_business,notifs,<REDACTED>
+2025-04-24 02:02:50,2025-04-24 09:04:55,redacted_business,notifs,<REDACTED>
+2025-04-24 10:03:17,2025-04-24 10:03:23,redacted_business,notifs,<REDACTED>
+2025-04-27 18:12:03,2025-04-27 18:16:27,redacted_business,notifs,<REDACTED>
+2025-04-27 18:16:18,2025-04-27 18:16:27,redacted_business,notifs,<REDACTED>
+2025-04-27 20:46:40,2025-04-27 20:48:38,redacted_business,notifs,<REDACTED>
+2025-05-09 09:31:24,2025-05-09 09:31:31,redacted_business,notifs,<REDACTED>
+2025-05-11 17:11:14,2025-05-11 17:12:19,redacted_business,notifs,<REDACTED>
+2025-05-11 22:26:39,2025-05-11 22:29:07,redacted_business,notifs,<REDACTED>
+2025-05-25 18:34:55,2025-05-25 18:36:07,redacted_business,notifs,<REDACTED>
+2025-05-27 22:26:39,2025-05-27 22:34:05,redacted_business,notifs,<REDACTED>
+2025-06-03 09:11:48,2025-06-03 09:15:24,redacted_business,notifs,<REDACTED>
+2025-06-03 21:21:15,2025-06-03 21:24:42,redacted_business,notifs,<REDACTED>
+2025-01-28 10:43:30,2025-01-28 10:44:36,redacted_individual,notifs,<REDACTED>
+2025-01-28 10:43:31,2025-01-28 10:44:36,redacted_individual,notifs,<REDACTED>
+2025-01-28 10:43:33,2025-01-28 10:44:36,redacted_individual,notifs,<REDACTED>
+2025-02-10 15:02:51,2025-02-10 15:03:17,redacted_individual,notifs,<REDACTED>
+2025-02-10 15:02:52,2025-02-10 15:03:17,redacted_individual,notifs,<REDACTED>
+2025-02-10 15:02:54,2025-02-10 15:03:17,redacted_individual,notifs,<REDACTED>
+2025-04-26 12:08:31,2025-04-26 12:09:37,redacted_individual,notifs,<REDACTED>
+2025-04-26 12:08:32,2025-04-26 12:09:37,redacted_individual,notifs,<REDACTED>
+2025-04-26 12:08:37,2025-04-26 12:09:37,redacted_individual,notifs,<REDACTED>
+2025-04-28 11:48:38,2025-04-28 11:48:48,redacted_individual,notifs,<REDACTED>
+2025-04-28 11:48:39,2025-04-28 11:48:48,redacted_individual,notifs,<REDACTED>
+2025-04-28 11:48:42,2025-04-28 11:48:48,redacted_individual,notifs,<REDACTED>
+2025-05-17 09:01:49,2025-05-17 09:17:33,redacted_individual,notifs,<REDACTED>
+2025-05-17 09:01:50,2025-05-17 09:17:33,redacted_individual,notifs,<REDACTED>
+2025-05-17 09:01:52,2025-05-17 09:17:33,redacted_individual,notifs,<REDACTED>
+2025-05-31 11:40:15,2025-05-31 11:40:26,redacted_individual,notifs,<REDACTED>
+2025-05-31 11:40:17,2025-05-31 11:40:26,redacted_individual,notifs,<REDACTED>
+2025-05-31 11:40:19,2025-05-31 11:40:26,redacted_individual,notifs,<REDACTED>
+2025-06-03 11:36:51,2025-06-03 11:37:03,redacted_individual,notifs,<REDACTED>
+2025-06-03 11:36:51,2025-06-03 11:37:03,redacted_individual,notifs,<REDACTED>
+2025-06-03 11:36:53,2025-06-03 11:37:03,redacted_individual,notifs,<REDACTED>
+2024-12-25 16:35:50,2024-12-25 16:39:03,redacted_business,notifs,<REDACTED>
+2024-12-26 09:35:49,2024-12-26 09:45:12,redacted_business,notifs,<REDACTED>
+2024-12-29 18:08:15,2024-12-29 18:09:01,redacted_business,notifs,<REDACTED>
+2024-12-31 06:00:30,2024-12-31 08:31:15,redacted_business,notifs,<REDACTED>
+2025-01-02 11:02:42,2025-01-02 11:03:04,redacted_business,OTP,<REDACTED>
+2025-01-02 11:05:27,2025-01-02 11:05:27,redacted_business,OTP,<REDACTED>
+2025-01-19 23:00:54,2025-01-20 08:02:33,redacted_business,notifs,<REDACTED>
+2025-01-20 12:31:44,2025-01-20 12:42:28,redacted_business,notifs,<REDACTED>
+2025-01-22 09:01:53,2025-01-22 09:02:11,redacted_business,notifs,<REDACTED>
+2025-01-23 14:00:32,2025-01-23 14:02:51,redacted_business,notifs,<REDACTED>
+2025-01-23 19:37:24,2025-01-23 20:02:01,redacted_business,notifs,<REDACTED>
+2025-01-26 09:36:26,2025-01-26 09:36:45,redacted_business,notifs,<REDACTED>
+2025-01-26 18:40:36,2025-01-26 18:40:38,redacted_business,OTP,<REDACTED>
+2025-01-28 16:11:51,2025-01-28 16:14:40,redacted_business,notifs,<REDACTED>
+2025-01-28 16:11:53,2025-01-28 16:14:40,redacted_business,notifs,<REDACTED>
+2025-01-29 17:51:38,2025-01-29 17:53:33,redacted_business,notifs,<REDACTED>
+2025-01-29 18:50:59,2025-01-29 18:51:20,redacted_business,notifs,<REDACTED>
+2025-01-29 23:41:54,2025-01-30 06:59:45,redacted_business,notifs,<REDACTED>
+2025-01-30 20:40:55,2025-01-30 20:43:52,redacted_business,notifs,<REDACTED>
+2025-02-03 18:16:25,2025-02-03 18:26:25,redacted_business,notifs,<REDACTED>
+2025-02-05 07:26:37,2025-02-05 07:59:33,redacted_business,notifs,<REDACTED>
+2025-02-05 07:31:26,2025-02-05 07:59:33,redacted_business,notifs,<REDACTED>
+2025-02-07 16:50:40,2025-02-07 16:50:46,redacted_business,OTP,<REDACTED>
+2025-02-07 16:51:17,2025-02-07 17:31:40,redacted_business,notifs,<REDACTED>
+2025-02-08 09:26:28,2025-02-08 09:26:43,redacted_business,notifs,<REDACTED>
+2025-02-12 00:40:28,2025-02-12 00:59:16,redacted_business,notifs,<REDACTED>
+2025-02-22 19:01:20,2025-02-22 19:02:43,redacted_business,notifs,<REDACTED>
+2025-02-23 09:55:18,2025-02-23 09:55:30,redacted_business,OTP,<REDACTED>
+2025-02-23 09:55:19,2025-02-23 09:55:30,redacted_business,OTP,<REDACTED>
+2025-02-23 09:55:50,2025-02-23 09:55:50,redacted_business,notifs,<REDACTED>
+2025-02-23 09:56:25,2025-02-23 09:56:25,redacted_business,OTP,<REDACTED>
+2025-02-23 09:57:07,2025-02-23 09:57:10,redacted_business,OTP,<REDACTED>
+2025-02-23 09:57:30,2025-02-23 09:57:33,redacted_business,notifs,<REDACTED>
+2025-02-23 09:57:32,2025-02-23 09:57:33,redacted_business,notifs,<REDACTED>
+2025-02-23 10:01:33,2025-02-23 10:05:15,redacted_business,OTP,<REDACTED>
+2025-02-24 13:46:49,2025-02-24 13:46:51,redacted_business,OTP,<REDACTED>
+2025-02-26 08:00:51,2025-02-26 08:01:47,redacted_business,notifs,<REDACTED>
+2025-02-26 09:35:39,2025-02-26 09:37:55,redacted_business,notifs,<REDACTED>
+2025-03-05 06:51:42,2025-03-05 06:53:36,redacted_business,notifs,<REDACTED>
+2025-03-09 12:16:31,2025-03-09 12:17:03,redacted_business,notifs,<REDACTED>
+2025-03-09 13:57:16,2025-03-09 13:59:08,redacted_business,notifs,<REDACTED>
+2025-03-10 15:22:46,2025-03-10 15:28:01,redacted_business,notifs,<REDACTED>
+2025-03-11 17:46:30,2025-03-11 17:46:39,redacted_business,notifs,<REDACTED>
+2025-03-12 07:05:53,2025-03-12 07:07:39,redacted_business,notifs,<REDACTED>
+2025-03-17 07:20:57,2025-03-17 07:24:49,redacted_business,notifs,<REDACTED>
+2025-03-17 10:37:33,2025-03-17 10:39:29,redacted_business,notifs,<REDACTED>
+2025-03-17 12:46:41,2025-03-17 12:47:01,redacted_business,notifs,<REDACTED>
+2025-03-18 13:56:40,2025-03-18 13:56:45,redacted_business,notifs,<REDACTED>
+2025-03-19 14:02:43,2025-03-19 14:03:41,redacted_business,notifs,<REDACTED>
+2025-03-19 19:46:46,2025-03-19 19:51:48,redacted_business,notifs,<REDACTED>
+2025-03-23 11:52:10,2025-03-23 11:54:58,redacted_business,notifs,<REDACTED>
+2025-03-26 09:35:56,2025-03-26 09:36:16,redacted_business,notifs,<REDACTED>
+2025-03-26 17:56:32,2025-03-26 17:56:48,redacted_business,notifs,<REDACTED>
+2025-03-28 10:31:58,2025-03-28 10:48:18,redacted_business,notifs,<REDACTED>
+2025-03-28 11:07:50,2025-03-28 11:09:43,redacted_business,notifs,<REDACTED>
+2025-04-03 10:33:09,2025-04-03 10:33:18,redacted_business,notifs,<REDACTED>
+2025-04-05 08:26:43,2025-04-05 08:29:44,redacted_business,notifs,<REDACTED>
+2025-04-05 17:46:25,2025-04-05 17:46:35,redacted_business,notifs,<REDACTED>
+2025-04-06 04:16:22,2025-04-06 08:53:32,redacted_business,notifs,<REDACTED>
+2025-04-07 09:27:59,2025-04-07 09:29:02,redacted_business,notifs,<REDACTED>
+2025-04-07 09:28:41,2025-04-07 09:29:02,redacted_business,notifs,<REDACTED>
+2025-04-11 04:21:41,2025-04-11 10:42:24,redacted_business,notifs,<REDACTED>
+2025-04-11 04:21:51,2025-04-11 10:42:24,redacted_business,notifs,<REDACTED>
+2025-04-11 19:35:23,2025-04-11 19:35:34,redacted_business,notifs,<REDACTED>
+2025-04-14 10:35:54,2025-04-14 10:36:03,redacted_business,notifs,<REDACTED>
+2025-04-14 16:06:56,2025-04-14 16:07:50,redacted_business,notifs,<REDACTED>
+2025-04-19 13:36:32,2025-04-19 13:43:23,redacted_business,notifs,<REDACTED>
+2025-04-19 13:41:33,2025-04-19 13:43:23,redacted_business,notifs,<REDACTED>
+2025-04-19 21:21:09,2025-04-19 21:21:20,redacted_business,notifs,<REDACTED>
+2025-04-20 23:23:47,2025-04-20 23:24:16,redacted_business,notifs,<REDACTED>
+2025-04-22 10:06:09,2025-04-22 10:06:21,redacted_business,notifs,<REDACTED>
+2025-04-25 12:29:07,2025-04-25 12:29:09,redacted_business,notifs,<REDACTED>
+2025-04-25 15:40:37,2025-04-25 15:40:40,redacted_business,OTP,<REDACTED>
+2025-04-25 17:04:49,2025-04-25 17:11:17,redacted_business,notifs,<REDACTED>
+2025-04-26 09:36:09,2025-04-26 10:38:17,redacted_business,notifs,<REDACTED>
+2025-04-26 18:21:32,2025-04-26 18:22:02,redacted_business,notifs,<REDACTED>
+2025-04-26 18:27:54,2025-04-26 18:27:56,redacted_business,OTP,<REDACTED>
+2025-04-26 18:31:28,2025-04-26 18:33:53,redacted_business,notifs,<REDACTED>
+2025-04-27 18:16:40,2025-04-27 18:16:57,redacted_business,notifs,<REDACTED>
+2025-04-27 18:41:50,2025-04-27 18:42:33,redacted_business,notifs,<REDACTED>
+2025-04-30 06:15:46,2025-04-30 06:47:31,redacted_business,notifs,<REDACTED>
+2025-04-30 18:01:48,2025-04-30 18:03:46,redacted_business,notifs,<REDACTED>
+2025-04-30 18:26:36,2025-04-30 18:26:39,redacted_business,notifs,<REDACTED>
+2025-05-01 07:25:50,2025-05-01 07:26:09,redacted_business,notifs,<REDACTED>
+2025-05-01 13:42:35,2025-05-01 13:42:44,redacted_business,notifs,<REDACTED>
+2025-05-02 21:34:12,2025-05-02 21:35:20,redacted_business,notifs,<REDACTED>
+2025-05-04 11:31:40,2025-05-04 11:34:50,redacted_business,notifs,<REDACTED>
+2025-05-05 14:02:08,2025-05-05 14:04:36,redacted_business,notifs,<REDACTED>
+2025-05-08 19:40:52,2025-05-08 19:41:34,redacted_business,notifs,<REDACTED>
+2025-05-08 20:06:22,2025-05-08 20:15:06,redacted_business,notifs,<REDACTED>
+2025-05-09 08:26:09,2025-05-09 08:29:16,redacted_business,notifs,<REDACTED>
+2025-05-09 08:26:10,2025-05-09 08:29:16,redacted_business,notifs,<REDACTED>
+2025-05-13 10:31:10,2025-05-13 10:47:59,redacted_business,notifs,<REDACTED>
+2025-05-14 12:06:03,2025-05-14 12:21:42,redacted_business,notifs,<REDACTED>
+2025-05-16 16:06:46,2025-05-16 16:11:04,redacted_business,notifs,<REDACTED>
+2025-05-24 19:16:34,2025-05-24 19:16:57,redacted_business,notifs,<REDACTED>
+2025-05-26 09:36:57,2025-05-26 09:44:09,redacted_business,notifs,<REDACTED>
+2025-05-26 10:47:48,2025-05-26 10:47:50,redacted_business,OTP,<REDACTED>
+2025-05-26 10:51:20,2025-05-26 10:57:17,redacted_business,notifs,<REDACTED>
+2025-05-26 14:11:28,2025-05-26 14:16:20,redacted_business,notifs,<REDACTED>
+2025-05-27 09:26:12,2025-05-27 09:38:47,redacted_business,notifs,<REDACTED>
+2025-05-27 10:10:03,2025-05-27 10:10:09,redacted_business,notifs,<REDACTED>
+2025-05-27 23:06:10,2025-05-28 08:01:42,redacted_business,notifs,<REDACTED>
+2025-05-28 11:11:23,2025-05-28 11:15:49,redacted_business,notifs,<REDACTED>
+2025-05-30 17:03:42,2025-05-30 17:10:33,redacted_business,notifs,<REDACTED>
+2025-05-30 17:41:46,2025-05-30 18:56:04,redacted_business,notifs,<REDACTED>
+2025-05-31 09:25:55,2025-05-31 09:28:21,redacted_business,notifs,<REDACTED>
+2025-05-31 11:26:22,2025-05-31 11:29:36,redacted_business,notifs,<REDACTED>
+2025-06-01 09:30:58,2025-06-01 09:32:17,redacted_business,notifs,<REDACTED>
+2025-06-01 12:31:20,2025-06-01 12:37:43,redacted_business,notifs,<REDACTED>
+2025-06-02 21:41:38,2025-06-02 21:44:02,redacted_business,notifs,<REDACTED>
+2025-06-03 01:31:06,2025-06-03 07:42:06,redacted_business,notifs,<REDACTED>
+2025-06-03 10:26:10,2025-06-03 10:26:11,redacted_business,OTP,<REDACTED>
+2025-06-03 10:31:12,2025-06-03 10:31:23,redacted_business,notifs,<REDACTED>
+2025-01-02 10:00:09,2025-01-02 10:00:13,BDO Deals,ads,"BUY NOW, PAY 3 MOS. LATER at 0% interest up to 24 mos. at Abenson in-store & online, AbensonHome, Automatic Centre & Electroworld w/ your BDO Credit Card! Plus, get free item until 2/28/25:
+P35K - Garment Steamer/Mini Home Theatre
+P55K - Vacuum Cleaner/Hotpot & Griller
+Visit BDO website for T&Cs DTI209767"
+2025-01-22 09:49:08,2025-01-22 09:49:19,BDO Deals,ads,"Transfer card balances from other banks to your BDO Credit Card & pay on installment at 0.42% monthly add-on rate for up to 60 mos. Use PROMO ID 432A4649AA
+
+To apply:
+-Log in to BDO Online or BDO Pay app>Installment Offers>Balance Transfer>Balance Transfer Low Rate>Apply Now
+-Visit BDO website>Deals>Balance Transfer Low Rate>Apply Now
+-Call (02) 8667-1680
+
+Offer is until Jan 31, 2025. Applicable rate subject to BDO approval. T&Cs & fees apply. DTI210432"
+2025-01-22 09:58:09,2025-01-22 10:20:23,BDO Deals,ads,"The Great BDO Travel Sale-Manila continues! Book exclusive fares w/ BDO Cards via online, hotline or ticket office from EVA Air, Qatar Airways, JAL, Asiana Airlines, Turkish Airlines, Thai Airways, Starlux, Ethiopian Airlines & more as low as USD404 (Economy) & USD2,850 (Business) to USA, USD563 (Economy) & USD2,516 (Business) to Europe. Promo til 1/31/25, unless specified. Search The Great BDO Travel Sale-Manila on BDO website for T&C. DTI209850"
+2025-01-22 11:56:01,2025-01-22 11:58:39,BDO Deals,ads,"Get CASH up to P82,000 with your BDO Credit Card & pay P2,647.06/month for 36 months at 0.45% monthly interest. 
+
+Ways to avail:
+- Visit BDO website, click Deals, search Rate Drop & click AVAIL NOW
+- Log-in to BDO Pay App, tap Cash Installment > Avail Cash
+- Visit any BDO Branch
+
+Use Promo ID 432A4649AA.
+
+Valid until 01/31/2025. Availment, amount & rate are subject to BDO approval. T&Cs & fees apply. DTI206390"
+2025-01-23 11:42:37,2025-01-23 11:43:25,BDO Deals,ads,"Enjoy 0% interest for 3 months on Condition-Based Service at Autoallee BMW with your BDO Credit Card.
+
+Offer is valid until March 31, 2025.
+
+For promo details, visit BDO Website, click Deals and search 'Autoallee BMW'.
+
+Terms and Conditions apply. DTI208437"
+2025-01-24 10:47:35,2025-01-24 10:54:06,BDO Deals,ads,"Pre-order the new Samsung Galaxy S25 until Feb. 13 on BUY NOW, PAY LATER at 0% interest up to 36 mos w/ your BDO Credit Card! 
+
+Plus, get Discounts & Cashback on 12, 24 or 36 mos term:
+- 5% OFF at Samsung online 
+- Up to P7.5K OFF at Samsung Experience Stores 
+- Up to P7.5K Cashback on min spend (net of discounts) on any Samsung products
+
+ENROLL in the Cashback promo w/ PROMO ID 432A4649AA by 2/28/25. Visit BDO website, search Samsung for T&Cs. DTI211072"
+2025-01-31 11:17:39,2025-01-31 11:19:06,BDO Deals,ads,"Get up to P5K Cashback with your BDO Mastercard Credit Card for a cumulative spend on Retail and Dept Stores:
+-P50K for P2.5K Cashback
+-P100K for P5K Cashback
+*Min. P2K per transaction
+
+Enroll using Promo ID 432A4649AA
+Promo runs 02/01-03/31/25.
+
+For T&Cs, search Shopping Cashback on BDO Web. DTI212649."
+2025-02-03 08:52:33,2025-02-03 09:18:02,BDO Deals,ads,"Save your card and get P200 OFF on GrabFood w/ your BDO Mastercard Credit Card.
+
+-Place an order on GrabFood for a min. single-receipt of P1K
+-Save your Card as preferred payment option
+-Use code BDOMC200 upon checkout, 1x use
+
+Promo runs til 02/15
+
+For T&Cs, visit the BDO web & search BDOMC200. DTI210713"
+2025-02-03 11:14:42,2025-02-03 11:16:20,BDO Deals,ads,"BUY NOW, PAY 3 MOS. LATER at 0% interest up to 24 mos. at Abenson in-store & online, AbensonHome, Automatic Centre & Electroworld w/ your BDO Credit Card! Plus, get free item until 2/28/25:
+P35K - Garment Steamer/Mini Home Theatre
+P55K - Vacuum Cleaner/Hotpot & Griller
+Visit BDO website for T&Cs DTI209767"
+2025-02-05 13:51:06,2025-02-05 13:51:37,BDO Deals,ads,"Enjoy 50% OFF on buffet at Seasonal Tastes, The Westin Manila with your BDO Card!
+Valid for 2 to 10 pax til 06/30/25
+
+Search Westin on BDO web for T&C
+DTI207939"
+2025-02-06 10:33:10,2025-02-06 10:38:47,BDO Deals,ads,"Up to 50% OFF on VDAY Deals w/ BDO Cards!
+
+-50% OFF at Yellow Cab
+-25% OFF at Designer Blooms
+-25% OFF + FREE Shipping on FlowerStore .ph
+-20% OFF on foodpanda
+-Up to 6% OFF on Trip .com
+
+Promo period varies per partner. 
+
+Search Valentine's on the BDO site for T&C. DTI210167,213454,213441,208244,210641"
+2025-02-07 11:14:55,2025-02-07 11:22:28,BDO Deals,ads,"Celebrate the love season with Bvlgari. Find the perfect gift for yourself or your loved ones and enjoy BUY NOW, PAY LATER at 0% interest for up to 36 months term on minimum spend with your BDO Credit Card. Promo runs until 2/28/25. Visit BDO Website, Deals, search Bvlgari for T&Cs. DTI208437"
+2025-02-10 11:43:07,2025-02-10 11:55:18,BDO Deals,ads,"Pay tuition in installments w/ your BDO Credit Card at 0% interest at Arellano University School of Law, Enderun Colleges, John Robert Powers or 0.70% add-on rate/mo. up to 36 mos. at Xavier School, ICA Greenhills, Miriam College & more. Offer is until June 30, 2025. Visit BDO website for T&Cs. DTI211526"
+2025-02-10 13:44:17,2025-02-10 13:54:07,BDO Deals,ads,"BUY NOW, PAY LATER at 0% interest up to 36 months at select Digital Walker & open_source by Beyond the Box stores w/ your BDO Credit Card!
+
+Enjoy freebies worth up to P18K for every pre-order of the Samsung Galaxy S25 Series until Feb. 13, 2025. Visit BDO Website & search DIGITAL WALKER for T&Cs DTI210982"
+2025-02-10 15:38:32,2025-02-10 16:03:17,BDO Deals,ads,"Sign up for BDO Pay from Jan 28-Mar 15 and get P300 CASHBACK! Unlock an EXTRA P500 when you Scan to Pay anywhere using your BDO Credit Card for an accumulated spend of P1,000. Download BDO Pay now! T&Cs apply. DTI212203  
+ 
+This promo is exclusive for NEW BDO Pay users with BDO Credit Cards and is available for a limited time only. Scan to Pay daily limit is P50,000. This daily limit is combined for all payment source accounts."
+2025-02-11 08:37:50,2025-02-11 08:50:04,BDO Deals,ads,<REDACTED>
+2025-02-11 10:09:47,2025-02-11 10:10:18,BDO Deals,ads,"Celebrate pre-Valentine's at Faure Le Page in Greenbelt, Makati & receive a special gift on Feb. 12 from 3PM-6PM. Buy Now, Pay Later at 0% interest for up to 12 months w/ your BDO Credit Card. Text 09178255956 to confirm your appointment. Visit BDO Website, Deals & search Faure Le Page for T&Cs. DTI208437"
+2025-02-11 11:57:26,2025-02-11 12:00:16,BDO Deals,ads,<REDACTED>
+2025-02-24 11:00:18,2025-02-24 11:00:25,BDO Deals,ads,"Convert recent purchases on your BDO Credit Card of at least P3K or USD200 to installment! Enjoy a LOW 0.49% monthly add-on rate for 3 to 24-month terms!
+
+Apply Now & use PROMO ID 432A4649AA
+
+-Log in to BDO Pay/BDO Online app>Installment Offers>Purchase Convert> Purchase Convert Low Rate>Apply Now
+-Visit BDO website>Deals>search Purchase Convert Low Rate >Apply Now
+
+Offer until Mar 31, 2025. T&Cs & fees apply. DTI214139
+
+To stop msgs, text STOP to 225678."
+2025-02-25 14:09:57,2025-02-25 14:13:08,BDO Deals,ads,"Travel better w/ your BDO Card & Emirates! Enjoy exclusive fares from Manila & Clark as low as USD787 (Economy) & USD2,245 (Business) to Europe. Book online w/ the promo code PHBDO25 from 03/01-13/25. Travel til 12/31/25. Search Emirates Exclusive Sale on BDO site for T&C. CAB01540214s.2025 & DTI215281"
+2025-02-26 11:28:13,2025-02-26 11:28:30,BDO Deals,ads,"SM 3-Day Sale on Feb 28-Mar 2
+
+Get up to P3,000 EXTRA savings w/ your BDO Credit Card!
+
+Shop at SM Store & SM Retail stores:
+10% OFF on BUY NOW PAY LATER
+5% OFF on straight purchase
+
+Promo runs at SM Sta. Mesa & Taytay.
+
+Search SM 3Day Sale at BDO site for T&Cs. DTI212725. To stop msgs, txt STOP to 225678"
+2025-02-26 14:18:50,2025-02-26 14:28:24,BDO Deals,ads,"Mark your calendars! Book your summer travels at the BDO Travel Sale from March 14-16, 2025. Visit us onground at The Fifth at Rockwell or book online www. bdo. com. ph/ travel to enjoy exclusive fares from Philippine Airlines, Emirates, EVA Air, Qatar Airways, Asiana Airlines, Japan Airilines, China Airlines & more w/ your BDO Cards. Search BDO Travel Sale on the BDO Website for T&Cs. DTI214485"
+2025-02-27 09:47:28,2025-02-27 09:55:40,BDO Deals,ads,"Do you want P800 cashback? Just sign up for BDO Pay to get P300 and Scan to Pay and charge to your BDO Credit Card to get additional P500 cashback!
+
+Min. spend of P1,000 is required. Promo ends March 15, 2025. 
+T&C apply. DTI212203
+
+This promo is exclusive for NEW BDO Pay users with BDO Credit Cards and is available for a limited time only. Scan to Pay limit for Credit Card is up to the available credit limit. For Bank Account, the daily limit is P50,000."
+2025-02-27 15:03:02,2025-02-27 15:03:18,BDO Deals,ads,"Enjoy low fares during Philippine Airlines' Anniversary Sale with BDO Credit and Debit Card for as low as USD169 (Economy), USD649 (Business) to Japan & USD469 (Economy), USD3,029 (Business) to USA. Other domestic/international destinations are available. Promo til Mar. 20, 2025. Travel from Mar. 1, 2025 onwards, unless specified. Visit the Philippine Airlines website to book. T&Cs apply. CAB0169-02-19 & 0160-02-17-s.2025"
+2025-02-28 09:04:55,2025-02-28 09:14:23,BDO Deals,ads,"Up to P1000 Cashback on Shopee 3.3 w/ BDO Credit Cards on Mar 2-4! Enroll your Promo ID 432A4649AA til 3/5. For T&C, search Shopee on the BDO site.DTI216110"
+2025-03-03 10:08:14,2025-03-03 11:02:59,BDO Deals,ads,"BUY NOW PAY LATER at the Lazada 3.3 Pasabog Sale until Mar. 7, 2025!
+
+Avail 0% interest up to 12 mos. w/ your BDO Credit Card at Samsung, HONOR, Starlink, Dyson & more.
+
+Choose 0% installment as payment method & select term. BUY NOW PAY LATER is available year-round.
+
+Visit BDO website for T&Cs. DTI208437"
+2025-03-03 10:26:46,2025-03-03 11:02:59,BDO Deals,ads,"Get up to P5K Cashback with your BDO Mastercard Credit Card for a cumulative spend in Retail and Dept Stores:
+-P50K for P2.5K Cashback
+-P100K for P5K Cashback
+*Min. P2K per transaction
+
+Enroll using Promo ID 432A4649AA
+Promo runs until 03/31/25.
+
+For T&Cs, search Shopping Cashback on BDO Web. DTI212649."
+2025-03-05 09:54:46,2025-03-05 09:56:48,BDO Deals,ads,"BUY NOW PAY 3 MONTHS LATER at Slimmers World Body and Skin Clinic.
+
+Enjoy 0% interest up to 12 months and 25% off on select body and skin treatments with your BDO Credit Card . Valid until May 31, 2025.
+
+Visit BDO website, click Deals and search Slimmers World for promo details. T&Cs apply. DTI215367"
+2025-03-05 10:21:36,2025-03-05 10:43:14,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest up to 6 months term with your BDO Credit Card! Plus, enjoy 10% OFF on min. spend at Foot Locker, New Balance, Planet Sports, Fitflop, HOKA, Converse, Rookie and more.
+
+Promo until 4/30/25. Visit BDO Website, Deals, search Planet Sports for details. T&Cs apply DTI215498"
+2025-03-05 15:18:46,2025-03-05 15:22:20,BDO Deals,ads,"No BDO Pay yet? Sign up now to get P300 and unlock an extra P500 when you Scan to Pay with your BDO Credit Card for a min. purchase of P1,000. Promo ends March 15, 2025. T&C apply. DTI212203
+
+This promo is exclusive for NEW BDO Pay users with BDO Credit Cards and is available for a limited time only. Scan to Pay limit for Credit Card is up to the available credit limit. For Bank Account, the daily limit is P50,000."
+2025-03-07 15:55:44,2025-03-07 16:03:54,BDO Deals,ads,"Shop and save your card for the first time and get P500 Cashback for a min. cumulative spend of P3,500 on Lazada with your BDO Mastercard Credit Card. 
+
+To join, enroll your Promo ID 432A4649AA
+
+Promo runs until March 15, 2025.
+
+For T&Cs, visit the BDO website & search Lazada Cashback. DTI214856"
+2025-03-11 09:26:32,2025-03-11 09:35:14,BDO Deals,ads,"Transfer card balances from other banks to your BDO Credit Card & pay on installment at 0.42% monthly add-on rate for up to 60 mos. Use PROMO ID 432A4649AA
+
+To apply:
+-Log in to BDO Online or BDO Pay app>Installment Offers>Balance Transfer>Balance Transfer Low Rate>Apply Now
+-Visit BDO website>Deals>Balance Transfer Low Rate>Apply Now
+-Call (02) 8667-1680
+
+Offer is until Mar 31, 2025. Applicable rate subject to BDO approval. T&Cs & fees apply. DTI210432"
+2025-03-12 09:50:54,2025-03-12 10:05:47,BDO Deals,ads,"Book these exclusive fares at the BDO Travel Sale as low as USD248 (Economy) & USD888 (Business) to Japan, USD240 (Economy) & USD750 (Business) to Korea, USD404 (Economy) & USD2,880 (Business) to USA, USD563 (Economy) & USD2,016 (Business) to Europe. Book online at www. bdo. com. ph/ travel or onground at The Fifth at Rockwell on March 14-16, 2025. Travel til Feb. 28, 2026, unless specified. Search BDO Travel Sale on the BDO Website for T&Cs. DTI214485"
+2025-03-13 15:33:37,2025-03-13 16:07:53,BDO Deals,ads,Enjoy the best of Mt. Fuji in Shizuoka & Yamanashi w/ BDO Credit or Debit Cards! Book through World Joint Travel website. Min. of 3 Days 2 Nights stay at JPY213K/person. Promo runs until 12/31/2025. Visit BDO website & search Exclusive Japan Travel Package for T&Cs. DTI210629
+2025-03-13 15:59:59,2025-03-13 16:07:53,BDO Deals,ads,"Get up to P3K The Travel Club voucher when you Fly Now Pay Later with your BDO Credit Card! Spend a min. of P50K at The BDO Travel Sale from Mar. 14-16, 2025 at The Fifth at Rockwell. Enjoy 0% interest for 3 months & pay 2 months later. Visit BDO Website, Deals, Search Fly Now Pay Later for T&Cs DTI217540"
+2025-03-13 16:16:52,2025-03-13 16:17:59,BDO Deals,ads,"#TravelBETTER with BDO Cards!
+
+- 8% OFF on Agoda hotels
+- Up to 6% OFF on Trip .com hotels & flights
+- Up to 40% OFF on Big Sky Travel WiFi
+
+Promo period varies per partner.
+
+Search Online Deals on the BDO website for T&C
+DTI210640/210641/217569"
+2025-03-13 16:47:30,2025-03-13 16:49:07,BDO Deals,ads,"Pay your purchases from The BDO Travel Sale on installment with a low 0.49% monthly add-on rate for 3 to 24-month terms.
+
+Convert on-site at The Fifth Rockwell Powerplant & get up to P3K voucher from The Travel Club! 
+
+Min. spend to qualify for the voucher is at P50K or USD864 (single/accumulated spend).
+
+Promo runs from March 14-16, 2025.
+
+For details, visit BDO website, click Deals and search Purchase Convert Travel Sale.
+
+T&Cs & fees apply. DTI217791"
+2025-03-14 13:21:03,2025-03-14 13:29:20,BDO Deals,ads,"Hi Scott! Get up to P10,000 CASHBACK on airline, hotel, travel-related and overseas in-store purchases with your BDO Mastercard!
+
+Just reach a cumulative spend of:
+*P300,000 to get P10,000 Cashback
+*P150,000 to get P5,000 Cashback
+
+Enroll NOW using PROMO ID 432A4649AA.
+
+Promo runs from March 15 - May 31, 2025.
+
+For T&Cs, search Travel Cashback on the BDO website. DTI216400"
+2025-03-14 15:27:44,2025-03-14 15:27:49,BDO Deals,ads,"Ending soon! Get up to P5K Cashback when you shop with your BDO Mastercard Credit Card! Accumulate at least P50K spend in Retail and Department Stores until Mar 31, 2025, minimum spend of P2K per transaction. 
+
+Enroll using Promo ID 432A4649AA
+
+Search Shopping Cashback on BDO website for T&Cs. DTI212649."
+2025-03-14 15:50:14,2025-03-14 15:51:01,BDO Deals,ads,"Promo extended until April 15, 2025 - qualify for P300 cashback when you sign up for BDO Pay, then unlock an EXTRA P500 if you also Scan to Pay and accumulate a spend of at least P1K using your BDO Credit Card. T&Cs apply. DTI212203  
+
+Promo exclusive to BDO Credit Cardholders new to BDO Pay. Available for a limited time only. Scan to Pay limit for Credit Card is up to the available credit limit. For Bank Account, the daily limit is P50,000."
+2025-03-14 15:59:46,2025-03-14 16:09:03,BDO Deals,ads,"Get up to P2K Cashback with min. required spend at SM Appliance Center with your BDO Credit Card!
+
+P25K spend: Get P1K cashback
+P50K spend: Get P2K cashback
+
+ENROLL NOW using Promo ID 432A4649AA until Apr 30, 2025. Plus, BUY NOW PAY 3 MONTHS LATER at 0% interest up to 24 months in-store or on 3 months term for online spend.  
+
+Cashback offer is not in conjunction with SM 3-Day Sale offer. Visit BDO Website and search SM Appliance Center for T&Cs DTI217131"
+2025-03-17 11:29:24,2025-03-17 11:30:02,BDO Deals,ads,"The BDO Travel Sale continues! Book exclusive fares from our travel partners with your BDO Cards. As low as USD248 (Economy) & USD888 (Business) to Japan, USD240 (Economy) & USD750 (Business) to Korea, USD404 (Economy) & USD2,880 (Business) to USA, USD563 (Economy) & USD2,016 (Business) to Europe. Visit www. bdo. com. ph/ travel for details on how to book. Promo runs until 03/31, unless specified. Travel period varies per partner. T&Cs apply. DTI216914"
+2025-03-18 10:56:47,2025-03-18 10:57:03,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest up to 36 mos at BSD International, Techno Kid, Mobile World & more w/ your BDO Credit Card.
+
+Get P500 OFF & free Havit Speaker w/ a P25K min spend until 6/30/25. 1st installment will be billed on your next SOA. Visit BDO Website, search BSD International for T&Cs DTI216271"
+2025-03-19 08:43:33,2025-03-19 08:52:49,BDO Deals,ads,<REDACTED>
+2025-03-20 10:14:39,2025-03-20 10:16:00,BDO Deals,ads,"Convert recent purchases on your BDO Credit Card of at least P3K or USD200 to installment! Enjoy a LOW 0.49% monthly add-on rate for 3 to 24-month terms!
+
+Apply Now & use PROMO ID 432A4649AA
+
+-Log in to BDO Pay/BDO Online app>Installment Offers>Purchase Convert> Purchase Convert Low Rate>Apply Now
+-Visit BDO website>Deals>search Purchase Convert Low Rate >Apply Now
+
+Offer until Mar 31, 2025. T&Cs & fees apply. DTI214139
+
+To stop msgs, text STOP to 225678."
+2025-03-21 08:39:36,2025-03-21 08:41:03,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest up to 24 months at Aerophone w/ your BDO Credit Card.
+
+Get a free Casetalk Fan with purchase of Vivo V50 at participating Vivo Concept Stores & any Aerophone, Cybertech, Smart Gadget & Aeromobile stores until 3/31/25. Visit BDO Website, search Aerophone for T&Cs DTI216158"
+2025-03-21 11:27:04,2025-03-21 11:27:24,BDO Deals,ads,"Get up to 17% or P1.5K OFF on Lazada Bday w/ BDO Credit Cards (Mar 24,8pm - Mar 27). Use vouchers w/ min P5K spend. Search Lazada on BDO website DTI216389"
+2025-03-21 15:14:25,2025-03-21 15:39:39,BDO Deals,ads,"Don't miss up to 30% OFF or freebies on BUY NOW PAY LATER at 0% interest w/ your BDO Credit Card at Abenson, AllHome, Anson's, Automatic Centre, Dyson, GE Monogram, SM Appliance Center, Western Appliances & more. Plus, pay 3 mos. later until 5/31/25. Visit BDO website, search Appliances for T&Cs DTI215363"
+2025-03-24 08:03:00,2025-03-24 08:22:21,BDO Deals,ads,"Sign up for BDO Pay and get P300! Plus, Scan to Pay with your BDO Credit Card and score an extra P500 cashback!
+
+Min. spend of P1,000 is required. Promo ends April 15, 2025.  T&C apply. DTI212203
+
+This promo is exclusive for NEW BDO Pay users with BDO Credit Cards and is available for a limited time only. Scan to Pay limit for Credit Card is up to the available credit limit. For Bank Account, the daily limit is P50,000."
+2025-03-24 10:51:49,2025-03-24 10:51:55,BDO Deals,ads,"Up to 50% OFF at The Bistro Group
+
+Use BDO Mastercard for a min. bill of P3K, Tue-Fri til 4/4. Max P2.5K OFF. For T&C, search Bistro Group on BDO web. DTI216838"
+2025-03-24 14:31:23,2025-03-24 14:37:28,BDO Deals,ads,<REDACTED>
+2025-03-24 14:33:42,2025-03-24 14:37:28,BDO Deals,ads,<REDACTED>
+2025-03-24 14:34:46,2025-03-24 14:37:28,BDO Deals,ads,<REDACTED>
+2025-03-24 14:36:53,2025-03-24 14:37:28,BDO Deals,ads,<REDACTED>
+2025-03-24 14:39:11,2025-03-24 14:50:49,BDO Deals,ads,<REDACTED>
+2025-03-24 16:43:56,2025-03-24 16:55:15,BDO Deals,ads,"Enjoy luxury shopping at Alexander McQueen, Balenciaga, Bottega Veneta, Givenchy, Kenzo, Loewe, Saint Laurent & Versace. Take advantage of 0% interest up to 12 months at participating brands' boutiques. Promo runs from Mar. 10 - Jun. 30, 2025. Visit BDO Website, click Deals, search SSI for T&Cs. DTI208437"
+2025-03-25 11:22:13,2025-03-25 11:32:22,BDO Deals,ads,"50% OFF at Bistronomia
+
+Use BDO Mastercard for a min. bill of P5K, Tue-Fri til 4/4. Max P5K OFF. For T&C, search Bistro Group on BDO web. DTI216838"
+2025-03-26 08:47:53,2025-03-26 08:56:50,BDO Deals,ads,"Enjoy low fares at Cathay Pacific Travel Fair on 03/28-30,25 at Mega Fashion Hall, SM Megamall w/ BDO Cards as low as USD100 (Economy) & USD650 (Business) to Hong Kong, USD365 (Economy) & USD2,980 (Business) to USA, & USD425 (Economy) & USD1,870 (Business) to Europe. Travel til 12/31/25. Plus, avail of FLY NOW, PAY LATER at 0% interest on 3 mos. term & pay 2 mos. later w/ BDO Credit Cards. Search Cathay Pacific Travel Fair on BDO site for T&Cs. DTI218892."
+2025-03-26 14:32:51,2025-03-26 14:38:48,BDO Deals,ads,<REDACTED>
+2025-03-27 08:38:12,2025-03-27 09:00:59,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest and enjoy exclusive offers from SM Appliance Center, ACE Hardware, Our Home, Crate & Barrel, Dyson, and SM Home w/ your BDO Credit Card.
+
+Plus, pay 3 months later until May 31, 2025.
+
+Visit the BDO website, search 'Appliances', 'Furniture' or 'Hardware' for T&Cs. DTI215363"
+2025-03-27 09:03:51,2025-03-27 09:05:14,BDO Deals,ads,<REDACTED>
+2025-03-27 12:30:41,2025-03-27 12:38:58,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest up to 24 months + exclusive deals on iPhone 16e purchase w/ your BDO Credit Card. 
+
+Offers available at Power Mac Center, Silicon Valley, Digital Walker, Beyond the Box & Abenson until 3/31/25. Visit BDO Website, search iPhone 16e for T&Cs DTI219149, 217895, 218866, 217822"
+2025-03-27 13:57:31,2025-03-27 14:00:14,BDO Deals,ads,"Get exclusive travel and shopping perks with your BDO Mastercard Credit Card!
+
+Enjoy up to 20% savings, gifts and tax-free shopping from selected stores in Japan, South Korea and Singapore!
+
+Promo period varies per merchant.
+
+For T&Cs, search Travel Exclusives on BDO website. DTI199871/203640"
+2025-03-28 12:43:03,2025-03-28 12:55:15,BDO Deals,ads,"Keep using your BDO Mastercard Credit Card for online shopping and get up to P5K Cashback! 
+
+Accumulate spend of:
+P50K for P2.5K Cashback
+P100K for P5K Cashback
+*Min. P2K per transaction
+
+Enroll using Promo ID 432A4649AA
+Promo runs til 04/30/25.
+
+For T&C, search Online Cashback on BDO web. DTI215490"
+2025-03-28 15:03:17,2025-03-28 15:23:25,BDO Deals,ads,<REDACTED>
+2025-04-02 08:37:34,2025-04-02 08:40:02,BDO Deals,ads,"Up to P1,000 Cashback on Shopee 4.4 w/ BDO Credit Cards on Apr 3-5! Enroll your Promo ID 432A4649AA til 4/6. For T&C, search Shopee on the BDO site.DTI218525"
+2025-04-02 15:02:33,2025-04-02 15:07:01,BDO Deals,ads,"You have 2 weeks left to get your P800 cashback! Sign up for BDO Pay and get P300! You'll get extra P500 when you spend P1,000 via Scan to Pay with your BDO Credit Card. That's P800 cashback in total!
+
+This promo is exclusive for NEW BDO Pay users with BDO Credit Cards and is available until April 15, 2025 only. Scan to Pay limit for Credit Card is up to the available credit limit. For Bank Account, the daily limit is P50,000.
+
+T&Cs apply. DTI 212203"
+2025-04-03 10:03:54,2025-04-03 10:20:36,BDO Deals,ads,"Get 6% OFF on hotel stays at Agoda w/ BDO Cards! Book via agoda .com /bdo til 5/31. ForT&C,search Agoda on the BDOsite.DTI218541
+To stop msgs,txt STOP to 225678"
+2025-04-04 13:58:24,2025-04-04 13:58:38,BDO Deals,ads,"Hi, Scott!
+
+Book your next flight with Philippine Airlines using your BDO Mastercard and get:
+
+* 10% OFF on base fares for international routes
+* 20% OFF on base fares for domestic routes
+
+A portion of every booking helps plant a tree in support of the Priceless Planet Coalition. 
+
+Booking period until 04/13/25. Travel period until 11/30/25.
+
+For details, visit the BDO website and search PAL Seat Sale. T&Cs apply. DTI219500"
+2025-04-04 14:45:38,2025-04-04 15:18:06,BDO Deals,ads,<REDACTED>
+2025-04-05 08:01:28,2025-04-05 08:13:53,BDO Deals,ads,<REDACTED>
+2025-04-05 09:02:20,2025-04-05 09:04:04,BDO Deals,ads,"Up to 55% OFF at Greyhound Cafe w/ BDO Credit Cards & BDO Pay
+-Min bill of 3K
+-Max 2.5K OFF
+-Promo til 4/30/25,M-F
+Search Greyhound on BDO web for T&C
+DTI218895"
+2025-04-07 08:54:21,2025-04-07 09:26:16,BDO Deals,ads,"Up to 50% OFF at Paper Moon Cafe with BDO Credit Cards!
+-Min bill of P2K
+-Max P2K OFF
+-Promo til 4/30/25, M-F
+Search Paper Moon on BDO web for T&C.
+DTI218895"
+2025-04-08 08:44:54,2025-04-08 09:29:34,BDO Deals,ads,"Get up to P2K Cashback with min. required spend at SM Appliance Center with your BDO Credit Card!
+
+P25K spend: Get P1K cashback
+P50K spend: Get P2K cashback
+
+ENROLL NOW using Promo ID 432A4649AA until Apr 30, 2025. Plus, BUY NOW PAY 3 MONTHS LATER at 0% interest up to 24 months in-store or on 3 months term for online spend.  
+
+Cashback offer is not in conjunction with SM 3-Day Sale offer. Visit BDO Website and search SM Appliance Center for T&Cs DTI217131"
+2025-04-08 09:28:46,2025-04-08 09:29:34,BDO Deals,ads,<REDACTED>
+2025-04-08 11:34:12,2025-04-08 12:40:51,BDO Deals,ads,<REDACTED>
+2025-04-08 11:35:47,2025-04-08 12:40:51,BDO Deals,ads,<REDACTED>
+2025-04-08 11:44:48,2025-04-08 12:40:51,BDO Deals,ads,"30% OFF at Hai Chix & Steaks w/ BDO Credit Cards
+-Min bill of 5k
+-til 6/30/25, M-Th
+Search Hai Chix on BDO web for T&C.DTI220055
+To stop msgs,txt STOP to 225678"
+2025-04-08 11:46:47,2025-04-08 12:40:51,BDO Deals,ads,<REDACTED>
+2025-04-08 13:30:40,2025-04-08 13:30:56,BDO Deals,ads,<REDACTED>
+2025-04-10 13:13:49,2025-04-10 13:15:12,BDO Deals,ads,"Get 12% or up to P1,500 OFF on Klook w/ BDO Credit Cards! Use code BDOWEEKENDS 4/11/25-7/27/25 (Fri-Sun). For T&C, search KLOOK at the BDO website DTI221074"
+2025-04-11 11:27:38,2025-04-11 11:42:36,BDO Deals,ads,<REDACTED>
+2025-04-11 17:12:38,2025-04-11 17:14:57,BDO Deals,ads,"Got a BDO Credit Card? Don't miss out on your P800 cashback when you sign up for BDO Pay and Scan to Pay using your Credit Card via the app. Min. P1,000 spend required. Promo ends April 15, 2025. T&C apply. DTI212203  
+
+This promo is exclusive for NEW BDO Pay users with BDO Credit Cards and is available for a limited time only. Scan to Pay limit for Credit Card is up to the available credit limit. For Bank Account, the daily limit is P50,000."
+2025-04-14 14:19:30,2025-04-14 14:21:07,BDO Deals,ads,<REDACTED>
+2025-04-15 10:09:55,2025-04-15 10:11:20,BDO Deals,ads,<REDACTED>
+2025-04-15 11:54:16,2025-04-15 12:01:10,BDO Deals,ads,"Ending soon! Get up to P5K Cashback when you shop ONLINE using BDO Mastercard Credit Card! Accumulate at least P50K spend from your fave online stores/apps until Apr 30, 2025. Minimum of P2K per transaction.
+
+Enroll using Promo ID 432A4649AA
+
+Search Online Cashback on BDO website for T&Cs. DTI215490."
+2025-04-16 11:43:08,2025-04-16 11:43:42,BDO Deals,ads,<REDACTED>
+2025-04-16 12:20:10,2025-04-16 12:22:39,BDO Deals,ads,"Here's an exclusive offer just for you! Enjoy 0% interest on 3 mos. term when you convert recent purchases on your BDO Credit Card of at least P3K or USD200 to installment!
+
+Or choose longer payment terms with a LOW 0.39% monthly add-on rate for 6 to 24 mos.
+
+Visit the BDO website>Deals>search Purchase Convert Zero>Apply Now & input your Promo ID 432A4649AA
+
+Offer is until May 31, 2025. Applicable rate subject to BDO approval. T&Cs & fees apply. DTI221248"
+2025-04-24 09:02:18,2025-04-24 09:04:53,BDO Deals,ads,"Transfer card balances from other banks to your BDO Credit Card & pay on installment at 0.42% monthly add-on rate for up to 60 mos. Use PROMO ID 432A4649AA
+
+To apply:
+-Log in to BDO Online or BDO Pay app>Installment Offers>Balance Transfer>Balance Transfer Low Rate>Apply Now
+-Visit BDO website>Deals>Balance Transfer Low Rate>Apply Now
+-Call (02) 8667-1680
+
+Offer is until Apr 30, 2025. Applicable rate subject to BDO approval. T&Cs & fees apply. DTI210432"
+2025-04-24 09:02:55,2025-04-24 09:04:53,BDO Deals,ads,"Upgrade your Apple experience with BUY NOW PAY LATER!
+
+Enjoy 0% interest up to 24 months term at Power Mac Center, The Loop stores & online w/ your BDO Credit Card.
+
+Offer is until June 30, 2025.
+
+Visit BDO website, click Deals & search Power Mac Center for T&Cs. DTI208437 To stop msgs, txt STOP to 225678"
+2025-04-25 11:06:14,2025-04-25 11:12:07,BDO Deals,ads,"Celebrate Now Pay Later with your BDO Credit Card! 
+
+Plan your special moments with ease and enjoy 0% interest up to 12 months term or a low 0.65% monthly add-on rate for up to 36 months at Conrad Manila, New World Makati Hotel, Taal Vista Hotel, Pico Sands Hotel, The Bellevue Manila, Discovery Coron, Sheraton Manila Hotel, The Westin Manila and more!
+
+Promo runs until Dec. 31, 2025. Visit BDO website, click Deals, search Celebrations for T&Cs. DTI216830"
+2025-04-28 08:40:54,2025-04-28 08:49:06,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest up to 24 months term in all MemoXpress stores with your BDO Credit Card!
+
+Enjoy 10% OFF on select accessories with any smartphone purchase until June 30, 2025. The first installment will be billed on your next SOA. Visit BDO Website and search MEMOXPRESS for T&Cs DTI220512"
+2025-04-28 09:20:45,2025-04-28 09:57:27,BDO Deals,ads,"50% OFF at Seasonal Tastes, The Westin Manila with BDO Cards!
+For 2-10pax til 6/30/25
+Search Westin on BDO web for T&C
+DTI207939
+To stop msgs,txt STOP to 225678"
+2025-04-29 10:55:04,2025-04-29 10:58:56,BDO Deals,ads,20% or up to P250 OFF on GrabFood w/ BDO Cards! Use code BDOPAYDAYS on P800 spend on paydays until 10/15/25. Search GRABFOOD on the BDO site for T&C DTI221877
+2025-04-29 11:57:23,2025-04-29 12:06:49,BDO Deals,ads,<REDACTED>
+2025-04-30 10:14:42,2025-04-30 10:26:42,BDO Deals,ads,"Save your card & get P500 Cashback on your first Shopee purchase w/ BDO Mastercard Credit Card.
+
+Valid for a min. cumulative spend of P3,500.
+
+To join, enroll your Promo ID 432A4649AA
+
+Promo runs from May 1 to 31, 2025.
+
+For T&Cs, visit the BDO website & search Shopee Cashback. DTI223209"
+2025-05-02 09:52:40,2025-05-02 09:55:14,BDO Deals,ads,"Get up to 1K Cashback on Shopee 5.5 w/ BDO Credit Cards! 3K min spend on May 4-6. Enroll Promo ID 432A4649AA
+
+Search SHOPEE on BDO website for T&C.
+DTI218525"
+2025-05-02 13:33:43,2025-05-02 13:50:31,BDO Deals,ads,<REDACTED>
+2025-05-05 10:19:24,2025-05-05 10:26:51,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest up to 24 mos at Huawei w/ your BDO Credit Card!
+
+Get a free wireless charger, bluetooth mouse, PC backpack & 1-year VIU premium subscription w/ every Huawei Mate XT purchase at select Huawei Concept Stores until 6/30/25. Visit BDO website, search HUAWEI for T&Cs. DTI220049"
+2025-05-05 15:17:48,2025-05-05 15:57:06,BDO Deals,ads,"Enjoy up to 12% Cashback on Booking .com w/ BDO Cards! Book your stay via booking .com/bdoph from 5/4-6/25.For T&C, search Booking .com at BDO website.DTI223798"
+2025-05-06 09:09:05,2025-05-06 09:12:02,BDO Deals,ads,"SAVE THE DATE! 
+
+Avail exclusive deals at The Great BDO Travel Sale w/ BDO Cards.
+
+- Manila: SMX Aura, SM Aura Premier on May 29-Jun 1
+- Cebu: North Wing Atrium, SM City Cebu on Jun 20-22
+- Davao: Mall Atrium, SM Lanang on Jun 27-29
+
+For details, visit www. bdo. com. ph/ travel. 
+T&Cs apply. DTI222233"
+2025-05-06 09:55:41,2025-05-06 10:00:42,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest up to 24 months term at 8Telcom & Gui w/ your BDO Credit Card!
+
+Get a FREE Bluetooth Speaker w/ P20K min spend until 6/30/25. The first installment will be billed on your next SOA. Visit BDO Website, search 8TELCOM for T&Cs DTI217517
+
+To stop messages, text STOP to 225678"
+2025-05-06 11:19:37,2025-05-06 11:22:00,BDO Deals,ads,<REDACTED>
+2025-05-07 10:15:36,2025-05-07 10:49:34,BDO Deals,ads,"Avail of up to 70% OFF at Ferragamo's End-of-Season-Sale. Shop the best deals at the exclusive preview sale on May 8-9, 2025 & enjoy 0% interest for up to 12 mos with your BDO Credit Card. BUY NOW PAY LATER continues until July 31, 2025. Visit BDO Website>Deals, search Ferragamo for T&Cs DTI208437,215972"
+2025-05-07 15:27:05,2025-05-07 15:27:54,BDO Deals,ads,<REDACTED>
+2025-05-08 08:47:58,2025-05-08 08:48:30,BDO Deals,ads,"Here's an exclusive offer just for you! Enjoy 0% interest on 3 mos. term when you convert recent purchases on your BDO Credit Card of at least P3K or USD200 to installment!
+
+Or choose longer payment terms with a LOW 0.39% monthly add-on rate for 6 to 24 mos.
+
+Visit the BDO website>Deals>search Purchase Convert Zero>Apply Now & input your Promo ID 432A4649AA
+
+Offer is until May 31, 2025. Applicable rate subject to BDO approval. T&Cs & fees apply. DTI221248"
+2025-05-08 09:58:30,2025-05-08 09:59:09,BDO Deals,ads,"Best Deals for Mom w/ BDO Cards!
+Up to 40% OFF at GrabFood, Designer Blooms, FlowerStore .ph, Gap, OldNavy & BananaRepublic, Capital, Birkenstock, Klook, and more.
+
+Promo period varies per partner.
+
+Search Mother's Day Deals on the BDO site for T&C.DTI221877, 213441, 213454, 224181, 220482, 215759, 221074"
+2025-05-09 10:49:53,2025-05-09 10:50:45,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest up to 24 months term at Gigahertz with your BDO Credit Card!
+
+Enjoy exclusive discounts & freebies worth up to P30,000 with select laptop purchase until 6/30/25. The first installment will be billed on your next SOA. Visit BDO Website, search GIGAHERTZ for T&Cs DTI223135"
+2025-05-09 12:04:56,2025-05-09 12:18:15,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest up to 36 months at Fone Style with your BDO Credit Card.
+
+Choose up to 3 freebies from earbuds, powerbank, adapter or headphones on select phone purchase until 6/30/25. 1st installment will be billed on your next SOA. Visit BDO Website, search Fone Style for T&Cs DTI215878"
+2025-05-13 10:06:44,2025-05-13 10:21:36,BDO Deals,ads,Up to 80% OFF + EXTRA 5% OFF @ Sports Central Clearance Sale w/ your BDO Credit Card on May 14-18 @ Megatrade.Search Sports Central @ BDO web for T&Cs DTI218905
+2025-05-13 11:33:46,2025-05-13 12:31:06,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest up to 24 months at Aerophone w/ your BDO Credit Card!
+
+Get the new Samsung Galaxy S25 & enjoy 20% OFF on select Samsung accessories + free phone stand, mini fan & flood light w/ powerbank. Promo runs until 06/30/25. Visit BDO Website, search Aerophone for T&Cs. DTI213447"
+2025-05-13 15:59:32,2025-05-13 16:17:32,BDO Deals,ads,<REDACTED>
+2025-05-13 16:07:30,2025-05-13 16:17:32,BDO Deals,ads,<REDACTED>
+2025-05-14 09:11:32,2025-05-14 09:14:41,BDO Deals,ads,"Ending soon! Save your card & get P500 Cashback on Shopee with BDO Mastercard Credit Card. Valid for a minimum cumulative spend of P3,500.
+
+To join, enroll your Promo ID 432A4649AA
+
+Promo runs until May 31, 2025.
+
+For T&Cs, visit the BDO website & search Shopee Cashback. DTI223209"
+2025-05-14 14:19:55,2025-05-14 14:22:27,BDO Deals,ads,<REDACTED>
+2025-05-15 11:15:33,2025-05-15 11:16:27,BDO Deals,ads,"AGODA'S BIRTHDAY SALE
+
+Enjoy EXTRA 6% OFF on hotel stays with BDO Cards! Book via agoda .com/bdo til May 21, 2025
+
+Search AGODA on BDO website for T&C.DTI218541"
+2025-05-16 10:00:01,2025-05-16 10:05:13,BDO Deals,ads,"Hi Scott!
+
+Continue using your BDO Mastercard Credit Card for all your airline, hotel, travel-related and overseas in-store purchases to get as much as P10K CASHBACK.
+
+Just reach a cumulative spend of at least: 
+*P300K to get P10K Cashback
+*P150K to get P5K Cashback
+
+Any purchase amount qualifies.
+
+Enroll NOW using PROMO ID 432A4649AA. 
+
+Promo runs until May 31, 2025.
+
+For T&Cs, search Travel Cashback on the BDO website. DTI216400"
+2025-05-26 09:04:57,2025-05-26 09:05:11,BDO Deals,ads,"Enjoy up to 68% OFF on stay at our partner hotels with your BDO Credit or Debit Card!
+
+Promo offer, period & mechanics vary per hotel.
+
+Search hotel deals on BDO website for T&C. DTI202565, 206472, 206722, 207804, 210754
+
+To stop msgs,txt STOP to 225678"
+2025-05-27 09:10:45,2025-05-27 09:38:49,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest up to 24 months term at Silicon Valley with your BDO Credit Card!
+
+Enjoy up to P9,000 OFF on select iPhone & Macbook models & other Apple products until 6/30/25. First installment will be billed on your next SOA. Visit BDO Website & search SILICON VALLEY for T&Cs DTI218866"
+2025-05-27 10:19:11,2025-05-27 10:19:23,BDO Deals,ads,"Book your next trips at The Great BDO Travel Sale:
+
+- Japan: USD248 (Economy), USD760 (Business)
+- Korea: USD240 (Economy), USD750 (Business)
+- USA: USD404 (Economy), USD2,880 (Business)
+- Europe: USD563 (Economy), USD2,051 (Business)
+
+Book on ground at SMX Convention Center Aura, SM Aura Premier (10am-8pm), or online at www. bdo. com. ph/ travel, from May 29 - June 1. Travel until May 15, 2026 unless specified. T&Cs apply. DTI222233"
+2025-05-27 10:51:50,2025-05-27 10:52:58,BDO Deals,ads,"Convert purchases from The Great BDO Travel Sale to installment at 0.49% monthly add-on rate for 3 - 24 months with your BDO Credit Card.
+
+Plus, pay 3 months later & get up to P3K SM Gift Pass with P50K min. spend when you apply onsite:
+-Manila: SMX Aura, May 29 - Jun 1, 2025
+-Cebu: Northwing Atrium, SM City Cebu, Jun 20-22
+-Davao: Mall Atrium, SM Lanang, Jun 27-29
+
+Visit BDO website>Deals & search Purchase Convert Travel Sale. T&Cs & fees apply DTI225204"
+2025-05-28 11:15:14,2025-05-28 11:15:48,BDO Deals,ads,"Up to P3K EXTRA savings at SM 3-Day Sale w/ your BDO Credit Card!
+
+Shop at SM Store & SM Retail stores:
+10% OFF on BUY NOW PAY LATER
+5% OFF on straight purchase
+
+Promo runs on:
+05/28-06/01: SM Megamall
+05/30-06/01: SM Caloocan, San Mateo, and Valenzuela
+
+Search SM 3-Day Sale at BDO web for T&Cs. DTI212725"
+2025-05-28 14:39:12,2025-05-28 15:03:37,BDO Deals,ads,"Get up to P3K SM Gift Pass when you Fly Now Pay Later with your BDO Credit Card! Spend a minimum of P50K at The Great BDO Travel Sale from May 29 - June 1, 2025 at SM Aura Premier. Enjoy 0% interest up to 6 months & pay 3 months later. Visit BDO Website, Deals, search Fly Now Pay Later for T&Cs. DTI224894"
+2025-05-28 15:06:29,2025-05-28 15:06:54,BDO Deals,ads,<REDACTED>
+2025-05-29 10:32:43,2025-05-29 10:40:13,BDO Deals,ads,Explore Shizuoka & Yamanashi w/ BDO Cards! Fly w/ Japan Airlines from $248. 3D2N package for JPY213K/pax (min. 2 pax) from World Joint Travel + get FREE 1-night hotel in Tokyo when you book flight & package Book at bdo. plan-wjt. com or visit BDO Travel Sale at SM Aura from 5/29-6/1/25. DTI210269 & 222233
+2025-05-30 12:36:45,2025-05-30 12:38:51,BDO Deals,ads,"#TravelBETTER w/ BDO Cards
+-Up to 15% OFF on Booking .com
+-12% OFF on Klook
+-Up to 10% OFF on Trip .com
+-8% OFF on Agoda
+-Up to 60% OFF on Big Sky
+-Up to 20% OFF on BDO travel insurance
+Promo period varies per partner.
+
+Search Travel Deals on the BDO web for T&C.DTI225350,221074,226448,223798,210640"
+2025-05-30 12:54:24,2025-05-30 12:57:51,BDO Deals,ads,"UP TO P6K CASHBACK!
+
+Travel. Dine. Shop Anywhere w/ BDO Credit Cards & reach a min cumulative* spend from Jun 1-Jul31, 2025
+
+P200K = P6K Cashback
+P100K = P2.5K Cashback
+P40K = P1K Cashback
+*Min of P1K/ transaction
+
+To join, enroll Promo ID 432A4649AA
+
+For T&Cs, search Spend Anywhere on BDO web. DTI225361"
+2025-05-30 14:15:53,2025-05-30 14:16:45,BDO Deals,ads,"P150 OFF on foodpanda w/ BDO Credit Card! Use code BDODEALS on P800 spend fr May 30-Jul 6,'25(Fri-Sun) For T&C,search foodpanda at deals .bdo .com .ph DTI226500"
+2025-06-02 10:28:38,2025-06-02 10:38:41,BDO Deals,ads,"The Great BDO Travel Sale-Manila Continues!
+Keep the adventure going with your BDO Cards.
+
+As low as:
+- Japan: USD284 (Economy), USD760 (Business)
+- USA: USD404 (Economy), USD2,880 (Business)
+- Europe: USD563 (Economy), USD2,051 (Business)
+
+Visit www. bdo. com. ph/ travel for details on how to book online, or via reservations hotline or partners' ticket office. Promo til 6/30/25 unless specified. T&Cs apply. DTI226022,226015,226109,226078,226035"
+2025-06-03 10:07:45,2025-06-03 10:10:26,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest up to 24 months term in all MemoXpress stores with your BDO Credit Card!
+
+Enjoy 10% OFF on select accessories with any smartphone purchase until June 30, 2025. The first installment will be billed on your next SOA. Visit BDO Website and search MEMOXPRESS for T&Cs DTI220512"
+2025-02-11 07:15:01,2025-02-11 07:25:24,redacted_business,notifs,<REDACTED>
+2025-03-02 08:08:41,2025-03-02 08:15:11,redacted_business,notifs,<REDACTED>
+2025-03-04 09:02:33,2025-03-04 09:03:44,redacted_business,notifs,<REDACTED>
+2025-04-01 10:04:45,2025-04-01 10:40:05,redacted_business,notifs,<REDACTED>
+2025-05-01 07:06:08,2025-05-01 07:16:30,redacted_business,notifs,<REDACTED>
+2025-06-03 07:06:17,2025-06-03 07:42:08,redacted_business,notifs,<REDACTED>
+2025-05-27 13:03:27,2025-05-27 13:03:31,redacted_contact,notifs,<REDACTED>
+2025-06-02 18:07:27,2025-06-02 18:07:27,redacted_contact,notifs,<REDACTED>
+2025-01-01 00:05:51,2025-01-01 08:21:39,SMART,ads, Travelling soon? Stay connected across multiple destinations by Pre-booking a GigaRoam data pack. Visit smrt.ph/GigaRoam
+2025-01-01 00:05:52,2025-01-01 08:21:39,SMART,notifs,<REDACTED>
+2025-02-01 08:01:03,2025-02-01 08:27:36,SMART,notifs,<REDACTED>
+2025-02-01 08:01:04,2025-02-01 08:27:36,SMART,ads, Travelling soon? Stay connected across multiple destinations by Pre-booking a GigaRoam data pack. Visit smrt.ph/GigaRoam
+2025-02-07 19:11:05,2025-02-07 19:23:08,SMART,notifs,<REDACTED>
+2025-02-23 00:37:49,2025-02-23 07:56:13,SMART,notifs,<REDACTED>
+2025-03-01 00:04:25,2025-03-01 08:56:33,SMART,notifs,<REDACTED>
+2025-03-01 00:04:26,2025-03-01 08:56:33,SMART,ads, Travelling soon? Stay connected across multiple destinations by Pre-booking a GigaRoam data pack. Visit smrt.ph/GigaRoam
+2025-03-06 14:24:15,2025-03-06 14:28:00,SMART,notifs,<REDACTED>
+2025-03-27 15:15:54,2025-03-27 15:17:59,SMART,ads,"1/2 Don't click links in text messages, even if they appear to be from 'Smart' or other trusted brands. Scammers use this ploy to steal your information."
+2025-03-27 15:16:55,2025-03-27 15:17:59,SMART,ads,2/2 Don't take the bait! Never share OTPs or card details. Stay alert and protect yourself. #BeCyberSMART
+2025-03-30 09:32:42,2025-03-30 09:41:35,SMART,ads,1/2 Advisory: GigaPoints earned from July to Sept. 2024 will expire soon!
+2025-03-30 09:32:42,2025-03-30 09:41:35,SMART,ads,"2/2 If you have points, use them before Mar. 31 to redeem exciting promos and boosters in the Smart App.
+Kindly disregard this message if you have no GigaPoints"
+2025-04-01 00:13:44,2025-04-01 08:30:30,SMART,notifs,<REDACTED>
+2025-04-01 00:13:45,2025-04-01 08:30:30,SMART,ads, Travelling soon? Stay connected across multiple destinations by Pre-booking a GigaRoam data pack. Visit smrt.ph/GigaRoam
+2025-04-07 10:43:06,2025-04-07 10:43:53,SMART,notifs,<REDACTED>
+2025-04-07 11:34:57,2025-04-07 11:44:57,SMART,notifs,<REDACTED>
+2025-04-10 20:21:18,2025-04-10 20:23:00,SMART,notifs,<REDACTED>
+2025-04-11 01:07:56,2025-04-11 01:08:19,SMART,notifs,<REDACTED>
+2025-04-11 01:09:18,2025-04-11 01:22:40,SMART,notifs,<REDACTED>
+2025-04-16 20:29:16,2025-04-16 20:29:26,SMART,ads,"Hi! You're about to be automatically subscribed to Auto Roam Surf for you to stay connected abroad. If you'd like to use Auto Roam Surf, you don't need to do anything and please just ignore this message. If you prefer not to use data roaming, switch off Data Roaming in your phone settings."
+2025-04-16 20:29:17,2025-04-16 20:29:26,SMART,ads,"You are now subscribed to ROAM SURF 499, with 1GB data allowance, renewable upon full consumption or after 24 HOURS. To stop daily auto-renewal: 
+1. Turn off WiFi
+2. Click here to stop daily auto-renewal Link: http://roam.smart.com.ph:86//smartph-agent/feqI3i=160
+3. Turn OFF Data Roaming in phone settings"
+2025-04-16 20:29:17,2025-04-16 20:29:26,SMART,notifs,<REDACTED>
+2025-04-16 20:31:15,2025-04-16 20:31:28,SMART,ads,"You are subscribed to AUTO ROAM SURF.  Subscription will auto-renew upon full consumption or within 24 hours. To stop this subscription from auto-renewing, click here: http://roam.smart.com.ph:86//smartph-agent/YbAZZ3=160"
+2025-04-17 08:31:19,2025-04-17 08:31:52,SMART,ads,"Your ROAM SURF 499 is about to expire within 12 hours. Subscription will auto-renew upon full consumption. To stop this subscription from auto-renewing, click here: http://roam.smart.com.ph:86//smartph-agent/mIjEvu=160"
+2025-04-17 17:20:02,2025-04-17 17:22:03,SMART,notifs,<REDACTED>
+2025-04-17 20:29:35,2025-04-17 20:29:57,SMART,notifs,<REDACTED>
+2025-04-25 10:46:10,2025-04-25 10:46:17,SMART,ads,You're almost out of data. You have less than 200MB left from your plan's data allowance.                                                                       
+2025-04-25 10:46:11,2025-04-25 10:46:17,SMART,ads, Visit the Smart App to register to our promos EASILY! smrt.ph/Check_Usage
+2025-04-28 10:36:29,2025-04-28 10:37:30,SMART,notifs,<REDACTED>
+2025-04-28 10:37:54,2025-04-28 10:38:41,SMART,notifs,<REDACTED>
+2025-04-28 10:38:28,2025-04-28 10:38:41,SMART,notifs,<REDACTED>
+2025-04-28 10:38:37,2025-04-28 10:38:41,SMART,notifs,<REDACTED>
+2025-04-28 10:39:28,2025-04-28 10:42:11,SMART,notifs,<REDACTED>
+2025-04-28 10:42:58,2025-04-28 10:43:01,SMART,notifs,<REDACTED>
+2025-04-29 22:21:07,2025-04-29 22:21:21,SMART,ads,"You no longer have any data inclusions left in your plan. To access the internet, go to this link: http://balance.smart.com.ph/mobile/postpaid/booster"
+2025-04-30 11:10:31,2025-04-30 11:15:07,SMART,notifs,<REDACTED>
+2025-05-01 08:41:55,2025-05-01 08:42:04,SMART,ads, Travelling soon? Stay connected across multiple destinations by Pre-booking a GigaRoam data pack. Visit smrt.ph/GigaRoam
+2025-05-01 08:42:54,2025-05-01 08:55:43,SMART,notifs,<REDACTED>
+2025-05-06 10:34:37,2025-05-06 10:44:01,SMART,notifs,<REDACTED>
+2025-05-07 16:57:43,2025-05-07 17:22:13,SMART,notifs,<REDACTED>
+2025-05-24 12:16:15,2025-05-24 12:16:22,SMART,notifs,<REDACTED>
+2025-06-01 08:25:48,2025-06-01 09:15:45,SMART,notifs,<REDACTED>
+2025-06-01 08:25:48,2025-06-01 09:15:45,SMART,ads, Travelling soon? Stay connected across multiple destinations by Pre-booking a GigaRoam data pack. Visit the GigaRoam Portal in the Smart Website
+2024-12-27 20:08:33,2024-12-27 20:10:59,GCash,notifs,<REDACTED>
+2024-12-31 16:58:43,2024-12-31 16:59:03,GCash,notifs,<REDACTED>
+2025-01-20 13:33:15,2025-01-20 13:34:45,GCash,notifs,<REDACTED>
+2025-01-29 19:12:57,2025-01-29 19:12:59,GCash,OTP,<REDACTED>
+2025-01-29 19:13:33,2025-01-29 19:13:34,GCash,OTP,<REDACTED>
+2025-01-29 19:14:06,2025-01-29 19:14:12,GCash,notifs,<REDACTED>
+2025-02-01 18:21:00,2025-02-01 18:51:41,GCash,notifs,<REDACTED>
+2025-02-06 09:51:24,2025-02-06 09:52:29,GCash,notifs,<REDACTED>
+2025-02-06 09:52:25,2025-02-06 09:52:29,GCash,notifs,<REDACTED>
+2025-02-27 19:16:34,2025-02-27 19:16:35,GCash,OTP,<REDACTED>
+2025-03-04 10:13:43,2025-03-04 10:13:50,GCash,notifs,<REDACTED>
+2025-03-04 15:23:26,2025-03-04 15:23:28,GCash,OTP,<REDACTED>
+2025-03-06 13:05:43,2025-03-06 13:07:55,GCash,notifs,<REDACTED>
+2025-03-06 13:06:13,2025-03-06 13:07:55,GCash,notifs,<REDACTED>
+2025-03-07 13:27:13,2025-03-07 13:27:17,GCash,notifs,<REDACTED>
+2025-03-10 12:37:06,2025-03-10 13:24:17,GCash,notifs,<REDACTED>
+2025-03-11 08:20:34,2025-03-11 08:23:30,GCash,notifs,<REDACTED>
+2025-03-11 08:20:51,2025-03-11 08:23:30,GCash,notifs,<REDACTED>
+2025-03-11 17:32:40,2025-03-11 17:33:08,GCash,notifs,<REDACTED>
+2025-03-17 14:07:10,2025-03-17 14:07:30,GCash,notifs,<REDACTED>
+2025-03-21 17:17:38,2025-03-21 17:17:42,GCash,notifs,<REDACTED>
+2025-03-21 17:17:55,2025-03-21 17:17:56,GCash,OTP,<REDACTED>
+2025-03-21 17:18:13,2025-03-21 17:18:13,GCash,notifs,<REDACTED>
+2025-04-02 16:38:36,2025-04-02 16:38:54,GCash,notifs,<REDACTED>
+2025-04-06 15:54:36,2025-04-06 15:54:48,GCash,notifs,<REDACTED>
+2025-04-07 08:28:20,2025-04-07 08:28:22,GCash,OTP,<REDACTED>
+2025-04-09 07:29:53,2025-04-09 07:31:39,GCash,notifs,<REDACTED>
+2025-04-19 09:29:36,2025-04-19 09:33:40,GCash,notifs,<REDACTED>
+2025-04-30 10:47:14,2025-04-30 10:47:15,GCash,OTP,<REDACTED>
+2025-04-30 10:50:06,2025-04-30 10:50:07,GCash,OTP,<REDACTED>
+2025-04-30 10:50:40,2025-04-30 10:51:25,GCash,notifs,<REDACTED>
+2025-04-30 12:54:39,2025-04-30 12:54:40,GCash,OTP,<REDACTED>
+2025-05-01 20:25:57,2025-05-01 20:26:36,GCash,notifs,<REDACTED>
+2025-05-01 20:26:26,2025-05-01 20:26:36,GCash,notifs,<REDACTED>
+2025-05-05 10:11:38,2025-05-05 10:12:10,GCash,notifs,<REDACTED>
+2025-05-17 10:37:31,2025-05-17 10:37:54,GCash,notifs,<REDACTED>
+2025-05-24 16:05:53,2025-05-24 16:07:32,GCash,notifs,<REDACTED>
+2025-05-24 16:07:24,2025-05-24 16:07:32,GCash,notifs,<REDACTED>
+2025-05-25 18:40:52,2025-05-25 18:44:25,GCash,notifs,<REDACTED>
+2025-05-25 18:58:26,2025-05-25 18:59:53,GCash,notifs,<REDACTED>
+2025-05-25 19:10:07,2025-05-25 19:10:17,GCash,notifs,<REDACTED>
+2025-05-25 23:28:53,2025-05-25 23:28:57,GCash,notifs,<REDACTED>
+2025-05-27 10:08:28,2025-05-27 10:08:34,GCash,notifs,<REDACTED>
+2025-05-30 17:11:56,2025-05-30 17:11:59,GCash,notifs,<REDACTED>
+2025-05-30 19:30:05,2025-05-30 20:07:09,GCash,notifs,<REDACTED>
+2025-05-30 19:00:12,2025-05-30 19:04:11,+6393064***97,spam,"Hi,
+
+Your GCash account has been temporarily disabled!
+Please update your GCash account.
+
+Confirm your account here: gcashaccountfix.online
+
+Thank you for choosing us!"
+2024-12-26 10:32:51,2024-12-26 10:33:00,redacted_business,notifs,<REDACTED>
+2024-12-27 12:51:53,2024-12-27 13:00:16,redacted_business,notifs,<REDACTED>
+2025-01-21 15:47:12,2025-01-21 16:01:39,redacted_business,notifs,<REDACTED>
+2025-01-23 16:14:29,2025-01-23 16:16:13,redacted_business,notifs,<REDACTED>
+2025-01-28 13:15:13,2025-01-28 13:19:53,redacted_business,notifs,<REDACTED>
+2025-01-28 13:20:11,2025-01-28 13:20:17,redacted_business,notifs,<REDACTED>
+2025-01-31 15:06:21,2025-01-31 15:39:04,redacted_business,notifs,<REDACTED>
+2025-02-04 19:10:24,2025-02-04 19:29:05,redacted_business,notifs,<REDACTED>
+2025-02-11 15:49:26,2025-02-11 16:03:24,redacted_business,notifs,<REDACTED>
+2025-02-24 11:48:35,2025-02-24 11:49:34,redacted_business,notifs,<REDACTED>
+2025-02-25 09:32:46,2025-02-25 09:48:38,redacted_business,notifs,<REDACTED>
+2025-02-25 09:32:46,2025-02-25 09:48:38,redacted_business,notifs,<REDACTED>
+2025-03-24 11:34:52,2025-03-24 11:36:43,redacted_business,notifs,<REDACTED>
+2025-04-07 11:48:16,2025-04-07 11:48:24,redacted_business,notifs,<REDACTED>
+2025-04-08 14:23:44,2025-04-08 14:26:48,redacted_business,notifs,<REDACTED>
+2025-04-11 16:07:34,2025-04-11 16:10:55,redacted_business,OTP,<REDACTED>
+2025-04-25 11:33:53,2025-04-25 11:35:19,redacted_business,notifs,<REDACTED>
+2025-04-25 11:33:55,2025-04-25 11:35:19,redacted_business,notifs,<REDACTED>
+2025-04-25 14:13:18,2025-04-25 14:13:38,redacted_business,notifs,<REDACTED>
+2025-04-25 14:49:37,2025-04-25 14:49:41,redacted_business,notifs,<REDACTED>
+2025-04-28 10:55:44,2025-04-28 10:56:48,redacted_business,notifs,<REDACTED>
+2025-04-28 14:26:55,2025-04-28 14:31:17,redacted_business,notifs,<REDACTED>
+2025-04-28 14:35:07,2025-04-28 14:38:10,redacted_business,notifs,<REDACTED>
+2025-05-02 17:20:07,2025-05-02 17:34:37,redacted_business,notifs,<REDACTED>
+2025-05-05 08:48:21,2025-05-05 08:54:16,redacted_business,notifs,<REDACTED>
+2025-05-07 18:54:37,2025-05-07 18:55:57,redacted_business,notifs,<REDACTED>
+2025-05-29 11:36:54,2025-05-29 11:42:11,redacted_business,notifs,<REDACTED>
+2025-05-28 09:58:09,2025-05-28 10:02:20,redacted_individual,notifs,<REDACTED>
+2024-12-26 09:33:35,2024-12-26 09:33:37,UnionBank,OTP,<REDACTED>
+2024-12-26 09:33:46,2024-12-26 09:34:57,UnionBank,notifs,<REDACTED>
+2024-12-26 09:35:48,2024-12-26 09:45:10,UnionBank,OTP,<REDACTED>
+2024-12-26 09:46:50,2024-12-26 09:46:51,UnionBank,OTP,<REDACTED>
+2024-12-26 09:46:58,2024-12-26 09:47:11,UnionBank,notifs,<REDACTED>
+2024-12-31 16:58:16,2024-12-31 16:58:20,UnionBank,OTP,<REDACTED>
+2024-12-31 17:06:18,2024-12-31 17:11:00,UnionBank,notifs,<REDACTED>
+2025-02-07 15:43:00,2025-02-07 15:43:02,UnionBank,OTP,<REDACTED>
+2025-02-07 15:43:07,2025-02-07 15:43:20,UnionBank,notifs,<REDACTED>
+2025-03-04 10:13:25,2025-03-04 10:13:27,UnionBank,OTP,<REDACTED>
+2025-03-04 10:13:31,2025-03-04 10:13:52,UnionBank,notifs,<REDACTED>
+2025-03-11 08:35:14,2025-03-11 08:35:15,UnionBank,OTP,<REDACTED>
+2025-03-11 08:35:32,2025-03-11 08:35:38,UnionBank,notifs,<REDACTED>
+2025-03-11 17:05:00,2025-03-11 17:05:02,UnionBank,OTP,<REDACTED>
+2025-03-11 17:05:08,2025-03-11 17:06:07,UnionBank,notifs,<REDACTED>
+2025-03-24 13:03:50,2025-03-24 13:03:53,UnionBank,OTP,<REDACTED>
+2025-03-24 13:03:57,2025-03-24 13:05:58,UnionBank,notifs,<REDACTED>
+2025-04-06 15:54:18,2025-04-06 15:54:21,UnionBank,OTP,<REDACTED>
+2025-04-06 15:54:27,2025-04-06 15:54:50,UnionBank,notifs,<REDACTED>
+2025-04-07 08:35:14,2025-04-07 08:35:30,UnionBank,OTP,<REDACTED>
+2025-04-07 08:36:00,2025-04-07 08:38:28,UnionBank,notifs,<REDACTED>
+2025-04-11 19:32:43,2025-04-11 19:32:45,UnionBank,OTP,<REDACTED>
+2025-04-11 19:32:53,2025-04-11 19:35:35,UnionBank,notifs,<REDACTED>
+2025-04-14 10:32:03,2025-04-14 10:32:05,UnionBank,OTP,<REDACTED>
+2025-05-01 20:25:40,2025-05-01 20:25:41,UnionBank,OTP,<REDACTED>
+2025-05-01 20:25:49,2025-05-01 20:26:08,UnionBank,notifs,<REDACTED>
+2025-05-01 20:25:52,2025-05-01 20:26:08,UnionBank,notifs,<REDACTED>
+2025-05-01 20:26:07,2025-05-01 20:26:08,UnionBank,OTP,<REDACTED>
+2025-05-01 20:26:12,2025-05-01 20:26:33,UnionBank,notifs,<REDACTED>
+2025-05-05 07:18:51,2025-05-05 07:18:53,UnionBank,OTP,<REDACTED>
+2025-05-05 07:18:56,2025-05-05 07:19:07,UnionBank,notifs,<REDACTED>
+2025-05-16 12:41:38,2025-05-16 12:41:40,UnionBank,OTP,<REDACTED>
+2025-05-16 12:41:44,2025-05-16 12:47:29,UnionBank,notifs,<REDACTED>
+2025-05-17 10:31:48,2025-05-17 10:31:50,UnionBank,OTP,<REDACTED>
+2025-05-17 10:31:55,2025-05-17 10:35:30,UnionBank,notifs,<REDACTED>
+2025-05-25 23:28:28,2025-05-25 23:28:29,UnionBank,OTP,<REDACTED>
+2025-05-25 23:28:33,2025-05-25 23:28:59,UnionBank,notifs,<REDACTED>
+2025-02-09 08:51:08,2025-02-09 08:51:10,redacted_business,OTP,<REDACTED>
+2025-02-09 08:51:57,2025-02-09 08:51:57,redacted_business,OTP,<REDACTED>
+2025-02-28 13:39:11,2025-02-28 13:39:13,redacted_business,OTP,<REDACTED>
+2025-03-07 14:33:05,2025-03-07 14:37:46,redacted_business,notifs,<REDACTED>
+2025-03-09 20:36:19,2025-03-09 20:36:28,redacted_business,OTP,<REDACTED>
+2025-03-09 20:37:10,2025-03-09 20:37:10,redacted_business,OTP,<REDACTED>
+2025-03-21 13:55:52,2025-03-21 14:04:52,redacted_business,notifs,<REDACTED>
+2025-03-21 13:56:16,2025-03-21 14:04:52,redacted_business,notifs,<REDACTED>
+2025-03-22 13:29:22,2025-03-22 13:29:26,redacted_business,notifs,<REDACTED>
+2025-03-22 14:57:33,2025-03-22 14:57:35,redacted_business,notifs,<REDACTED>
+2025-03-26 18:24:05,2025-03-26 19:21:16,redacted_business,notifs,<REDACTED>
+2025-04-04 16:54:51,2025-04-04 16:54:56,redacted_business,OTP,<REDACTED>
+2025-04-06 21:14:50,2025-04-06 21:14:52,redacted_business,OTP,<REDACTED>
+2025-04-06 21:15:35,2025-04-06 21:15:35,redacted_business,OTP,<REDACTED>
+2025-04-23 11:29:04,2025-04-23 11:29:13,redacted_business,notifs,<REDACTED>
+2025-04-23 12:23:05,2025-04-23 12:50:55,redacted_business,notifs,<REDACTED>
+2025-05-07 02:00:35,2025-05-07 07:26:59,redacted_business,notifs,<REDACTED>
+2025-05-08 20:16:07,2025-05-08 20:16:14,redacted_business,OTP,<REDACTED>
+2025-05-08 20:16:56,2025-05-08 20:16:56,redacted_business,OTP,<REDACTED>
+2025-05-25 18:21:32,2025-05-25 18:21:42,redacted_business,notifs,<REDACTED>
+2025-05-24 12:47:21,2025-05-24 13:02:52,redacted_business,notifs,<REDACTED>
+2025-05-24 15:00:58,2025-05-24 15:01:17,redacted_business,notifs,<REDACTED>
+2025-01-19 17:48:11,2025-01-19 17:50:07,eTravel,gov,Mabuhay! Welcome to the Philippines! Thank you for using eTravel system. Enjoy your stay!
+2025-02-22 19:01:21,2025-02-22 19:02:46,eTravel,gov,Mabuhay! Welcome to the Philippines! Thank you for using eTravel system. Enjoy your stay!
+2025-04-17 18:39:06,2025-04-17 18:45:16,eTravel,gov,Mabuhay! Welcome to the Philippines! Thank you for using eTravel system. Enjoy your stay!
+2025-05-24 12:43:21,2025-05-24 13:02:53,eTravel,gov,Mabuhay! Welcome to the Philippines! Thank you for using eTravel system. Enjoy your stay!
+2025-05-22 17:47:23,2025-05-22 17:47:40,redacted_individual,notifs,<REDACTED>
+2025-01-10 09:09:41,2025-01-10 09:11:28,redacted_business,notifs,<REDACTED>
+2025-01-10 10:03:50,2025-01-10 10:05:48,redacted_business,notifs,<REDACTED>
+2025-01-10 10:05:45,2025-01-10 10:05:48,redacted_business,notifs,<REDACTED>
+2025-01-10 20:32:11,2025-01-10 20:43:04,redacted_business,notifs,<REDACTED>
+2025-01-11 09:17:15,2025-01-11 09:56:27,redacted_business,notifs,<REDACTED>
+2025-01-11 10:02:42,2025-01-11 10:02:52,redacted_business,notifs,<REDACTED>
+2025-01-11 10:09:00,2025-01-11 10:12:41,redacted_business,notifs,<REDACTED>
+2025-02-12 10:43:49,2025-02-12 11:01:35,redacted_business,notifs,<REDACTED>
+2025-02-12 15:07:57,2025-02-12 15:43:32,redacted_business,notifs,<REDACTED>
+2025-02-12 15:58:02,2025-02-12 16:07:22,redacted_business,notifs,<REDACTED>
+2025-02-12 16:04:29,2025-02-12 16:07:22,redacted_business,notifs,<REDACTED>
+2025-02-16 19:52:39,2025-02-16 19:55:49,redacted_business,notifs,<REDACTED>
+2025-02-17 08:58:38,2025-02-17 08:58:42,redacted_business,notifs,<REDACTED>
+2025-02-17 10:02:35,2025-02-17 10:03:48,redacted_business,notifs,<REDACTED>
+2025-02-17 10:24:10,2025-02-17 10:32:18,redacted_business,notifs,<REDACTED>
+2025-05-19 12:46:51,2025-05-19 12:53:58,redacted_business,notifs,<REDACTED>
+2025-05-19 16:20:14,2025-05-19 16:29:25,redacted_business,notifs,<REDACTED>
+2025-05-19 16:55:58,2025-05-19 16:57:17,redacted_business,notifs,<REDACTED>
+2025-05-19 19:35:10,2025-05-19 19:36:16,redacted_business,notifs,<REDACTED>
+2025-05-19 19:35:12,2025-05-19 19:36:16,redacted_business,notifs,<REDACTED>
+2025-05-19 20:11:44,2025-05-19 20:15:35,redacted_business,notifs,<REDACTED>
+2025-05-19 20:55:44,2025-05-19 20:55:50,redacted_business,notifs,<REDACTED>
+2025-05-19 20:58:03,2025-05-19 20:58:10,redacted_business,notifs,<REDACTED>
+2025-05-22 14:53:48,2025-05-22 14:53:57,redacted_business,notifs,<REDACTED>
+2025-05-22 16:36:47,2025-05-22 16:36:59,redacted_business,notifs,<REDACTED>
+2025-05-22 17:45:28,2025-05-22 17:45:58,redacted_business,notifs,<REDACTED>
+2025-05-22 17:47:10,2025-05-22 17:47:43,redacted_business,notifs,<REDACTED>
+2025-01-02 23:47:05,2025-01-03 00:05:29,redacted_business,notifs,<REDACTED>
+2025-01-14 08:48:18,2025-01-14 08:51:35,redacted_business,notifs,<REDACTED>
+2025-05-21 16:58:16,2025-05-21 16:58:21,redacted_business,notifs,<REDACTED>
+2025-05-17 14:19:03,2025-05-17 14:20:04,+6393917***20,spam,"Dahil bago ang aming sit3 tulungan kita makap@ld0 basta ikaw bahala sakin pag nanal0 ka. Bigyan kitang EASYW!N na laro para makap@ldo ka agad.
+
+Add o msg moko sa MSNGR: CLEIA DAPON **naka-red backless dress ang profile pic**"
+2025-05-17 15:17:36,2025-05-17 15:18:51,+6393917***20,spam,Nakapagmessage na po ba?  Message mo na po ako para maguide kita manalo at masecure ang iyong winning slot. May chance kapa makakuha ng malaking amount ngayong araw😊
+2025-05-14 22:30:16,2025-05-14 22:55:11,redacted_business,notifs,<REDACTED>
+2025-05-14 21:10:33,2025-05-14 21:10:42,redacted_individual,notifs,<REDACTED>
+2025-05-14 21:12:53,2025-05-14 21:15:11,redacted_individual,notifs,<REDACTED>
+2025-05-14 21:13:32,2025-05-14 21:15:11,redacted_individual,notifs,<REDACTED>
+2025-05-14 12:20:24,2025-05-14 12:21:40,redacted_contact,notifs,<REDACTED>
+2025-05-13 15:10:26,2025-05-13 15:19:57,redacted_individual,notifs,<REDACTED>
+2025-01-02 11:08:42,2025-01-02 11:08:44,redacted_business,OTP,<REDACTED>
+2025-02-23 09:46:43,2025-02-23 09:47:18,redacted_business,OTP,<REDACTED>
+2025-02-23 09:52:52,2025-02-23 09:52:55,redacted_business,OTP,<REDACTED>
+2025-02-23 09:52:53,2025-02-23 09:52:55,redacted_business,OTP,<REDACTED>
+2025-03-18 08:09:46,2025-03-18 08:09:53,redacted_business,OTP,<REDACTED>
+2025-03-18 08:09:46,2025-03-18 08:09:53,redacted_business,OTP,<REDACTED>
+2025-03-21 12:19:00,2025-03-21 12:19:08,redacted_business,OTP,<REDACTED>
+2025-03-21 12:27:09,2025-03-21 12:27:16,redacted_business,OTP,<REDACTED>
+2025-03-21 12:32:19,2025-03-21 12:32:24,redacted_business,OTP,<REDACTED>
+2025-03-21 12:36:04,2025-03-21 12:36:10,redacted_business,OTP,<REDACTED>
+2025-03-21 12:38:42,2025-03-21 12:38:45,redacted_business,OTP,<REDACTED>
+2025-03-21 12:42:24,2025-03-21 12:42:28,redacted_business,OTP,<REDACTED>
+2025-03-26 18:05:21,2025-03-26 18:05:29,redacted_business,OTP,<REDACTED>
+2025-04-02 18:26:21,2025-04-02 18:26:25,redacted_business,OTP,<REDACTED>
+2025-04-02 18:30:10,2025-04-02 18:30:15,redacted_business,OTP,<REDACTED>
+2025-04-14 15:11:01,2025-04-14 15:11:22,redacted_business,OTP,<REDACTED>
+2025-04-17 11:02:52,2025-04-17 11:03:03,redacted_business,OTP,<REDACTED>
+2025-04-27 19:47:50,2025-04-27 19:47:53,redacted_business,OTP,<REDACTED>
+2025-05-11 17:10:56,2025-05-11 17:11:01,redacted_business,OTP,<REDACTED>
+2025-05-09 10:10:10,2025-05-09 10:10:34,redacted_contact,notifs,<REDACTED>
+2025-05-07 10:50:22,2025-05-07 10:50:26,redacted_individual,notifs,<REDACTED>
+2025-05-02 09:45:02,2025-05-02 09:46:00,redacted_contact,notifs,<REDACTED>
+2025-05-05 07:21:06,2025-05-05 07:21:14,redacted_contact,notifs,<REDACTED>
+2025-05-04 19:30:26,2025-05-04 19:33:51,redacted_individual,notifs,<REDACTED>
+2025-05-03 11:57:14,2025-05-03 12:29:02,PLDTDeals,ads,"Time to upgrade your landline phone! Get a cordless telset now with caller ID display, auto-answer & more for ONLY P99/mo. at pldthome.info/mt1"
+2025-02-07 16:50:26,2025-02-07 16:50:27,redacted_business,notifs,<REDACTED>
+2025-02-07 16:51:08,2025-02-07 16:51:10,redacted_business,notifs,<REDACTED>
+2025-04-03 10:32:30,2025-04-03 10:32:31,redacted_business,notifs,<REDACTED>
+2025-04-03 10:33:00,2025-04-03 10:33:02,redacted_business,notifs,<REDACTED>
+2025-04-06 21:14:04,2025-04-06 21:14:06,redacted_business,notifs,<REDACTED>
+2025-05-01 13:41:43,2025-05-01 13:41:46,redacted_business,notifs,<REDACTED>
+2025-05-01 13:42:29,2025-05-01 13:42:30,redacted_business,notifs,<REDACTED>
+2025-04-29 15:47:47,2025-04-29 16:19:46,MayaRewards,ads,"Nice! You received a P20 voucher from Maya. Use it for your load, bills, shopping, and more. Tap 'Vouchers' on the app to claim your gift before it expires!"
+2025-04-29 09:58:22,2025-04-29 10:03:36,redacted_individual,notifs,<REDACTED>
+2025-01-02 11:08:56,2025-01-02 11:09:03,redacted_business,notifs,<REDACTED>
+2025-02-07 10:28:25,2025-02-07 10:29:18,redacted_business,OTP,<REDACTED>
+2025-02-07 10:29:17,2025-02-07 10:29:18,redacted_business,OTP,<REDACTED>
+2025-02-27 19:15:58,2025-02-27 19:16:33,redacted_business,OTP,<REDACTED>
+2025-04-02 18:31:09,2025-04-02 18:31:47,redacted_business,notifs,<REDACTED>
+2025-04-28 19:51:01,2025-04-28 19:51:27,redacted_business,OTP,<REDACTED>
+2025-04-25 14:12:59,2025-04-25 14:13:04,redacted_business,notifs,<REDACTED>
+2025-04-28 14:26:45,2025-04-28 14:26:46,redacted_business,notifs,<REDACTED>
+2025-04-21 14:56:14,2025-04-21 14:56:20,redacted_individual,notifs,<REDACTED>
+2025-04-21 14:57:07,2025-04-21 15:03:30,redacted_individual,notifs,<REDACTED>
+2025-04-24 10:55:29,2025-04-24 11:09:21,redacted_individual,notifs,<REDACTED>
+2025-02-11 11:15:35,2025-02-11 11:15:38,redacted_contact,notifs,<REDACTED>
+2025-02-11 11:42:34,2025-02-11 11:42:46,redacted_contact,notifs,<REDACTED>
+2025-02-11 11:43:31,2025-02-11 11:50:18,redacted_contact,notifs,<REDACTED>
+2025-02-11 12:37:51,2025-02-11 12:38:00,redacted_contact,notifs,<REDACTED>
+2025-02-11 12:41:20,2025-02-11 12:46:51,redacted_contact,notifs,<REDACTED>
+2025-02-11 12:41:50,2025-02-11 12:46:51,redacted_contact,notifs,<REDACTED>
+2025-02-11 12:59:34,2025-02-11 12:59:35,redacted_contact,notifs,<REDACTED>
+2025-03-10 16:23:43,2025-03-10 16:32:46,redacted_contact,notifs,<REDACTED>
+2025-04-06 19:18:33,2025-04-06 19:18:58,redacted_contact,notifs,<REDACTED>
+2025-04-11 14:55:04,2025-04-11 15:00:18,redacted_contact,notifs,<REDACTED>
+2025-04-11 14:56:07,2025-04-11 15:00:18,redacted_contact,notifs,<REDACTED>
+2025-04-11 14:58:35,2025-04-11 15:00:18,redacted_contact,notifs,<REDACTED>
+2025-04-11 15:01:56,2025-04-11 15:03:50,redacted_contact,notifs,<REDACTED>
+2025-04-14 10:04:30,2025-04-14 10:04:35,redacted_contact,notifs,<REDACTED>
+2025-04-22 10:09:54,2025-04-22 10:10:08,redacted_contact,notifs,<REDACTED>
+2025-04-22 10:29:19,2025-04-22 10:29:32,redacted_contact,notifs,<REDACTED>
+2025-04-22 10:30:29,2025-04-22 10:33:20,redacted_contact,notifs,<REDACTED>
+2025-03-06 15:51:43,2025-03-06 16:09:49,redacted_business,notifs,<REDACTED>
+2025-04-21 17:07:32,2025-04-21 17:15:51,redacted_business,notifs,<REDACTED>
+2025-04-14 09:51:16,2025-04-14 09:54:00,redacted_individual,notifs,<REDACTED>
+2025-04-21 09:32:57,2025-04-21 09:33:07,redacted_individual,notifs,<REDACTED>
+2025-04-21 09:34:57,2025-04-21 09:35:07,redacted_individual,notifs,<REDACTED>
+2025-04-21 09:51:05,2025-04-21 09:51:50,redacted_individual,notifs,<REDACTED>
+2024-12-27 18:13:38,2024-12-27 18:30:34,redacted_contact,notifs,<REDACTED>
+2024-12-30 13:28:10,2024-12-30 13:29:23,redacted_contact,notifs,<REDACTED>
+2025-04-12 11:59:56,2025-04-12 11:59:59,myTOYOTA PH,notifs,<REDACTED>
+2025-04-13 11:29:57,2025-04-13 11:32:44,myTOYOTA PH,notifs,<REDACTED>
+2025-04-13 08:16:44,2025-04-13 10:04:47,redacted_individual,notifs,<REDACTED>
+2025-04-13 08:16:55,2025-04-13 10:04:47,redacted_individual,notifs,<REDACTED>
+2025-04-13 08:18:01,2025-04-13 10:04:47,redacted_individual,notifs,<REDACTED>
+2025-04-11 18:05:37,2025-04-11 18:22:50,redacted_business,notifs,<REDACTED>
+2025-04-12 10:39:48,2025-04-12 10:51:14,redacted_business,notifs,<REDACTED>
+2025-04-11 01:08:24,2025-04-11 01:22:42,redacted_business,notifs,<REDACTED>
+2024-12-31 12:36:05,2024-12-31 12:36:11,redacted_business,notifs,<REDACTED>
+2024-12-31 12:36:28,2024-12-31 12:36:33,redacted_business,notifs,<REDACTED>
+2025-01-25 12:02:39,2025-01-25 12:07:34,redacted_business,notifs,<REDACTED>
+2025-01-25 12:03:47,2025-01-25 12:07:34,redacted_business,notifs,<REDACTED>
+2025-02-02 12:47:12,2025-02-02 12:48:14,redacted_business,notifs,<REDACTED>
+2025-04-04 11:10:20,2025-04-04 11:13:55,redacted_business,notifs,<REDACTED>
+2025-02-07 10:37:00,2025-02-07 10:37:09,redacted_business,OTP,<REDACTED>
+2025-02-08 10:17:23,2025-02-08 10:17:24,redacted_business,OTP,<REDACTED>
+2025-04-03 10:31:32,2025-04-03 10:31:33,redacted_business,OTP,<REDACTED>
+2025-04-03 10:35:25,2025-04-03 10:35:28,redacted_business,OTP,<REDACTED>
+2025-01-02 11:07:09,2025-01-02 11:07:16,TIEZA,gov,<REDACTED>
+2025-01-02 11:08:23,2025-01-02 11:08:27,TIEZA,gov,<REDACTED>
+2025-01-02 11:09:06,2025-01-02 11:09:43,TIEZA,gov,<REDACTED>
+2025-04-02 18:24:50,2025-04-02 18:25:14,TIEZA,gov,<REDACTED>
+2025-04-02 18:26:43,2025-04-02 18:28:47,TIEZA,gov,<REDACTED>
+2025-04-02 16:25:40,2025-04-02 16:25:49,Toyota,notifs,<REDACTED>
+2025-03-24 13:33:40,2025-03-24 13:34:02,redacted_individual,notifs,<REDACTED>
+2025-03-24 13:33:46,2025-03-24 13:34:02,redacted_individual,notifs,<REDACTED>
+2025-03-22 15:27:19,2025-03-22 15:28:36,redacted_individual,notifs,<REDACTED>
+2025-03-11 08:36:34,2025-03-11 08:36:36,redacted_individual,notifs,<REDACTED>
+2025-03-11 14:15:27,2025-03-11 14:17:33,redacted_individual,notifs,<REDACTED>
+2025-03-07 16:01:41,2025-03-07 16:03:50,PAGIBIGFUND,gov,"Hi, SCOTT. Good news! You are now qualified for a Pag-IBIG Multi-Purpose Loan (MPL). Apply now and receive your loan in as fast as 3 days! Enjoy low monthly payments and choose to pay your loan under a 2 or 3-year payment term. You may now file your loan application at any Pag-IBIG Fund branch or online by going to the Pag-IBIG Fund website> Virtual Pag-IBIG for Members> Apply for and Manage Loans> Apply for a Short-Term Loan. To know more about the Pag-IBIG Multi-Purpose Loan, you may call us at (02)87-244244, email us at contactus@pagibigfund.gov.ph, or chat with us by visiting our website. 'Yan ang Pag-IBIG Multi-Purpose Loan - Tulong na Maaasahan! "
+2024-12-28 22:24:24,2024-12-28 22:24:25,redacted_business,OTP,<REDACTED>
+2025-01-25 23:38:58,2025-01-26 06:58:22,redacted_business,notifs,<REDACTED>
+2025-02-24 23:56:21,2025-02-24 23:56:27,redacted_business,OTP,<REDACTED>
+2025-03-05 12:14:16,2025-03-05 12:14:24,redacted_business,notifs,<REDACTED>
+2025-03-04 18:02:03,2025-03-04 18:02:05,redacted_business,OTP,<REDACTED>
+2025-02-28 11:05:52,2025-02-28 11:21:43,redacted_business,notifs,<REDACTED>
+2025-02-24 07:59:22,2025-02-24 07:59:23,redacted_contact,notifs,<REDACTED>
+2024-12-26 14:40:42,2024-12-26 14:40:44,SmartApp,OTP,<REDACTED>
+2025-02-23 08:38:54,2025-02-23 08:39:28,SmartApp,ads,You earned 10.00 GigaPoints for Linking an Account to your Smart App. Earn more points by linking more accounts! 1 GigaPoint = 1 Peso
+2025-02-23 08:39:59,2025-02-23 08:39:59,SmartApp,OTP,<REDACTED>
+2025-01-08 14:52:34,2025-01-08 14:52:35,redacted_business,OTP,<REDACTED>
+2025-02-12 09:44:31,2025-02-12 09:44:39,redacted_business,notifs,<REDACTED>
+2025-02-12 19:01:31,2025-02-12 19:04:44,redacted_business,notifs,<REDACTED>
+2025-02-22 15:36:24,2025-02-22 15:36:31,redacted_business,notifs,<REDACTED>
+2025-02-22 15:57:00,2025-02-22 16:10:00,redacted_business,notifs,<REDACTED>
+2025-02-21 12:21:38,2025-02-21 12:21:40,redacted_business,OTP,<REDACTED>
+2025-02-19 10:00:15,2025-02-19 10:01:03,redacted_business,notifs,<REDACTED>
+2025-02-19 10:01:41,2025-02-19 10:01:43,redacted_business,notifs,<REDACTED>
+2025-02-19 10:05:00,2025-02-19 10:05:43,redacted_business,notifs,<REDACTED>
+2025-02-19 10:22:31,2025-02-19 10:23:48,redacted_business,notifs,<REDACTED>
+2025-02-18 13:58:40,2025-02-18 13:58:42,redacted_business,notifs,<REDACTED>
+2025-02-18 09:36:36,2025-02-18 09:53:01,redacted_business,notifs,<REDACTED>
+2025-02-18 09:36:37,2025-02-18 09:53:01,redacted_business,notifs,<REDACTED>
+2025-02-17 16:02:42,2025-02-17 16:02:51,redacted_individual,notifs,<REDACTED>
+2025-02-17 16:02:42,2025-02-17 16:02:51,redacted_individual,notifs,<REDACTED>
+2025-02-17 15:56:32,2025-02-17 15:58:09,redacted_individual,notifs,<REDACTED>
+2025-02-17 15:57:35,2025-02-17 15:58:09,redacted_individual,notifs,<REDACTED>
+2025-02-17 15:57:54,2025-02-17 15:58:09,redacted_individual,notifs,<REDACTED>
+2025-02-17 15:58:04,2025-02-17 15:58:09,redacted_individual,notifs,<REDACTED>
+2025-02-15 13:20:56,2025-02-15 13:20:58,redacted_business,OTP,<REDACTED>
+2025-02-06 09:06:37,2025-02-06 09:06:41,redacted_contact,notifs,<REDACTED>
+2025-01-26 10:50:29,2025-01-26 10:50:38,redacted_business,notifs,<REDACTED>
+2025-01-26 10:59:57,2025-01-26 11:04:34,redacted_business,notifs,<REDACTED>
+2025-01-24 16:53:28,2025-01-24 16:56:38,redacted_contact,notifs,<REDACTED>
+2025-01-16 17:03:44,2025-01-16 17:05:35,redacted_business,notifs,<REDACTED>
+2025-01-17 11:11:53,2025-01-17 11:11:58,redacted_business,notifs,<REDACTED>
+2025-01-17 17:02:38,2025-01-17 17:09:21,redacted_business,notifs,<REDACTED>
+2025-01-15 14:57:34,2025-01-15 14:57:42,redacted_business,notifs,<REDACTED>
+2025-01-02 15:32:59,2025-01-02 15:33:35,redacted_business,notifs,<REDACTED>
+2025-01-02 15:35:50,2025-01-02 15:51:52,redacted_business,notifs,<REDACTED>
+2025-01-08 14:49:54,2025-01-08 14:49:59,redacted_business,OTP,<REDACTED>
+2025-01-08 14:51:51,2025-01-08 14:51:51,redacted_business,OTP,<REDACTED>
+2025-01-08 14:52:05,2025-01-08 14:52:21,redacted_business,notifs,<REDACTED>
+2025-01-14 15:09:00,2025-01-14 15:11:18,redacted_business,notifs,<REDACTED>
+2025-01-15 13:08:08,2025-01-15 13:17:41,redacted_business,notifs,<REDACTED>
+2025-01-14 13:35:35,2025-01-14 13:35:38,redacted_individual,notifs,<REDACTED>
+2025-01-14 12:32:20,2025-01-14 12:37:01,redacted_business,notifs,<REDACTED>
+2025-01-12 20:22:58,2025-01-12 20:29:44,redacted_individual,notifs,<REDACTED>
+2025-01-12 20:30:19,2025-01-12 20:30:24,redacted_individual,notifs,<REDACTED>
+2025-01-12 21:05:41,2025-01-12 21:05:45,redacted_individual,notifs,<REDACTED>
+2025-01-09 12:24:56,2025-01-09 12:24:59,redacted_business,OTP,<REDACTED>
+2025-01-06 07:53:03,2025-01-06 08:31:33,redacted_business,notifs,<REDACTED>
+2025-01-04 09:22:19,2025-01-04 09:22:44,redacted_business,notifs,<REDACTED>
+2024-12-26 08:10:30,2024-12-26 08:43:20,NTC,gov,Beware of SCAMs. Be careful not to click links within text messages. Report these on the NTC website or call the NTC Hotline 1682.
+2024-12-30 07:28:13,2024-12-30 08:00:59,NTC,gov,Beware of SCAMs. Be careful not to click links within text messages. Report these on the NTC website or call the NTC Hotline 1682.
+2024-12-27 12:34:21,2024-12-27 13:00:17,redacted_contact,notifs,<REDACTED>
+2024-12-28 12:50:54,2024-12-28 12:52:10,redacted_contact,notifs,<REDACTED>
+2024-12-28 12:27:22,2024-12-28 12:28:35,redacted_contact,notifs,<REDACTED>
+2024-12-24 04:13:33,2024-12-24 04:55:48,8933,ads,Your subscription request to Hooperslives has been received. Reply Yes within 12hrs to continue.
+2024-12-24 16:13:35,2024-12-24 16:16:28,8933,ads,Your subscription to Hooperslives has been STOPPED.
+2024-12-29 19:10:16,2024-12-29 20:58:58,redacted_business,notifs,<REDACTED>
+2025-01-19 19:59:08,2025-01-19 21:10:04,redacted_business,notifs,<REDACTED>
+2025-02-04 09:49:47,2025-02-04 11:25:00,redacted_business,notifs,<REDACTED>
+2025-02-04 13:35:20,2025-02-04 13:35:22,redacted_business,OTP,<REDACTED>
+2025-03-10 15:52:13,2025-03-10 15:52:49,redacted_business,OTP,<REDACTED>
+2025-03-10 15:52:14,2025-03-10 15:52:49,redacted_business,OTP,<REDACTED>
+2025-03-10 15:55:13,2025-03-10 15:55:16,redacted_business,OTP,<REDACTED>
+2025-03-10 16:14:58,2025-03-10 16:16:26,redacted_business,notifs,<REDACTED>
+2025-03-21 16:21:36,2025-03-26 17:52:25,redacted_business,notifs,<REDACTED>
+2025-03-26 18:13:47,2025-03-26 18:14:09,redacted_business,notifs,<REDACTED>
+2025-04-06 21:17:04,2025-04-06 21:18:15,redacted_business,OTP,<REDACTED>
+2025-04-06 21:17:05,2025-04-06 21:18:15,redacted_business,OTP,<REDACTED>
+2025-04-06 21:38:50,2025-04-07 07:00:57,redacted_business,notifs,<REDACTED>
+2025-04-17 19:23:25,2025-04-17 19:28:18,redacted_business,notifs,<REDACTED>
+2025-05-04 20:00:15,2025-05-05 10:48:11,redacted_business,notifs,<REDACTED>
+2025-05-07 19:22:26,2025-05-07 19:23:10,redacted_business,OTP,<REDACTED>
+2025-05-11 17:49:16,2025-05-11 18:24:51,redacted_business,notifs,<REDACTED>
+2025-05-24 14:48:28,2025-05-24 15:36:27,redacted_business,notifs,<REDACTED>
+2025-06-03 19:40:13,2025-06-03 20:51:11,redacted_business,notifs,<REDACTED>
+2025-05-23 11:22:46,2025-05-23 12:06:51,redacted_business,notifs,<REDACTED>
+2025-05-24 05:26:55,2025-05-24 08:39:54,redacted_business,notifs,<REDACTED>
+2025-01-04 17:32:01,2025-01-04 19:44:36,redacted_business,notifs,<REDACTED>
+2025-01-07 11:05:49,2025-01-10 17:41:24,redacted_business,notifs,<REDACTED>
+2025-01-11 10:38:14,2025-01-11 10:45:28,redacted_business,notifs,<REDACTED>
+2025-01-16 10:20:18,2025-01-16 12:17:57,redacted_business,notifs,<REDACTED>
+2025-02-12 10:36:16,2025-02-12 11:01:12,redacted_business,notifs,<REDACTED>
+2025-02-13 19:32:41,2025-02-13 22:41:26,redacted_business,notifs,<REDACTED>
+2025-02-15 22:46:13,2025-02-15 22:46:41,redacted_business,notifs,<REDACTED>
+2025-02-17 09:44:16,2025-02-17 09:44:46,redacted_business,notifs,<REDACTED>
+2025-02-17 18:51:23,2025-02-17 18:51:25,redacted_business,OTP,<REDACTED>
+2025-02-19 08:40:21,2025-02-19 08:41:26,redacted_business,notifs,<REDACTED>
+2025-02-19 09:06:35,2025-02-20 15:15:55,redacted_business,notifs,<REDACTED>
+2025-02-19 15:01:31,2025-02-20 15:15:55,redacted_business,notifs,<REDACTED>
+2025-05-18 10:33:11,2025-05-19 12:54:08,redacted_business,notifs,<REDACTED>
+2025-05-18 12:06:29,2025-05-19 12:54:08,redacted_business,notifs,<REDACTED>
+2025-05-23 09:41:07,2025-05-23 10:46:43,redacted_business,notifs,<REDACTED>
+2025-05-23 10:27:22,2025-05-23 10:46:43,redacted_business,notifs,<REDACTED>
+2025-05-23 22:36:43,2025-05-24 08:39:55,redacted_business,notifs,<REDACTED>
+2025-05-23 22:36:44,2025-05-24 08:39:55,redacted_business,notifs,<REDACTED>
+2025-05-23 23:01:26,2025-05-24 08:39:55,redacted_business,notifs,<REDACTED>
+2025-01-06 10:10:47,2025-01-10 17:41:25,BDO Deals,ads,"ENDING SOON!
+Up to P10K Cashback on Spend Anywhere
+
+Hi Scott!
+
+You still have until Jan. 31, 2025 to accumulate spend with your BDO Credit Card.
+Book your trips, renovate your home, or get a gadget upgrade.
+
+P300K = P10K Cashback
+P150K = P5K Cashback
+P40K = P1K Cashback
+Min. of P1K per transaction
+
+To join, enroll your Promo ID 432A4649AA
+
+Search Holiday Cashback on BDO website for T&C. DTI206892"
+2025-01-06 12:21:45,2025-01-10 17:41:25,BDO Deals,ads,"Up to 50% OFF + up to P600 EXTRA savings on Plains & Prints and RAF End of Season Sale fr Jan 6-31, 2025.
+
+Search Plains & Prints on BDO web for T&C
+DTI210362"
+2025-01-07 11:43:54,2025-01-10 17:41:25,BDO Deals,ads,"Book these exclusive fares at The Great BDO Travel Sale as low as USD299 (Economy) & USD760 (Business) to Japan, USD404 (Economy) & USD2,850 (Business) to USA, USD563 (Economy) & USD2,145 (Business) to Europe. Book online at www. bdo. com. ph/ travel or onground at SMX Convention Center Aura, SM Aura Premier on Jan. 9-12, 2025 (10am-8pm). Travel til Dec. 31, 2025, unless specified. Search The Great BDO Travel Sale on the BDO site for T&Cs. DTI208190"
+2025-02-12 13:39:05,2025-02-12 14:46:40,BDO Deals,ads,"Exclusive birthday deals with your BDO Card!
+
+-50% OFF at Seasonal Tastes, The Westin Manila til 06/30/25
+-Up to 30% OFF at Seven Corners, Xin Tian Di and The Gallery Bar, Crowne Plaza Manila Galleria til 12/30/25
+
+Search the hotel name on BDO web for T&C. DTI207939, 210741
+To stop msgs,txt STOP to 225678"
+2025-02-12 16:31:18,2025-02-12 18:14:45,BDO Deals,ads,"Get up to P300 cashback as you shop and scan using BDO Pay at SM Store and other participating SM Retail stores from February 12 to March 31, 2025. T&Cs apply. DTI213132. Scan to Pay limit for Credit Card is up to the available credit limit. For Bank Account, the daily limit is P50,000. Download now!"
+2025-02-14 11:52:46,2025-02-15 22:44:34,BDO Deals,ads,"Shop and save your card for the first time and get P500 Cashback for a min. cumulative spend of P3,500 on Lazada with your BDO Mastercard Credit Card. 
+
+To join, enroll your Promo ID 432A4649AA
+
+Promo runs from Feb 15 to Mar 15, 2025.
+
+For T&Cs, visit the BDO website & search Lazada Cashback. DTI214856"
+2025-02-14 11:52:47,2025-02-15 22:44:34,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest up to 24 months at Aerophone w/ your BDO Credit Card!
+
+Get the new Samsung Galaxy S25 & enjoy 20% OFF on select Samsung accessories + free phone stand, mini fan & flood light w/ powerbank. Promo runs until 06/30/25. Visit BDO Website, search Aerophone for T&Cs. DTI213447"
+2025-02-14 16:23:19,2025-02-15 22:44:34,BDO Deals,ads,"No BDO Pay yet? Sign up now to get P300 and unlock an extra P500 when you Scan to Pay with your BDO Credit Card for a min. purchase of P1,000. Promo ends March 15, 2025. T&C apply. DTI212203
+
+This promo is exclusive for NEW BDO Pay users with BDO Credit Cards and is available for a limited time only. Scan to Pay limit for Credit Card is up to the available credit limit. For Bank Account, the daily limit is P50,000."
+2025-02-17 09:31:51,2025-02-17 09:44:06,BDO Deals,ads,"Transfer card balances from other banks to your BDO Credit Card & pay on installment at 0.42% monthly add-on rate for up to 60 mos. Use PROMO ID 432A4649AA
+
+To apply:
+-Log in to BDO Online or BDO Pay app>Installment Offers>Balance Transfer>Balance Transfer Low Rate>Apply Now
+-Visit BDO website>Deals>Balance Transfer Low Rate>Apply Now
+-Call (02) 8667-1680
+
+Offer is until Feb 28, 2025. Applicable rate subject to BDO approval. T&Cs & fees apply. DTI210432"
+2025-02-18 10:40:26,2025-02-18 10:50:00,BDO Deals,ads,<REDACTED>
+2025-02-19 08:38:00,2025-02-19 08:39:48,BDO Deals,ads,"Get your ultimate AI companion with the new Samsung Galaxy S25 Series at Lazada.
+
+BUY NOW PAY LATER at 0% interest up to 12 months only w/ your BDO Credit Card.
+
+Choose 0% installment as payment method and select term.
+
+Visit BDO website, click Deals, search Lazada for promo details.
+T&Cs apply. DTI208437"
+2025-02-20 08:42:12,2025-02-20 15:15:58,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest at Power Mac Center, Samsung, Silicon Valley, Octagon, BSD International, Electroworld, Datablitz, PC Express, MemoXpress & more w/ your BDO Credit Card!
+
+Offer is year round. Visit BDO website, search Buy Now Pay Later for T&Cs. DTI208437 To stop msgs, txt STOP to 225678"
+2025-02-20 11:45:16,2025-02-20 15:15:58,BDO Deals,ads,"Upgrade your Apple experience with BUY NOW PAY LATER!
+
+Enjoy 0% interest up to 24 months term at Power Mac Center, The Loop stores and online with your BDO Credit Card.
+
+Offer is until June 30, 2025.
+
+Visit BDO website, click Deals and search Power Mac Center for promo details. T&Cs apply. DTI208437"
+2025-05-19 11:04:36,2025-05-19 12:54:10,BDO Deals,ads,"40% OFF at Pancake House with BDO Credit Cards
+P2.5K min dine-in bill
+Max P2K OFF
+5/19-6/30, Mon-Fri
+Search Pancake House on BDO web for T&C. DTI224584"
+2025-05-21 10:44:21,2025-05-23 00:31:47,BDO Deals,ads,<REDACTED>
+2025-05-22 10:08:49,2025-05-23 00:31:47,BDO Deals,ads,"Avail Korean Air's exclusive fares w/ BDO Cards-USD261 (Economy), USD909 (Business) to Korea & USD467 (Economy), USD3,236 (Business) to USA & more. Book online or at ticket office 'til 05/28. Travel fr. 06/01/25-04/30/26. Search Korean Air Exclusive Sale on BDO web for T&Cs. DTI208437 & CAB0425-05-20-s.25"
+2025-05-23 10:38:27,2025-05-23 10:46:45,BDO Deals,ads,<REDACTED>
+2025-05-22 12:12:31,2025-05-23 00:31:53,redacted_individual,notifs,<REDACTED>
+2025-01-14 14:30:49,2025-01-14 14:30:58,redacted_business,notifs,<REDACTED>
+2025-05-22 10:38:50,2025-05-23 00:31:49,redacted_business,notifs,<REDACTED>
+2025-05-22 10:38:53,2025-05-23 00:31:49,redacted_business,notifs,<REDACTED>
+2025-05-22 09:35:46,2025-05-23 00:31:50,redacted_individual,notifs,<REDACTED>
+2025-05-17 09:31:12,2025-05-17 09:31:31,redacted_business,notifs,<REDACTED>
+2025-05-17 12:43:30,2025-05-17 12:45:40,redacted_business,notifs,<REDACTED>
+2025-05-17 13:39:46,2025-05-17 17:21:42,redacted_business,notifs,<REDACTED>
+2025-05-17 13:41:24,2025-05-17 17:21:42,redacted_business,notifs,<REDACTED>
+2025-04-25 09:12:00,2025-04-25 15:32:52,redacted_business,notifs,<REDACTED>
+2025-03-01 22:58:16,2025-03-02 14:06:15,redacted_business,notifs,<REDACTED>
+2025-02-24 09:46:25,2025-02-24 09:46:28,redacted_business,notifs,<REDACTED>
+2025-02-16 11:41:47,2025-02-16 17:45:29,myTOYOTA PH,notifs,<REDACTED>
+2025-02-20 11:56:01,2025-02-20 15:15:59,myTOYOTA PH,notifs,<REDACTED>
+2025-02-20 11:56:12,2025-02-20 15:15:59,myTOYOTA PH,notifs,<REDACTED>
+2025-02-21 14:56:15,2025-02-21 15:12:13,myTOYOTA PH,notifs,<REDACTED>
+2025-02-21 14:56:15,2025-02-21 15:12:13,myTOYOTA PH,notifs,<REDACTED>
+2025-02-21 09:21:14,2025-02-21 09:48:14,redacted_individual,notifs,<REDACTED>
+2025-02-21 09:21:14,2025-02-21 09:48:14,redacted_individual,notifs,<REDACTED>
+2025-01-16 15:35:52,2025-01-16 15:36:02,UnionBank,OTP,<REDACTED>
+2025-01-16 15:36:15,2025-01-16 15:36:15,UnionBank,notifs,<REDACTED>
+2025-02-17 14:21:49,2025-02-17 14:22:03,UnionBank,OTP,<REDACTED>
+2025-02-17 14:22:19,2025-02-17 15:01:41,UnionBank,notifs,<REDACTED>
+2025-02-20 15:16:12,2025-02-20 15:16:13,UnionBank,OTP,<REDACTED>
+2025-02-20 15:16:23,2025-02-20 15:17:38,UnionBank,notifs,<REDACTED>
+2025-02-17 09:43:09,2025-02-17 09:43:27,redacted_business,OTP,<REDACTED>
+2025-02-17 09:52:16,2025-02-17 09:52:29,redacted_business,notifs,<REDACTED>
+2025-02-18 10:09:03,2025-02-18 10:09:05,redacted_business,OTP,<REDACTED>
+2025-02-18 10:50:51,2025-02-18 10:50:55,redacted_business,OTP,<REDACTED>
+2025-02-19 08:38:56,2025-02-19 08:39:25,redacted_business,OTP,<REDACTED>
+2025-02-19 08:42:58,2025-02-19 08:42:59,redacted_business,OTP,<REDACTED>
+2025-02-17 09:44:08,2025-02-17 09:44:08,redacted_business,notifs,<REDACTED>
+2025-02-19 08:40:09,2025-02-19 08:40:11,redacted_business,notifs,<REDACTED>
+2025-02-12 16:01:00,2025-02-12 16:05:49,Toyota,notifs,<REDACTED>
+2025-02-15 10:58:29,2025-02-15 22:44:35,Toyota,notifs,<REDACTED>
+2025-02-18 14:27:49,2025-02-18 14:27:58,Toyota,notifs,<REDACTED>
+2025-02-17 14:26:03,2025-02-17 15:01:43,GCash,notifs,<REDACTED>
+2025-01-13 22:45:23,2025-01-13 22:46:36,redacted_business,notifs,<REDACTED>
+2025-02-15 17:21:37,2025-02-15 22:44:39,redacted_business,notifs,<REDACTED>
+2025-02-12 18:23:11,2025-02-12 18:23:20,redacted_contact,notifs,<REDACTED>
+2025-02-13 16:40:05,2025-02-13 16:41:47,redacted_contact,notifs,<REDACTED>
+2025-02-12 09:25:52,2025-02-12 09:33:39,redacted_contact,notifs,<REDACTED>
+2025-02-12 09:42:10,2025-02-12 09:44:19,redacted_contact,notifs,<REDACTED>
+2025-02-12 10:34:54,2025-02-12 11:01:19,redacted_contact,notifs,<REDACTED>
+2025-01-06 11:58:47,2025-01-10 17:41:22,redacted_individual,notifs,<REDACTED>
+2025-01-06 11:58:47,2025-01-10 17:41:22,redacted_individual,notifs,<REDACTED>
+2025-01-06 11:58:51,2025-01-10 17:41:22,redacted_individual,notifs,<REDACTED>
+2025-01-06 11:59:42,2025-01-10 17:41:22,redacted_individual,notifs,<REDACTED>
+2025-01-18 11:29:50,2025-01-18 14:33:12,redacted_individual,notifs,<REDACTED>
+2025-01-18 11:29:54,2025-01-18 14:33:12,redacted_individual,notifs,<REDACTED>
+2025-01-18 11:30:52,2025-01-18 14:33:12,redacted_individual,notifs,<REDACTED>
+2025-01-15 02:46:29,2025-01-16 14:27:16,redacted_contact,notifs,<REDACTED>
+2025-01-14 17:18:06,2025-01-14 18:24:31,PAGIBIGFUND,gov,"Hi, SCOTT. Good news! You are now qualified for a Pag-IBIG Multi-Purpose Loan (MPL). Apply now and receive your loan in as fast as 3 days! Enjoy low monthly payments and choose to pay your loan under a 2 or 3-year payment term. You may now file your loan application at any Pag-IBIG Fund branch or online by going to the Pag-IBIG Fund website> Virtual Pag-IBIG for Members> Apply for and Manage Loans> Apply for a Short-Term Loan. To know more about the Pag-IBIG Multi-Purpose Loan, you may call us at (02)87-244244, email us at contactus@pagibigfund.gov.ph, or chat with us by visiting our website. 'Yan ang Pag-IBIG Multi-Purpose Loan - Tulong na Maaasahan! "
+2025-01-11 10:55:00,2025-01-11 10:56:32,redacted_individual,notifs,<REDACTED>
+2025-01-11 11:01:34,2025-01-11 11:04:00,redacted_individual,notifs,<REDACTED>
+2025-01-11 11:02:31,2025-01-11 11:04:00,redacted_individual,notifs,<REDACTED>
+2025-01-11 11:07:28,2025-01-11 11:07:31,redacted_individual,notifs,<REDACTED>
+2025-01-11 11:09:12,2025-01-11 11:09:17,redacted_individual,notifs,<REDACTED>
+2025-01-11 11:09:15,2025-01-11 11:09:17,redacted_individual,notifs,<REDACTED>
+2025-01-11 11:09:56,2025-01-11 11:09:56,redacted_individual,notifs,<REDACTED>
+2025-01-11 11:11:15,2025-01-11 11:11:15,redacted_individual,notifs,<REDACTED>
+2025-01-11 11:11:18,2025-01-11 11:11:18,redacted_individual,notifs,<REDACTED>
+2025-01-11 11:11:32,2025-01-11 11:11:32,redacted_individual,notifs,<REDACTED>
+2025-01-05 14:26:38,2025-01-10 17:41:20,SMART,notifs,<REDACTED>
+2025-01-02 21:14:38,2025-01-03 00:30:45,redacted_business,notifs,<REDACTED>
 2024-10-03 13:15:59,2024-10-03 13:16:09,redacted_individual,notifs,<REDACTED>
 2024-10-03 13:16:00,2024-10-03 13:16:09,redacted_individual,notifs,<REDACTED>
 2024-11-11 10:50:54,2024-11-11 12:48:33,redacted_individual,notifs,<REDACTED>
