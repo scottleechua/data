@@ -1,4 +1,594 @@
 date-received,date-read,sender,category,text
+2025-08-13 15:34:15,2025-08-13 15:34:18,BDO-OTP,OTP,<REDACTED>
+2025-08-13 15:34:54,2025-08-13 15:34:54,BDO-OTP,OTP,<REDACTED>
+2025-08-14 17:38:04,2025-08-14 17:38:08,BDO-OTP,OTP,<REDACTED>
+2025-09-10 14:49:50,2025-09-10 14:50:06,BDO-OTP,OTP,<REDACTED>
+2025-10-09 18:32:04,2025-10-09 18:32:06,BDO-OTP,OTP,<REDACTED>
+2025-11-12 15:38:00,2025-11-12 15:38:05,BDO-OTP,OTP,<REDACTED>
+2025-12-10 17:54:47,2025-12-10 17:54:50,BDO-OTP,OTP,<REDACTED>
+2025-12-08 10:08:36,2025-12-08 10:28:56,redacted_individual,notifs,<REDACTED>
+2025-12-08 16:02:40,2025-12-08 16:08:55,redacted_individual,notifs,<REDACTED>
+2025-06-24 07:56:18,2025-06-24 07:58:17,redacted_contact,notifs,<REDACTED>
+2025-07-02 19:53:33,2025-07-02 19:54:44,redacted_contact,notifs,<REDACTED>
+2025-12-03 15:51:49,2025-12-03 16:23:01,redacted_contact,notifs,<REDACTED>
+2025-12-08 15:28:00,2025-12-08 15:38:36,redacted_contact,notifs,<REDACTED>
+2025-12-08 15:42:01,2025-12-08 16:08:56,redacted_contact,notifs,<REDACTED>
+2025-12-05 17:48:03,2025-12-05 17:48:12,redacted_individual,notifs,<REDACTED>
+2025-12-05 21:30:26,2025-12-05 21:30:37,redacted_individual,notifs,<REDACTED>
+2025-12-07 12:58:55,2025-12-07 13:00:05,redacted_individual,notifs,<REDACTED>
+2025-12-05 22:02:57,2025-12-05 22:03:30,redacted_contact,notifs,<REDACTED>
+2025-12-05 22:11:43,2025-12-05 22:43:15,redacted_contact,notifs,<REDACTED>
+2025-12-06 07:59:39,2025-12-06 08:38:45,redacted_contact,notifs,<REDACTED>
+2025-12-06 08:00:10,2025-12-06 08:38:45,redacted_contact,notifs,<REDACTED>
+2025-12-06 08:00:15,2025-12-06 08:38:45,redacted_contact,notifs,<REDACTED>
+2025-12-06 08:45:35,2025-12-06 08:58:49,redacted_contact,notifs,<REDACTED>
+2025-12-06 08:45:55,2025-12-06 08:58:49,redacted_contact,notifs,<REDACTED>
+2025-12-06 15:30:22,2025-12-06 15:31:33,redacted_contact,notifs,<REDACTED>
+2025-12-06 15:30:35,2025-12-06 15:31:33,redacted_contact,notifs,<REDACTED>
+2025-12-06 15:44:13,2025-12-06 15:44:16,redacted_contact,notifs,<REDACTED>
+2025-12-06 15:45:18,2025-12-06 15:45:22,redacted_contact,notifs,<REDACTED>
+2025-12-07 09:46:55,2025-12-07 09:48:24,redacted_contact,notifs,<REDACTED>
+2025-12-07 09:47:14,2025-12-07 09:48:24,redacted_contact,notifs,<REDACTED>
+2025-12-07 10:35:42,2025-12-07 10:40:21,redacted_contact,notifs,<REDACTED>
+2025-12-06 18:00:18,2025-12-06 18:00:26,redacted_individual,notifs,<REDACTED>
+2025-12-06 18:09:22,2025-12-06 18:09:30,redacted_individual,notifs,<REDACTED>
+2025-12-06 18:10:02,2025-12-06 18:10:15,redacted_individual,notifs,<REDACTED>
+2025-12-06 18:25:24,2025-12-06 18:25:35,redacted_individual,notifs,<REDACTED>
+2025-12-06 18:25:41,2025-12-06 18:25:41,redacted_individual,notifs,<REDACTED>
+2025-12-06 18:50:11,2025-12-06 18:50:16,redacted_individual,notifs,<REDACTED>
+2025-12-06 18:38:47,2025-12-06 18:39:13,redacted_contact,notifs,<REDACTED>
+2025-12-06 16:30:49,2025-12-06 16:36:04,redacted_individual,notifs,<REDACTED>
+2025-12-06 17:13:31,2025-12-06 17:24:27,redacted_individual,notifs,<REDACTED>
+2025-12-06 18:30:35,2025-12-06 18:30:52,redacted_individual,notifs,<REDACTED>
+2025-07-03 07:02:52,2025-07-03 07:44:49,redacted_business,notifs,<REDACTED>
+2025-07-13 11:34:59,2025-07-13 11:35:09,redacted_business,notifs,<REDACTED>
+2025-07-30 08:11:01,2025-07-30 08:14:44,redacted_business,notifs,<REDACTED>
+2025-09-02 08:20:58,2025-09-02 08:47:53,redacted_business,notifs,<REDACTED>
+2025-10-19 08:25:48,2025-10-19 09:56:32,redacted_business,notifs,<REDACTED>
+2025-11-21 23:09:50,2025-11-21 23:13:59,redacted_business,notifs,<REDACTED>
+2025-12-04 10:00:02,2025-12-04 10:08:17,redacted_business,notifs,<REDACTED>
+2025-12-05 11:00:03,2025-12-05 12:12:07,redacted_business,notifs,<REDACTED>
+2025-12-06 08:00:03,2025-12-06 08:21:18,redacted_business,notifs,<REDACTED>
+2025-12-06 15:26:48,2025-12-06 15:28:19,redacted_business,notifs,<REDACTED>
+2025-12-06 10:04:25,2025-12-06 10:04:41,redacted_individual,notifs,<REDACTED>
+2025-12-06 10:05:58,2025-12-06 10:10:51,redacted_individual,notifs,<REDACTED>
+2025-12-06 13:03:11,2025-12-06 13:07:20,redacted_individual,notifs,<REDACTED>
+2025-12-06 13:05:08,2025-12-06 13:07:20,redacted_individual,notifs,<REDACTED>
+2025-12-06 13:05:44,2025-12-06 13:07:20,redacted_individual,notifs,<REDACTED>
+2025-06-23 13:30:39,2025-06-23 13:30:49,redacted_business,notifs,<REDACTED>
+2025-06-24 16:38:24,2025-06-24 16:40:56,redacted_business,notifs,<REDACTED>
+2025-06-24 16:38:29,2025-06-24 16:40:56,redacted_business,notifs,<REDACTED>
+2025-08-26 14:38:40,2025-08-26 14:39:14,redacted_business,notifs,<REDACTED>
+2025-09-02 13:36:16,2025-09-02 13:40:40,redacted_business,notifs,<REDACTED>
+2025-09-29 21:19:34,2025-09-29 21:22:32,redacted_business,notifs,<REDACTED>
+2025-10-02 14:49:29,2025-10-02 15:08:27,redacted_business,notifs,<REDACTED>
+2025-10-25 08:02:27,2025-10-25 08:05:51,redacted_business,notifs,<REDACTED>
+2025-10-25 14:14:31,2025-10-25 14:14:46,redacted_business,notifs,<REDACTED>
+2025-10-25 14:30:18,2025-10-25 14:33:55,redacted_business,notifs,<REDACTED>
+2025-11-04 20:30:35,2025-11-04 20:30:41,redacted_business,notifs,<REDACTED>
+2025-11-18 12:10:56,2025-11-18 12:14:23,redacted_business,notifs,<REDACTED>
+2025-12-05 10:32:39,2025-12-05 12:12:08,redacted_business,notifs,<REDACTED>
+2025-12-05 16:12:05,2025-12-05 16:58:05,redacted_business,notifs,<REDACTED>
+2025-12-05 13:01:06,2025-12-05 13:01:12,redacted_contact,notifs,<REDACTED>
+2025-08-03 23:41:43,2025-08-03 23:41:45,redacted_business,OTP,<REDACTED>
+2025-08-21 16:09:25,2025-08-21 16:09:30,redacted_business,OTP,<REDACTED>
+2025-09-17 19:22:07,2025-09-17 19:23:09,redacted_business,OTP,<REDACTED>
+2025-09-17 19:22:07,2025-09-17 19:23:09,redacted_business,OTP,<REDACTED>
+2025-09-18 18:03:08,2025-09-18 18:03:14,redacted_business,OTP,<REDACTED>
+2025-11-04 15:29:16,2025-11-04 15:29:21,redacted_business,OTP,<REDACTED>
+2025-11-04 16:10:21,2025-11-04 16:10:25,redacted_business,OTP,<REDACTED>
+2025-11-14 02:09:16,2025-11-14 02:09:32,redacted_business,OTP,<REDACTED>
+2025-12-04 14:35:06,2025-12-04 14:35:12,redacted_business,OTP,<REDACTED>
+2025-06-30 09:00:43,2025-06-30 09:03:41,redacted_business,notifs,<REDACTED>
+2025-06-30 09:44:40,2025-06-30 09:45:09,redacted_business,notifs,<REDACTED>
+2025-07-01 13:06:58,2025-07-01 13:07:17,redacted_business,notifs,<REDACTED>
+2025-07-12 13:37:29,2025-07-12 13:40:01,redacted_business,notifs,<REDACTED>
+2025-07-26 12:45:31,2025-07-26 12:48:20,redacted_business,notifs,<REDACTED>
+2025-08-01 14:40:40,2025-08-01 14:46:22,redacted_business,notifs,<REDACTED>
+2025-08-02 13:15:28,2025-08-02 13:16:22,redacted_business,notifs,<REDACTED>
+2025-08-09 13:28:27,2025-08-09 13:31:54,redacted_business,notifs,<REDACTED>
+2025-08-30 13:19:35,2025-08-30 13:24:11,redacted_business,notifs,<REDACTED>
+2025-11-06 12:18:10,2025-11-06 12:23:04,redacted_business,notifs,<REDACTED>
+2025-11-17 09:12:54,2025-11-17 09:21:34,redacted_business,notifs,<REDACTED>
+2025-12-02 13:06:10,2025-12-02 13:06:31,redacted_business,notifs,<REDACTED>
+2025-06-25 00:53:09,2025-06-25 08:03:59,redacted_business,notifs,<REDACTED>
+2025-06-25 01:03:59,2025-06-25 08:03:59,redacted_business,notifs,<REDACTED>
+2025-06-29 20:53:20,2025-06-29 20:53:29,redacted_business,notifs,<REDACTED>
+2025-07-02 23:58:36,2025-07-03 07:44:48,redacted_business,notifs,<REDACTED>
+2025-07-24 15:58:55,2025-07-24 15:59:23,redacted_business,notifs,<REDACTED>
+2025-08-01 01:13:07,2025-08-01 08:32:56,redacted_business,notifs,<REDACTED>
+2025-08-12 08:42:41,2025-08-12 08:42:49,redacted_business,notifs,<REDACTED>
+2025-08-30 11:29:05,2025-08-30 11:29:10,redacted_business,OTP,<REDACTED>
+2025-09-01 23:53:40,2025-09-02 00:14:44,redacted_business,notifs,<REDACTED>
+2025-09-02 00:16:26,2025-09-02 07:44:08,redacted_business,notifs,<REDACTED>
+2025-09-12 01:08:01,2025-09-12 01:09:42,redacted_business,notifs,<REDACTED>
+2025-09-12 01:10:14,2025-09-12 01:10:18,redacted_business,notifs,<REDACTED>
+2025-09-12 08:42:20,2025-09-12 09:22:43,redacted_business,notifs,<REDACTED>
+2025-09-16 05:59:31,2025-09-16 06:00:01,redacted_business,notifs,<REDACTED>
+2025-09-18 18:03:27,2025-09-18 18:03:29,redacted_business,notifs,<REDACTED>
+2025-10-02 08:54:23,2025-10-02 08:54:24,redacted_business,notifs,<REDACTED>
+2025-10-16 11:06:18,2025-10-16 11:06:27,redacted_business,notifs,<REDACTED>
+2025-10-17 19:48:45,2025-10-17 19:49:49,redacted_business,notifs,<REDACTED>
+2025-11-04 15:29:35,2025-11-04 15:33:05,redacted_business,notifs,<REDACTED>
+2025-11-04 16:10:41,2025-11-04 16:10:46,redacted_business,notifs,<REDACTED>
+2025-11-04 16:11:12,2025-11-04 16:11:30,redacted_business,notifs,<REDACTED>
+2025-11-12 08:42:32,2025-11-12 08:42:48,redacted_business,notifs,<REDACTED>
+2025-11-14 02:09:45,2025-11-14 09:37:31,redacted_business,notifs,<REDACTED>
+2025-11-14 11:28:33,2025-11-14 11:34:27,redacted_business,notifs,<REDACTED>
+2025-11-14 11:28:34,2025-11-14 11:34:27,redacted_business,notifs,<REDACTED>
+2025-11-23 06:43:05,2025-11-23 09:11:45,redacted_business,notifs,<REDACTED>
+2025-11-23 10:44:00,2025-11-23 10:48:56,redacted_business,notifs,<REDACTED>
+2025-11-28 17:55:50,2025-11-28 18:00:06,redacted_business,OTP,<REDACTED>
+2025-12-02 12:58:37,2025-12-02 12:59:09,redacted_business,notifs,<REDACTED>
+2025-11-05 10:22:42,2025-11-05 10:22:57,redacted_individual,notifs,<REDACTED>
+2025-11-05 10:59:26,2025-11-05 11:06:43,redacted_individual,notifs,<REDACTED>
+2025-11-08 10:17:36,2025-11-08 10:19:00,redacted_individual,notifs,<REDACTED>
+2025-11-12 10:00:01,2025-11-12 10:04:57,redacted_individual,notifs,<REDACTED>
+2025-11-23 09:56:08,2025-11-23 10:00:02,redacted_individual,notifs,<REDACTED>
+2025-12-01 10:49:55,2025-12-01 12:25:18,redacted_individual,notifs,<REDACTED>
+2025-11-29 10:40:37,2025-11-29 11:25:18,redacted_individual,notifs,<REDACTED>
+2025-11-30 11:22:21,2025-11-30 11:41:21,redacted_individual,notifs,<REDACTED>
+2025-11-30 11:22:24,2025-11-30 11:41:21,redacted_individual,notifs,<REDACTED>
+2025-11-30 11:23:18,2025-11-30 11:41:21,redacted_individual,notifs,<REDACTED>
+2025-11-30 11:23:21,2025-11-30 11:41:21,redacted_individual,notifs,<REDACTED>
+2025-07-01 12:55:53,2025-07-01 12:58:16,redacted_business,notifs,<REDACTED>
+2025-10-01 11:31:46,2025-10-01 11:32:00,redacted_business,notifs,<REDACTED>
+2025-10-15 14:56:25,2025-10-15 15:00:58,redacted_business,notifs,<REDACTED>
+2025-11-28 13:22:34,2025-11-28 13:22:36,redacted_business,notifs,<REDACTED>
+2025-11-27 21:57:05,2025-11-27 21:58:11,redacted_individual,notifs,<REDACTED>
+2025-07-23 18:43:21,2025-07-23 18:46:34,MayaRewards,ads,"Nice! You received a P10 voucher from Maya. Use it for your load, bills, shopping, and more. Tap 'Vouchers' on the app to claim your gift before it expires!"
+2025-07-25 11:16:23,2025-07-25 11:16:53,MayaRewards,ads,"Nice! You received a P20 voucher from Maya. Use it for your load, bills, shopping, and more. Tap 'Vouchers' on the app to claim your gift before it expires!"
+2025-08-15 16:13:59,2025-08-15 16:15:10,MayaRewards,ads,"Nice! You received a P10 voucher from Maya. Use it for your load, bills, shopping, and more. Tap 'Vouchers' on the app to claim your gift before it expires!"
+2025-08-22 12:23:01,2025-08-22 12:24:31,MayaRewards,ads,"Nice! You received a P20 voucher from Maya. Use it for your load, bills, shopping, and more. Tap 'Vouchers' on the app to claim your gift before it expires!"
+2025-09-11 13:50:59,2025-09-11 13:51:08,MayaRewards,ads,"Nice! You received a P10 voucher from Maya. Use it for your load, bills, shopping, and more. Tap 'Vouchers' on the app to claim your gift before it expires!"
+2025-09-18 14:12:32,2025-09-18 14:32:56,MayaRewards,ads,"Nice! You received a P10 voucher from Maya. Use it for your load, bills, shopping, and more. Tap 'Vouchers' on the app to claim your gift before it expires!"
+2025-09-19 13:55:54,2025-09-19 14:00:48,MayaRewards,ads,"Nice! You received a P20 voucher from Maya. Use it for your load, bills, shopping, and more. Tap 'Vouchers' on the app to claim your gift before it expires!"
+2025-09-26 11:12:36,2025-09-26 11:16:21,MayaRewards,ads,"Nice! You received a P20 voucher from Maya. Use it for your load, bills, shopping, and more. Tap 'Vouchers' on the app to claim your gift before it expires!"
+2025-11-27 18:39:33,2025-11-27 18:48:51,MayaRewards,ads,"Nice! You received a P20 voucher from Maya. Use it for your load, bills, shopping, and more. Tap 'Vouchers' on the app to claim your gift before it expires!"
+2025-08-28 15:47:09,2025-08-28 15:48:17,redacted_business,notifs,<REDACTED>
+2025-08-28 15:47:10,2025-08-28 15:48:17,redacted_business,notifs,<REDACTED>
+2025-08-28 15:47:11,2025-08-28 15:48:17,redacted_business,notifs,<REDACTED>
+2025-10-04 01:17:10,2025-10-04 01:40:36,redacted_business,notifs,<REDACTED>
+2025-10-04 01:17:11,2025-10-04 01:40:36,redacted_business,notifs,<REDACTED>
+2025-10-04 01:17:13,2025-10-04 01:40:36,redacted_business,notifs,<REDACTED>
+2025-11-23 16:02:02,2025-11-23 16:02:04,redacted_business,notifs,<REDACTED>
+2025-11-23 16:02:03,2025-11-23 16:02:04,redacted_business,notifs,<REDACTED>
+2025-11-23 16:02:04,2025-11-23 16:02:04,redacted_business,notifs,<REDACTED>
+2025-11-25 23:35:29,2025-11-25 23:43:50,redacted_business,notifs,<REDACTED>
+2025-11-25 23:35:30,2025-11-25 23:43:50,redacted_business,notifs,<REDACTED>
+2025-11-27 12:48:04,2025-11-27 12:48:09,redacted_business,notifs,<REDACTED>
+2025-11-27 12:48:05,2025-11-27 12:48:09,redacted_business,notifs,<REDACTED>
+2025-11-27 12:48:06,2025-11-27 12:48:09,redacted_business,notifs,<REDACTED>
+2025-11-26 02:36:19,2025-11-26 14:53:03,redacted_contact,notifs,<REDACTED>
+2025-11-24 11:23:46,2025-11-24 11:23:48,redacted_business,OTP,<REDACTED>
+2025-11-23 20:36:22,2025-11-23 20:36:25,redacted_business,OTP,<REDACTED>
+2025-11-23 20:37:46,2025-11-23 20:37:46,redacted_business,OTP,<REDACTED>
+2025-06-25 20:13:54,2025-06-25 20:15:10,GLOBEATHOME,notifs,<REDACTED>
+2025-07-07 18:40:19,2025-07-07 18:44:56,GLOBEATHOME,ads,"Hi! I-register na ang iyong GFiber Prepaid account sa GlobeOne app para masimulan ang UNLI internet experience!
+
+Maaari kang mag-avail ng up to 3 UNLISurf promos. Sa GlobeOne, pumunta sa GFiber Prepaid dashboard > Buy Promos > Subscribe. Pwede ring mag-load via GCash: tap Load > Broadband > GFiber Prepaid, at pumili ng promo.
+
+May FREE UNLISurf199 (7 Days UNLI) ka rin for every successful referral! Hanapin ang referral code mo sa dashboard at i-share sa social media."
+2025-09-26 17:33:39,2025-09-26 17:53:02,GLOBEATHOME,ads,"Sana ay nasa mabuting kalagayan ka at ang iyong pamilya sa kabila ng patuloy na pag-ulan dulot ng Bagyong Opong. Para manatiling ligtas, ito ang ilang paalala:
+
+1) Store enough food and drinking water.
+2) Have an emergency bag with a flashlight, batteries, candles, and a first-aid kit.
+3) Be sure to charge your phones and power banks.
+4) Prepare extra clothes and toiletry kit should there be a need to evacuate.
+5) Always be updated on the latest news and LGU announcements.
+
+Salamat at ingat lagi!"
+2025-10-19 17:33:35,2025-10-19 17:33:45,GLOBEATHOME,ads,"Sana ay nasa mabuting kalagayan ka at ang iyong pamilya sa kabila ng patuloy na pag-ulan dulot ng Bagyong Ramil. Para manatiling ligtas, ito ang ilang paalala:
+
+1) Store enough food and drinking water.
+2) Have an emergency bag with a flashlight, batteries, candles, and a first-aid kit.
+3) Be sure to charge your phones and power banks.
+4) Prepare extra clothes and toiletry kit should there be a need to evacuate.
+5) Always be updated on the latest news and LGU announcements.
+
+Salamat at ingat lagi!"
+2025-11-09 01:05:03,2025-11-09 01:31:55,GLOBEATHOME,ads,"Sana ay nasa mabuting kalagayan ka at ang iyong pamilya sa kabila ng patuloy na pag-ulan dulot ng Bagyong Uwan. Para manatiling ligtas, ito ang ilang paalala:
+
+1) Store enough food and drinking water.
+2) Have an emergency bag with a flashlight, batteries, candles, and a first-aid kit.
+3) Be sure to charge your phones and power banks.
+4) Prepare extra clothes and toiletry kit should there be a need to evacuate.
+5) Always be updated on the latest news and LGU announcements.
+
+Salamat at ingat lagi!"
+2025-11-19 03:15:06,2025-11-19 06:51:00,GLOBEATHOME,ads,"Hi! Pasensya na at napatagal ang aming system activity. 'Wag mag-alala, tutulungan ka namin agad sa iyong concerns kapag naibalik na ang service. Salamat sa iyong pang-unawa."
+2025-11-19 04:34:34,2025-11-19 06:51:00,GLOBEATHOME,ads,Hi! Nais naming ipaalam sa iyo na natapos na ang aming system activity. Pwede na ulit mag-register sa mga promos via GlobeOne. Salamat!
+2025-11-14 15:25:17,2025-11-14 15:26:08,PLDTRewards,ads,"Turn your PLDT bill into rewards! Join PLDT Home Rewards and get up to 120 Crystals, plus earn more for every P50 you pay on time and in full. Use your Crystals to redeem exclusive offers! Just tap Rewards in the PLDT website to join."
+2025-09-30 09:12:22,2025-09-30 09:12:24,redacted_business,OTP,<REDACTED>
+2025-11-14 12:52:56,2025-11-14 12:52:58,redacted_business,OTP,<REDACTED>
+2025-11-11 15:34:03,2025-11-11 15:50:32,redacted_individual,notifs,<REDACTED>
+2025-11-11 16:01:57,2025-11-11 16:02:01,redacted_individual,notifs,<REDACTED>
+2025-11-11 16:07:02,2025-11-11 16:08:17,redacted_individual,notifs,<REDACTED>
+2025-11-11 16:08:04,2025-11-11 16:08:17,redacted_individual,notifs,<REDACTED>
+2025-10-18 13:15:29,2025-10-18 13:18:27,redacted_individual,notifs,<REDACTED>
+2025-10-30 12:50:25,2025-10-30 12:50:33,redacted_individual,notifs,<REDACTED>
+2025-10-30 12:51:55,2025-10-30 12:51:59,redacted_individual,notifs,<REDACTED>
+2025-10-30 12:55:07,2025-10-30 12:55:16,redacted_individual,notifs,<REDACTED>
+2025-10-30 12:56:25,2025-10-30 13:13:01,redacted_individual,notifs,<REDACTED>
+2025-11-11 08:03:22,2025-11-11 09:43:39,redacted_individual,notifs,<REDACTED>
+2025-11-10 11:28:43,2025-11-10 11:28:53,+6396958***65,spam,"Happy day! 
+
+This is Kate from the Maintenance Reminder and Appointment Team of Toyota Pasig.
+
+We would like to remind you that your vehicle is due for Preventive Maintenance Service (PMS). To assist you with scheduling, please provide the following details:
+
+• Preferred Date & Time: • Customer Name: • Plate Number: • Vehicle Model:
+• Mileage:  • Contact Number: • Preferred Service Advisor (if any): • Will you wait for the vehicle? (Yes/No)
+
+For any questions or concerns, you may reach me directly at (0969) 582 8365.
+
+Thank you and drive safely! Toyota Pasig Service Department"
+2025-11-09 11:31:45,2025-11-09 11:39:12,redacted_individual,notifs,<REDACTED>
+2025-06-27 11:50:16,2025-06-27 11:52:26,redacted_business,notifs,<REDACTED>
+2025-06-29 11:50:15,2025-06-29 12:01:05,redacted_business,notifs,<REDACTED>
+2025-07-10 11:10:16,2025-07-10 11:10:19,redacted_business,notifs,<REDACTED>
+2025-07-24 10:03:07,2025-07-24 10:03:09,redacted_business,notifs,<REDACTED>
+2025-07-31 09:26:14,2025-07-31 09:35:56,redacted_business,notifs,<REDACTED>
+2025-08-29 10:46:35,2025-08-29 10:46:46,redacted_business,notifs,<REDACTED>
+2025-08-29 14:07:05,2025-08-29 14:09:30,redacted_business,notifs,<REDACTED>
+2025-10-02 11:46:47,2025-10-02 11:49:56,redacted_business,notifs,<REDACTED>
+2025-11-05 11:30:16,2025-11-05 11:32:15,redacted_business,notifs,<REDACTED>
+2025-11-05 19:37:05,2025-11-05 19:42:27,redacted_business,notifs,<REDACTED>
+2025-11-05 10:32:08,2025-11-05 10:32:13,redacted_individual,notifs,<REDACTED>
+2025-11-05 13:26:09,2025-11-05 13:38:49,redacted_individual,notifs,<REDACTED>
+2025-10-25 14:14:16,2025-10-25 14:14:18,redacted_business,notifs,<REDACTED>
+2025-07-03 18:52:04,2025-07-03 18:52:05,SmartApp,OTP,<REDACTED>
+2025-10-11 13:00:05,2025-10-11 13:00:07,SmartApp,OTP,<REDACTED>
+2025-10-11 13:00:14,2025-10-11 13:01:49,SmartApp,notifs,<REDACTED>
+2025-11-04 12:01:44,2025-11-04 12:01:45,SmartApp,OTP,<REDACTED>
+2025-11-04 14:57:13,2025-11-04 14:58:39,SmartApp,notifs,<REDACTED>
+2025-11-03 17:04:02,2025-11-03 17:15:19,redacted_business,notifs,<REDACTED>
+2025-06-25 10:11:49,2025-06-25 10:11:50,redacted_business,OTP,<REDACTED>
+2025-06-26 10:40:03,2025-06-26 10:40:32,redacted_business,notifs,<REDACTED>
+2025-06-26 12:20:40,2025-06-26 12:20:42,redacted_business,notifs,<REDACTED>
+2025-07-02 12:19:31,2025-07-02 12:19:44,redacted_business,notifs,<REDACTED>
+2025-07-03 12:19:38,2025-07-03 12:21:29,redacted_business,notifs,<REDACTED>
+2025-08-30 10:45:20,2025-08-30 10:46:16,redacted_business,notifs,<REDACTED>
+2025-08-30 11:00:40,2025-08-30 11:06:16,redacted_business,notifs,<REDACTED>
+2025-09-05 10:40:10,2025-09-05 10:40:43,redacted_business,notifs,<REDACTED>
+2025-09-06 10:40:21,2025-09-06 10:41:55,redacted_business,notifs,<REDACTED>
+2025-09-06 10:55:50,2025-09-06 11:01:56,redacted_business,notifs,<REDACTED>
+2025-09-06 10:55:50,2025-09-06 11:01:56,redacted_business,notifs,<REDACTED>
+2025-09-12 10:50:29,2025-09-12 10:50:56,redacted_business,notifs,<REDACTED>
+2025-09-13 10:50:51,2025-09-13 10:53:06,redacted_business,notifs,<REDACTED>
+2025-10-25 13:21:21,2025-10-25 13:24:59,redacted_business,notifs,<REDACTED>
+2025-10-25 13:26:18,2025-10-25 13:26:20,redacted_business,notifs,<REDACTED>
+2025-10-31 13:16:03,2025-10-31 13:20:56,redacted_business,notifs,<REDACTED>
+2025-11-01 13:16:15,2025-11-01 13:16:26,redacted_business,notifs,<REDACTED>
+2025-07-08 08:06:06,2025-07-08 08:43:50,redacted_business,notifs,<REDACTED>
+2025-10-30 08:00:04,2025-10-30 08:00:31,redacted_business,notifs,<REDACTED>
+2025-07-05 11:52:28,2025-07-05 11:53:38,redacted_business,notifs,<REDACTED>
+2025-10-25 14:18:29,2025-10-25 14:18:58,redacted_business,notifs,<REDACTED>
+2025-10-25 14:24:30,2025-10-25 14:25:53,redacted_business,notifs,<REDACTED>
+2025-10-04 09:46:13,2025-10-04 12:09:25,redacted_individual,notifs,<REDACTED>
+2025-10-13 10:52:22,2025-10-13 10:53:42,redacted_individual,notifs,<REDACTED>
+2025-10-14 10:03:07,2025-10-14 10:04:11,redacted_individual,notifs,<REDACTED>
+2025-10-15 11:34:16,2025-10-15 11:34:31,redacted_individual,notifs,<REDACTED>
+2025-10-16 10:31:21,2025-10-16 10:31:29,redacted_individual,notifs,<REDACTED>
+2025-10-17 11:02:35,2025-10-17 11:02:38,redacted_individual,notifs,<REDACTED>
+2025-10-15 15:09:16,2025-10-15 15:12:32,redacted_contact,notifs,<REDACTED>
+2025-10-15 14:38:43,,redacted_business,notifs,<REDACTED>
+2025-10-15 14:38:49,,redacted_business,notifs,<REDACTED>
+2025-10-15 13:57:59,2025-10-15 13:58:05,GLOBE,ads,"Nothing is more important to us than your convenience. 
+  We have made improvements in our mobile apps to enable you to get the support you need without having to go out or call our hotline. 
+  If you need to view, pay or ask about your bill, register for promos, and more, download the GlobeOne app.
+  To renew your Postpaid plan, simply visit the Globe Online Shop.
+  Thank you and please stay safe!"
+2025-10-10 16:23:37,2025-10-10 16:23:47,redacted_contact,notifs,<REDACTED>
+2025-10-10 16:23:40,2025-10-10 16:23:47,redacted_contact,notifs,<REDACTED>
+2025-10-11 16:40:02,2025-10-11 16:56:21,redacted_contact,notifs,<REDACTED>
+2025-10-11 16:40:19,2025-10-11 16:56:21,redacted_contact,notifs,<REDACTED>
+2025-10-13 00:15:46,2025-10-13 00:16:03,redacted_contact,notifs,<REDACTED>
+2025-10-13 00:15:55,2025-10-13 00:16:03,redacted_contact,notifs,<REDACTED>
+2025-10-13 13:04:47,2025-10-13 13:04:54,redacted_contact,notifs,<REDACTED>
+2025-07-11 16:03:17,2025-07-11 16:04:01,SM Malls,ads,"Stay in the game and keep the win streak going with Smart UNLI 5G+! Enjoy UNLI 5G + nonstop 4G data + UNLI Calls & Texts for 3 days, for only P115!"
+2025-10-13 11:45:58,2025-10-13 11:47:11,SM Malls,ads,"Ala eh! #SM3DaySale na sa Oct 17, 18, 19, 2025 sa SM City Batangas at may chance ka pa to win a Suzuki Jimny when you shop! Per DTI Permit No. FTEB237105 S2025"
+2025-10-11 15:35:17,2025-10-11 16:57:46,redacted_individual,notifs,<REDACTED>
+2025-10-10 07:51:13,2025-10-10 08:16:16,redacted_individual,notifs,<REDACTED>
+2025-10-09 00:28:11,2025-10-09 00:47:13,redacted_individual,notifs,<REDACTED>
+2025-07-13 11:34:59,2025-07-13 11:35:07,PLDTDeals,ads,"Answer calls from anywhere in the house! Upgrade to a cordless telset featuring caller ID display, auto-answer, and wireless convenience for only P99/mo x 24mos .
+
+Get yours today at pldthome.info/JTE1"
+2025-07-30 18:41:35,2025-07-30 18:57:52,PLDTDeals,ads,"Clear calls and timeless TV, just like the good old days. The Cordless Telset keeps lolo and lola connected with ease, while Cignal brings back their favorite shows. It's comfort and connection made simple. Only P99/mo x 24 mos for Telset, Cignal from P290/mo.
+
+Get started at pldthome.info/JTC2"
+2025-08-07 14:26:32,2025-08-07 14:29:40,PLDTDeals,ads,"Clear calls made simple. The Cordless Telset lets lolo and lola chat with ease with caller ID, auto-answer, and no messy wires. Just P189/mo x 12 mos.
+Order now at pldthome.info/ATS1"
+2025-09-09 16:15:11,2025-09-09 16:25:26,PLDTDeals,ads,"From catching up with family to enjoying TV classics, the Cordless Telset makes communication simple, while Cignal brings programs for all ages. Everything you need for a home that cares for you. Get a Cordless Telset at P99/mo x 24 mos and Cignal from P290/mo: pldthome.info/STC1"
+2025-10-03 08:58:15,2025-10-03 09:13:54,PLDTDeals,ads,"Still stuck to one spot? Go cordless today! The Cordless Telset gives wireless freedom, caller ID & auto-answer so you never miss a call. Get it for P99/mo x 24 mos and talk from anywhere at home: pldthome.info/OTL1"
+2025-10-07 13:41:50,2025-10-07 13:48:11,PLDTDeals,ads,"Still stuck to one spot? Go cordless today! The Cordless Telset gives wireless freedom, caller ID & auto-answer so you never miss a call. Get it for P99/mo x 24 mos and talk from anywhere at home: pldthome.info/OTL1"
+2025-09-28 11:26:27,2025-09-28 11:26:36,redacted_individual,notifs,<REDACTED>
+2025-09-24 07:25:23,2025-09-24 08:09:16,PagIBIGFund,gov,"Hi SCOTT! May mga nanalo na ng cash prizes sa LOAN-TO-WIN RAFFLE PROMO! Ikaw na kaya ang next winner? Apply na sa Pag-IBIG Multi-Purpose Loan para sa chance mong manalo ng up to P50,000 sa Grand Draw! For more details, visit our website then go to the LOAN-TO-WIN RAFFLE PROMO page. "
+2025-09-01 11:03:09,2025-09-01 11:35:44,PRIMERGROUP,ads,"Your Birthday Treat is here! Celebrate your special day with 20% OFF at Bratpack, GRIND, ResToeRun, R.O.X., The Travel Club, & other PRIMER stores. Rediscover premium brands like Birkenstock, Montbell, Hedgren, Hydro Flask, Delsey, Sledgers, & more. This promo runs until Sept. 30 2025. T&Cs apply."
+2025-09-20 10:02:08,2025-09-20 10:02:38,PRIMERGROUP,ads,"Your exclusive 20% OFF Birthday Treat this month is expiring SOON! Shop at Bratpack, GRIND, ResToeRun, R.O.X., The Travel Club & other Primer stores. Gift yourself with top picks from Birkenstock, Hedgren, Hydro Flask, Columbia, Delsey, & more. Hurry, this promo runs until Sept. 30, 2025. T&Cs apply"
+2025-09-17 12:15:02,2025-09-17 12:19:39,redacted_business,notifs,<REDACTED>
+2025-08-27 17:57:30,2025-08-27 17:58:15,122,spam,<BLANK>
+2025-08-27 17:57:49,2025-08-27 17:58:15,122,spam,<BLANK>
+2025-08-27 17:58:11,2025-08-27 17:58:15,122,spam,<BLANK>
+2025-08-27 17:58:32,2025-08-27 17:59:09,122,spam,<BLANK>
+2025-08-29 05:16:52,2025-08-29 08:15:08,122,spam,<BLANK>
+2025-08-29 05:17:05,2025-08-29 08:15:08,122,spam,<BLANK>
+2025-08-29 05:17:24,2025-08-29 08:15:08,122,spam,<BLANK>
+2025-08-29 05:17:36,2025-08-29 08:15:08,122,spam,<BLANK>
+2025-09-04 08:48:59,2025-09-04 08:49:39,122,spam,<BLANK>
+2025-09-04 08:49:11,2025-09-04 08:49:39,122,spam,<BLANK>
+2025-09-04 08:49:31,2025-09-04 08:49:39,122,spam,<BLANK>
+2025-09-05 14:45:39,2025-09-05 14:48:05,122,spam,<BLANK>
+2025-09-05 14:45:52,2025-09-05 14:48:05,122,spam,<BLANK>
+2025-09-05 14:46:13,2025-09-05 14:48:05,122,spam,<BLANK>
+2025-09-05 14:46:27,2025-09-05 14:48:05,122,spam,<BLANK>
+2025-09-02 15:34:39,2025-09-02 15:35:21,redacted_individual,notifs,<REDACTED>
+2025-09-02 09:47:09,2025-09-02 09:47:18,redacted_individual,notifs,<REDACTED>
+2025-09-02 09:50:56,2025-09-02 09:52:30,redacted_individual,notifs,<REDACTED>
+2025-09-02 13:45:23,2025-09-02 13:45:31,redacted_individual,notifs,<REDACTED>
+2025-09-02 13:47:46,2025-09-02 13:51:08,redacted_individual,notifs,<REDACTED>
+2025-09-02 14:12:21,2025-09-02 14:12:28,redacted_individual,notifs,<REDACTED>
+2025-09-02 14:23:42,2025-09-02 14:23:55,redacted_individual,notifs,<REDACTED>
+2025-09-02 14:28:48,2025-09-02 14:28:55,redacted_individual,notifs,<REDACTED>
+2025-08-30 11:39:47,2025-08-30 11:40:30,redacted_business,OTP,<REDACTED>
+2025-07-09 11:52:10,2025-07-09 11:52:27,redacted_contact,notifs,<REDACTED>
+2025-07-09 11:53:26,2025-07-09 11:56:59,redacted_contact,notifs,<REDACTED>
+2025-07-09 11:54:04,2025-07-09 11:56:59,redacted_contact,notifs,<REDACTED>
+2025-07-09 13:48:21,2025-07-09 13:49:46,redacted_contact,notifs,<REDACTED>
+2025-07-09 14:05:08,2025-07-09 14:05:11,redacted_contact,notifs,<REDACTED>
+2025-07-09 14:44:09,2025-07-09 14:44:23,redacted_contact,notifs,<REDACTED>
+2025-08-26 12:21:39,2025-08-26 12:21:57,redacted_contact,notifs,<REDACTED>
+2025-08-26 10:45:22,2025-08-26 10:46:02,redacted_individual,notifs,<REDACTED>
+2025-08-14 09:59:21,2025-08-14 10:04:19,redacted_individual,notifs,<REDACTED>
+2025-08-21 11:33:16,2025-08-21 11:35:59,redacted_individual,notifs,<REDACTED>
+2025-08-26 10:02:21,2025-08-26 10:02:27,redacted_individual,notifs,<REDACTED>
+2025-08-23 08:50:26,2025-08-23 08:50:55,redacted_individual,notifs,<REDACTED>
+2025-08-22 22:25:45,2025-08-22 22:25:48,redacted_business,OTP,<REDACTED>
+2025-08-18 11:53:41,2025-08-18 11:53:49,redacted_individual,notifs,<REDACTED>
+2025-08-17 23:52:38,2025-08-17 23:52:41,redacted_business,OTP,<REDACTED>
+2025-08-10 08:11:05,2025-08-10 09:55:50,NTC,gov,"Never click on links from unknown senders. These links can steal your personal data, bank info, and money. Be aware and cautious always."
+2025-08-11 07:54:06,2025-08-11 08:17:12,NTC,gov,"Legitimate companies will never ask for your passwords, OTPs, or credit card details via text. Protect your info-never share it with anyone. Don't click links from whatever source."
+2025-08-12 07:22:59,2025-08-12 08:07:56,NTC,gov,"Did you win a prize or receive a package you didn't expect? If an offer seems too good to be true, it's a scam. Trust your gut and ignore it. Don't click links from anyone."
+2025-08-13 09:09:35,2025-08-13 09:16:25,NTC,gov,"Received a suspicious message? Delete it immediately. To verify a message, contact the company directly using official channels- do not click the link from the text."
+2025-06-30 11:44:53,2025-06-30 11:47:21,redacted_individual,notifs,<REDACTED>
+2025-06-30 11:44:53,2025-06-30 11:47:21,redacted_individual,notifs,<REDACTED>
+2025-06-30 11:44:57,2025-06-30 11:47:21,redacted_individual,notifs,<REDACTED>
+2025-07-01 10:32:20,2025-07-01 10:32:24,redacted_individual,notifs,<REDACTED>
+2025-07-01 10:32:20,2025-07-01 10:32:24,redacted_individual,notifs,<REDACTED>
+2025-07-01 10:32:25,2025-07-01 10:32:27,redacted_individual,notifs,<REDACTED>
+2025-07-04 11:22:50,2025-07-04 11:23:00,redacted_individual,notifs,<REDACTED>
+2025-07-04 11:22:51,2025-07-04 11:23:00,redacted_individual,notifs,<REDACTED>
+2025-07-04 11:22:57,2025-07-04 11:23:00,redacted_individual,notifs,<REDACTED>
+2025-07-05 11:22:20,2025-07-05 11:26:59,redacted_individual,notifs,<REDACTED>
+2025-07-05 11:22:21,2025-07-05 11:26:59,redacted_individual,notifs,<REDACTED>
+2025-07-05 11:22:30,2025-07-05 11:26:59,redacted_individual,notifs,<REDACTED>
+2025-08-01 12:36:13,2025-08-01 12:48:26,redacted_individual,notifs,<REDACTED>
+2025-08-01 12:36:13,2025-08-01 12:48:26,redacted_individual,notifs,<REDACTED>
+2025-08-01 12:36:17,2025-08-01 12:48:26,redacted_individual,notifs,<REDACTED>
+2025-08-03 10:25:11,2025-08-03 10:55:24,redacted_individual,notifs,<REDACTED>
+2025-08-03 10:25:11,2025-08-03 10:55:24,redacted_individual,notifs,<REDACTED>
+2025-08-03 10:25:13,2025-08-03 10:55:24,redacted_individual,notifs,<REDACTED>
+2025-08-04 10:40:32,2025-08-04 10:40:35,redacted_individual,notifs,<REDACTED>
+2025-08-04 10:40:33,2025-08-04 10:40:35,redacted_individual,notifs,<REDACTED>
+2025-08-04 10:40:37,2025-08-04 10:40:37,redacted_individual,notifs,<REDACTED>
+2025-08-05 11:07:59,2025-08-05 11:10:38,redacted_individual,notifs,<REDACTED>
+2025-08-05 11:08:00,2025-08-05 11:10:38,redacted_individual,notifs,<REDACTED>
+2025-08-05 11:08:03,2025-08-05 11:10:38,redacted_individual,notifs,<REDACTED>
+2025-08-06 11:51:36,2025-08-06 12:13:51,redacted_individual,notifs,<REDACTED>
+2025-08-06 11:51:40,2025-08-06 12:13:51,redacted_individual,notifs,<REDACTED>
+2025-08-06 11:52:36,2025-08-06 12:13:51,redacted_individual,notifs,<REDACTED>
+2025-08-07 12:02:24,2025-08-07 12:02:32,redacted_individual,notifs,<REDACTED>
+2025-08-07 12:02:25,2025-08-07 12:02:32,redacted_individual,notifs,<REDACTED>
+2025-08-07 12:02:37,2025-08-07 12:02:40,redacted_individual,notifs,<REDACTED>
+2025-08-08 12:40:09,2025-08-08 12:40:36,redacted_individual,notifs,<REDACTED>
+2025-08-08 12:40:10,2025-08-08 12:40:36,redacted_individual,notifs,<REDACTED>
+2025-08-08 12:40:18,2025-08-08 12:40:36,redacted_individual,notifs,<REDACTED>
+2025-08-10 10:50:58,2025-08-10 10:52:12,redacted_individual,notifs,<REDACTED>
+2025-08-10 10:50:58,2025-08-10 10:52:12,redacted_individual,notifs,<REDACTED>
+2025-08-10 10:51:03,2025-08-10 10:52:12,redacted_individual,notifs,<REDACTED>
+2025-08-04 13:09:17,2025-08-04 13:11:59,redacted_individual,notifs,<REDACTED>
+2025-08-04 13:09:42,2025-08-04 13:11:59,redacted_individual,notifs,<REDACTED>
+2025-07-30 09:07:04,2025-07-30 09:07:09,redacted_contact,notifs,<REDACTED>
+2025-07-29 10:36:19,2025-07-29 10:48:22,redacted_individual,notifs,<REDACTED>
+2025-07-28 10:54:25,2025-07-28 10:54:32,redacted_individual,notifs,<REDACTED>
+2025-07-28 13:59:21,2025-07-28 13:59:42,redacted_individual,notifs,<REDACTED>
+2025-07-11 10:08:51,2025-07-11 10:09:40,PMC,ads,"Form. Function. Earth-friendly.
+
+Get up to 20% off on Native Union products until July 31, 2025!
+
+Promo runs at all Power Mac Center and The Loop stores."
+2025-07-28 13:35:10,2025-07-28 13:35:12,PMC,ads,"Score up to P28,000 off on select Apple devices with GGives. 
+
+Visit Power Mac Center until August 31, 2025 to know more."
+2025-07-28 12:15:49,2025-07-28 12:16:18,redacted_individual,notifs,<REDACTED>
+2025-07-28 12:16:49,2025-07-28 12:16:53,redacted_individual,notifs,<REDACTED>
+2025-07-11 11:45:07,2025-07-11 11:46:17,PAGIBIGFUND,gov,"Hi, SCOTT. Good news! You are now qualified for a Pag-IBIG Multi-Purpose Loan (MPL). Apply now and receive your loan in as fast as 3 days! Enjoy low monthly payments and choose to pay your loan under a 2 or 3-year payment term. You may now file your loan application at any Pag-IBIG Fund branch or online by going to the Pag-IBIG Fund website> Virtual Pag-IBIG for Members> Apply for and Manage Loans> Apply for a Short-Term Loan. To know more about the Pag-IBIG Multi-Purpose Loan, you may call us at (02)87-244244, email us at contactus@pagibigfund.gov.ph, or chat with us by visiting our website. 'Yan ang Pag-IBIG Multi-Purpose Loan - Tulong na Maaasahan! "
+2025-07-25 15:23:56,2025-07-25 15:44:21,PAGIBIGFUND,gov,"Hi SCOTT! May extra cash ka na, may chance ka pang manalo sa LOAN-TO-WIN RAFFLE PROMO! Sa Pag-IBIG Multi-Purpose Loan, mas malaki na ang pwedeng mahiram at mas madali na rin mag-qualify! Mag-apply na ng Pag-IBIG Multi-Purpose Loan para makasali sa 2nd Raffle Draw sa 22 August 2025. For more details, visit our website then go to the LOAN-TO-WIN RAFFLE PROMO page. "
+2025-07-24 16:17:52,2025-07-24 16:18:11,redacted_individual,notifs,<REDACTED>
+2025-07-25 11:15:59,2025-07-25 11:16:32,redacted_individual,notifs,<REDACTED>
+2025-07-23 09:10:50,2025-07-23 09:16:29,redacted_individual,notifs,<REDACTED>
+2025-07-23 09:18:11,2025-07-23 09:21:38,redacted_individual,notifs,<REDACTED>
+2025-07-22 18:06:38,2025-07-22 18:19:57,redacted_business,notifs,<REDACTED>
+2025-07-22 18:28:09,2025-07-22 18:28:28,redacted_business,notifs,<REDACTED>
+2025-07-15 21:22:05,2025-07-15 21:22:06,redacted_business,notifs,<REDACTED>
+2025-07-15 21:22:12,2025-07-15 21:22:23,redacted_business,notifs,<REDACTED>
+2025-07-15 21:22:22,2025-07-15 21:22:23,redacted_business,notifs,<REDACTED>
+2025-07-15 21:22:31,2025-07-15 21:22:43,redacted_business,notifs,<REDACTED>
+2025-07-16 12:07:53,2025-07-16 12:07:57,redacted_business,notifs,<REDACTED>
+2025-07-22 08:05:44,2025-07-22 08:06:15,redacted_business,notifs,<REDACTED>
+2025-07-17 09:14:34,2025-07-17 09:16:22,redacted_business,notifs,<REDACTED>
+2025-07-21 09:06:30,2025-07-21 09:25:43,redacted_business,notifs,<REDACTED>
+2025-07-17 14:15:43,2025-07-17 14:16:49,redacted_business,notifs,<REDACTED>
+2025-07-17 12:43:15,2025-07-17 12:43:16,redacted_business,notifs,<REDACTED>
+2025-07-13 19:13:25,2025-07-13 21:50:54,redacted_business,notifs,<REDACTED>
+2025-07-13 21:31:45,2025-07-13 21:50:54,redacted_business,notifs,<REDACTED>
+2025-07-09 07:28:37,2025-07-09 07:30:51,redacted_contact,notifs,<REDACTED>
+2025-07-07 11:36:03,2025-07-07 11:36:29,redacted_individual,notifs,<REDACTED>
+2025-07-02 13:25:50,2025-07-02 13:25:52,SSS OTP,OTP,<REDACTED>
+2025-06-30 13:21:41,2025-06-30 13:21:46,redacted_individual,notifs,<REDACTED>
+2025-06-27 11:57:35,2025-06-27 12:00:20,GLOBECARE,ads,"Hi! Na-register mo na ba ang GFiber Prepaid account mo sa GlobeOne app?
+
+I-register na ang mobile number 09088949581 para magawa ang mga sumusunod:
+- Bumili o i-monitor ang status ng iyong GFiberSURF promos
+- Mag-earn at mag-redeem ng Rewards
+- Get Help and Support under HELP > GFiber Prepaid concerns
+
+Download the GlobeOne app now via the App Store or Google Play to register your GFiber Prepaid account!"
+2025-06-27 12:20:21,2025-06-27 12:28:35,GLOBECARE,ads,"We hope you are enjoying your FREE UNLI Internet gamit ang iyong GFiber Prepaid! Laging tandaan na makikita ang iyong WIFI name at password sa modem box kung saan ito ay isinulat ng aming Globe AT HOME Broadband Specialist. During the installation, pinaalalahanan din po kayo ng aming specialist na kuhanan ito ng litrato for future reference. Salamat!"
+2025-06-26 10:48:41,2025-06-26 10:49:44,redacted_individual,notifs,<REDACTED>
+2025-06-26 10:56:15,2025-06-26 10:56:17,redacted_individual,notifs,<REDACTED>
+2025-06-26 12:21:05,2025-06-26 12:21:08,redacted_individual,notifs,<REDACTED>
+2025-06-26 12:21:21,2025-06-26 12:21:21,redacted_individual,notifs,<REDACTED>
+2025-06-26 12:22:11,2025-06-26 12:22:11,redacted_individual,notifs,<REDACTED>
+2025-06-26 12:22:35,2025-06-26 12:22:35,redacted_individual,notifs,<REDACTED>
+2025-06-26 12:22:58,2025-06-26 12:22:58,redacted_individual,notifs,<REDACTED>
+2025-06-26 12:23:11,2025-06-26 12:23:11,redacted_individual,notifs,<REDACTED>
+2025-06-26 12:23:19,2025-06-26 12:23:19,redacted_individual,notifs,<REDACTED>
+2025-06-26 12:24:13,2025-06-26 12:24:14,redacted_individual,notifs,<REDACTED>
+2025-06-26 12:24:20,2025-06-26 12:24:20,redacted_individual,notifs,<REDACTED>
+2025-06-26 12:24:29,2025-06-26 12:24:29,redacted_individual,notifs,<REDACTED>
+2025-06-26 12:24:35,2025-06-26 12:24:35,redacted_individual,notifs,<REDACTED>
+2025-06-26 12:24:39,2025-06-26 12:24:39,redacted_individual,notifs,<REDACTED>
+2025-06-26 12:25:02,2025-06-26 12:25:03,redacted_individual,notifs,<REDACTED>
+2025-06-25 15:09:13,2025-06-25 15:09:46,redacted_individual,notifs,<REDACTED>
+2025-06-25 15:12:10,2025-06-25 15:12:12,redacted_individual,notifs,<REDACTED>
+2025-06-25 15:12:41,2025-06-25 15:12:41,redacted_individual,notifs,<REDACTED>
+2025-06-25 15:14:36,2025-06-25 15:18:02,redacted_individual,notifs,<REDACTED>
+2025-06-25 14:12:22,2025-06-25 14:26:44,redacted_business,notifs,<REDACTED>
+2025-06-23 15:01:49,2025-06-23 15:01:49,redacted_business,OTP,<REDACTED>
+2025-06-23 15:01:51,2025-06-23 15:06:44,redacted_business,notifs,<REDACTED>
+2025-06-23 15:01:53,2025-06-23 15:06:44,redacted_business,notifs,<REDACTED>
+2025-06-30 20:46:45,2025-07-01 08:49:58,redacted_business,notifs,<REDACTED>
+2025-07-10 15:06:23,2025-07-10 15:09:24,redacted_business,OTP,<REDACTED>
+2025-07-10 15:09:26,2025-07-10 15:09:26,redacted_business,OTP,<REDACTED>
+2025-07-29 14:05:30,2025-07-29 20:07:57,redacted_business,notifs,<REDACTED>
+2025-07-31 19:49:51,2025-07-31 20:06:09,redacted_business,notifs,<REDACTED>
+2025-08-07 19:39:03,2025-08-07 19:39:07,redacted_business,OTP,<REDACTED>
+2025-08-11 15:23:40,2025-08-11 15:45:25,redacted_business,notifs,<REDACTED>
+2025-08-27 16:53:30,2025-08-27 16:54:03,redacted_business,notifs,<REDACTED>
+2025-09-01 22:11:33,2025-09-02 07:48:41,redacted_business,notifs,<REDACTED>
+2025-09-10 14:10:38,2025-09-10 14:11:05,redacted_business,OTP,<REDACTED>
+2025-09-22 23:03:53,2025-09-23 13:31:32,redacted_business,notifs,<REDACTED>
+2025-09-30 09:08:08,2025-09-30 09:13:38,redacted_business,notifs,<REDACTED>
+2025-10-03 12:51:15,2025-10-03 14:11:39,redacted_business,notifs,<REDACTED>
+2025-10-11 13:17:16,2025-10-11 13:17:44,redacted_business,OTP,<REDACTED>
+2025-10-24 18:35:05,2025-10-24 19:40:45,redacted_business,notifs,<REDACTED>
+2025-10-30 21:06:23,2025-10-30 21:51:48,redacted_business,notifs,<REDACTED>
+2025-11-04 12:04:57,2025-11-04 12:05:00,redacted_business,OTP,<REDACTED>
+2025-11-08 05:29:08,2025-11-08 10:25:39,redacted_business,notifs,<REDACTED>
+2025-11-14 14:28:54,2025-11-14 14:38:53,redacted_business,notifs,<REDACTED>
+2025-12-03 08:52:02,2025-12-04 21:59:33,redacted_business,notifs,<REDACTED>
+2025-10-31 07:30:05,2025-10-31 21:27:03,redacted_business,notifs,<REDACTED>
+2025-11-05 08:43:30,2025-11-05 11:49:12,redacted_business,notifs,<REDACTED>
+2025-11-06 08:36:06,2025-11-06 10:41:23,redacted_business,notifs,<REDACTED>
+2025-11-12 09:09:38,2025-11-12 17:17:51,redacted_business,notifs,<REDACTED>
+2025-10-30 21:06:22,2025-10-30 21:51:35,redacted_business,notifs,<REDACTED>
+2025-10-30 21:06:23,2025-10-30 21:51:35,redacted_business,notifs,<REDACTED>
+2025-10-31 19:36:28,2025-10-31 21:27:00,redacted_business,notifs,<REDACTED>
+2025-11-01 20:06:27,2025-11-01 23:12:20,redacted_business,notifs,<REDACTED>
+2025-11-04 14:45:46,2025-11-04 15:17:20,redacted_business,notifs,<REDACTED>
+2025-11-04 14:47:31,2025-11-04 15:17:20,redacted_business,notifs,<REDACTED>
+2025-11-04 14:48:59,2025-11-04 15:17:20,redacted_business,notifs,<REDACTED>
+2025-11-06 10:40:38,2025-11-06 10:41:22,redacted_business,notifs,<REDACTED>
+2025-11-04 16:43:01,2025-11-04 17:08:30,redacted_business,notifs,<REDACTED>
+2025-06-23 14:58:52,2025-06-23 14:58:59,redacted_business,OTP,<REDACTED>
+2025-06-23 14:58:58,2025-06-23 14:58:59,redacted_business,notifs,<REDACTED>
+2025-06-23 14:59:20,2025-06-23 14:59:59,redacted_business,notifs,<REDACTED>
+2025-06-23 14:59:24,2025-06-23 14:59:59,redacted_business,notifs,<REDACTED>
+2025-06-23 17:30:36,2025-06-23 19:20:49,redacted_business,notifs,<REDACTED>
+2025-07-31 20:18:18,2025-08-01 08:47:10,redacted_business,notifs,<REDACTED>
+2025-08-28 19:42:00,2025-08-28 21:50:04,redacted_business,notifs,<REDACTED>
+2025-10-10 12:10:39,2025-10-11 13:17:16,redacted_business,notifs,<REDACTED>
+2025-10-10 12:10:39,2025-10-11 13:17:16,redacted_business,notifs,<REDACTED>
+2025-06-23 21:13:25,2025-06-23 21:13:27,redacted_business,OTP,<REDACTED>
+2025-06-23 21:17:49,2025-06-23 21:17:49,redacted_business,OTP,<REDACTED>
+2025-07-14 11:16:33,2025-07-14 13:49:51,redacted_business,notifs,<REDACTED>
+2025-09-10 14:15:22,2025-09-10 14:15:24,redacted_business,OTP,<REDACTED>
+2025-09-10 14:17:12,2025-09-10 14:17:12,redacted_business,OTP,<REDACTED>
+2025-08-11 11:18:56,2025-08-11 11:25:47,redacted_business,OTP,<REDACTED>
+2025-07-23 15:59:41,2025-07-24 18:25:56,redacted_business,notifs,<REDACTED>
+2025-07-13 23:28:58,2025-07-14 10:31:47,SMART,notifs,<REDACTED>
+2025-07-13 23:38:56,2025-07-14 10:31:47,SMART,notifs,<REDACTED>
+2025-07-22 17:33:06,2025-07-22 17:34:40,SMART,notifs,<REDACTED>
+2025-07-22 10:59:44,2025-07-22 17:34:36,redacted_individual,notifs,<REDACTED>
+2025-07-16 08:37:36,2025-07-16 21:51:35,BDO Deals,ads,"Get as much as P3,000 EXTRA savings with your BDO Credit Card!
+
+Shop at SM Store & SM Retail stores:
+10% OFF on BUY NOW PAY LATER
+5% OFF on straight purchase
+
+Promo runs on:
+July 16-20: SM North EDSA
+July 18-20: SM Masinag, Sucat and The Podium
+
+Search SM 3-Day Sale at BDO website for T&Cs. DTI230132"
+2025-07-16 10:23:26,2025-07-16 21:51:35,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest up to 36 months at BSD International, Techno Kid, Phoneville Mobile, Mobile World & more w/ your BDO Credit Card! Get P300 OFF + FREE JisuLife fan w/ P25K min spend until 08/31/25. 1st installment will be billed on your next SOA. Visit BDO Website for T&Cs DTI230348 225361"
+2025-07-17 10:42:48,2025-07-19 13:04:28,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest up to 24 mos at Fone Style w/ your BDO Credit Card! Get up to P6,300 OFF + FREE accessories w/ select smartphone purchase until 9/30/25. Plus, spend anywhere & earn up to P6K Cashback until 7/31/25. Enroll now. Visit BDO Website, search Fone Style for T&Cs DTI229692 225361"
+2025-07-17 12:44:53,2025-07-19 13:04:28,BDO Deals,ads,"BUY NOW PAY LATER at 0% interest up to 24 months at select Huawei Concept Stores w/ your BDO Credit Card! Get freebies w/ Huawei Mate X6 purchase until 9/30/25. Plus, spend anywhere & earn up to P6K Cashback until 7/31/25. Enrollment is required. Visit BDO Website, search HUAWEI for T&Cs DTI230113 225361"
+2025-07-18 14:44:42,2025-07-19 13:04:28,BDO Deals,ads,"Get P5K OFF on Samsung Galaxy Z Series pre-order when you BUY NOW PAY LATER at 0% interest up to 24 months via Lazada using your BDO Credit Card.
+
+Pre-order until July 31, 2025.
+
+1st installment will be billed on your next SOA from transaction date. Visit the BDO Website & search Lazada for T&Cs DTI230626"
+2025-07-21 10:05:58,2025-07-21 10:35:50,BDO Deals,ads,"30% OFF w/ BDO Cards at Gap, Old Navy & Banana Republic in-store and online! Use code BDODEALS til 7/31. 
+
+Search Gap at BDO web for T&C. DTI224181"
+2025-07-21 11:22:00,2025-07-21 19:01:35,BDO Deals,ads,"LAST CHANCE TO GET UP TO P6K CASHBACK!
+
+Enroll Promo ID 432A4649AA and keep using your BDO Credit Card anywhere until July 31:
+
+P200K = P6K Cashback
+P100K = P2.5K Cashback
+P40K = P1K Cashback
+Min of P1K per transaction
+
+For T&Cs, visit deals .bdo .com .ph and search SPEND ANYWHERE. DTI225361"
+2025-07-14 18:36:05,2025-07-15 19:28:27,GLOBEATHOME,ads,"Mayroon ka bang mga tanong or kailangan ng tulong sa iyong GFiber Prepaid account?
+
+I-chat lang ang Globe AT HOME sa Facebook Messenger o buksan ang GlobeOne app at i-tap ang Help > choose your GFiber Prepaid account > GFiber Prepaid concerns. Salamat!"
+2025-07-16 18:49:26,2025-07-16 21:51:37,GLOBEATHOME,ads,"Kung may concerns ka sa internet connection, subukan mag-basic troubleshooting sa GlobeOne app bago mag-request ng repair. I-tap ang Help > choose your GFiber Prepaid account > GFiber Prepaid concerns > Troubleshoot my device.
+
+Tandaan na hindi ka makaka-request ng repair kung wala kang active na UNLISurf promo. Salamat!"
+2025-07-18 10:17:35,2025-07-19 13:04:27,GLOBEATHOME,ads,"I-download ang GlobeOne app mula sa App Store or Google Play to get the best experience for your GFiber Prepaid account!
+
+Pwede kang bumili ng UNLISurf promos, mag-monitor ng iyong data usage, and get support via Help sa GlobeOne app.
+
+Kung ibang channels ang gamit mo, maaari ka din mag-load via GCash o sa inyong suking tindahan para tuloy tuloy ang pag-surf with your GFiber Prepaid account."
+2025-07-21 10:37:52,2025-07-21 10:59:20,GLOBEATHOME,ads,"Kumusta? May concerns ka ba lately? If you want to know more about GFiber Prepaid o kung may concern ka sa iyong account, pumunta lang sa GlobeOne app at i-tap ang Help > choose GFiber Prepaid account > GFiber Prepaid concerns > View FAQs."
+2025-07-15 09:06:20,2025-07-15 20:06:01,redacted_business,notifs,<REDACTED>
+2025-07-18 10:50:12,2025-07-19 13:04:30,redacted_business,notifs,<REDACTED>
+2025-07-19 13:01:15,2025-07-19 13:04:30,redacted_business,notifs,<REDACTED>
+2025-07-19 13:16:35,2025-07-19 13:16:40,redacted_business,notifs,<REDACTED>
+2025-07-21 09:23:50,2025-07-21 09:32:49,redacted_business,notifs,<REDACTED>
+2025-07-19 13:03:46,2025-07-19 13:04:23,redacted_business,notifs,<REDACTED>
+2025-07-19 13:08:29,2025-07-19 13:08:32,redacted_business,notifs,<REDACTED>
+2025-07-19 13:09:03,2025-07-19 13:09:06,redacted_business,notifs,<REDACTED>
+2025-07-19 13:10:57,2025-07-19 13:10:57,redacted_business,notifs,<REDACTED>
+2025-07-19 13:11:23,2025-07-19 13:11:33,redacted_business,notifs,<REDACTED>
+2025-07-19 13:12:05,2025-07-19 13:12:10,redacted_business,notifs,<REDACTED>
+2025-07-19 13:12:29,2025-07-19 13:12:31,redacted_business,notifs,<REDACTED>
+2025-07-19 13:12:51,2025-07-19 13:12:52,redacted_business,notifs,<REDACTED>
+2025-07-19 13:13:09,2025-07-19 13:13:30,redacted_business,notifs,<REDACTED>
+2025-07-19 13:03:55,2025-07-19 13:04:17,redacted_business,OTP,<REDACTED>
+2025-07-19 13:08:37,2025-07-19 13:08:41,redacted_business,OTP,<REDACTED>
+2025-07-19 13:11:03,2025-07-19 13:11:08,redacted_business,OTP,<REDACTED>
+2025-07-19 13:12:36,2025-07-19 13:12:37,redacted_business,OTP,<REDACTED>
+2025-06-23 08:53:05,2025-06-23 08:53:11,GCash,notifs,<REDACTED>
+2025-07-17 09:38:36,2025-07-19 13:04:24,GCash,notifs,<REDACTED>
+2025-07-14 15:32:06,2025-07-15 20:05:57,PMC,ads,"Join our Apple Academy Ambassador training on July 22 to 24 & 29 to 31, 2025 at Discovery Suites, Pasig. 
+
+Inquire at basecamp@powermaccenter.com. 
+
+*Fee applies."
+2025-07-15 14:07:45,2025-07-15 20:05:57,PMC,ads,"Join our 3D & AR iPad workshop on Aug 16, 1:30PM at SM Seaside Cebu, Cube Wing, 3/F. 
+
+Register at basecamp@powermaccenter.com. 
+
+*Fee applies."
+2025-07-15 11:57:22,2025-07-15 20:05:59,redacted_individual,notifs,<REDACTED>
+2025-07-15 11:57:22,2025-07-15 20:05:59,redacted_individual,notifs,<REDACTED>
+2025-07-15 11:57:25,2025-07-15 20:05:59,redacted_individual,notifs,<REDACTED>
+2025-07-14 12:33:40,2025-07-14 13:49:47,redacted_contact,notifs,<REDACTED>
 2025-06-18 16:16:06,2025-06-18 16:16:08,redacted_business,OTP,<REDACTED>
 2025-06-18 16:16:40,2025-06-18 16:16:40,redacted_business,OTP,<REDACTED>
 2025-06-20 15:30:17,2025-06-20 15:30:21,redacted_business,OTP,<REDACTED>
